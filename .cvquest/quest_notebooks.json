@@ -1,0 +1,3059 @@
+{
+  "version": 1,
+  "counts": {
+    "starter": 11,
+    "python-wrapper": 170,
+    "existing-notebook": 195,
+    "cpp-wrapper": 5
+  },
+  "quests": [
+    {
+      "id": 1,
+      "project": "2D_Gaussian_Splatting_Geometrically_Accurate_Radiance_Field_Reconstruction",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/001-2D_Gaussian_Splatting_Geometrically_Accurate_Radiance_Field_Reconstruction.ipynb",
+      "source_path": null,
+      "official_source": "https://github.com/hbb1/2d-gaussian-splatting"
+    },
+    {
+      "id": 2,
+      "project": "3D-Gaussian-Splatting-Code",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/002-3D-Gaussian-Splatting-Code.ipynb",
+      "source_path": "3D-Gaussian-Splatting-Code/gsplat/profiling/main.py",
+      "official_source": null
+    },
+    {
+      "id": 3,
+      "project": "3D-LiDAR-Object-Detection",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/003-3D-LiDAR-Object-Detection.ipynb",
+      "source_path": "3D-LiDAR-Object-Detection/sfa/test.py",
+      "official_source": null
+    },
+    {
+      "id": 4,
+      "project": "3D-LiDAR-Perception",
+      "kind": "existing-notebook",
+      "launch_path": "3D-LiDAR-Perception/3D-lidar-perception.ipynb",
+      "source_path": "3D-LiDAR-Perception/3D-lidar-perception.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 5,
+      "project": "A-Deep-Dive-into-Tensorflow-Model-Optimization",
+      "kind": "existing-notebook",
+      "launch_path": "A-Deep-Dive-into-Tensorflow-Model-Optimization/TensorFlow_Model_Optimization_Deeper_Dive_into_Model_Optimization.ipynb",
+      "source_path": "A-Deep-Dive-into-Tensorflow-Model-Optimization/TensorFlow_Model_Optimization_Deeper_Dive_into_Model_Optimization.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 6,
+      "project": "ADAS-Stereo-Vision",
+      "kind": "existing-notebook",
+      "launch_path": "ADAS-Stereo-Vision/scripts/inference-kitti.ipynb",
+      "source_path": "ADAS-Stereo-Vision/scripts/inference-kitti.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 7,
+      "project": "AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/007-AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats.ipynb",
+      "source_path": "AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats/__init__.py",
+      "official_source": null
+    },
+    {
+      "id": 8,
+      "project": "AI_for_Video_Understanding_From_Content_Moderation_to_Summarization",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/008-AI_for_Video_Understanding_From_Content_Moderation_to_Summarization.ipynb",
+      "source_path": "AI_for_Video_Understanding_From_Content_Moderation_to_Summarization/scripts/clip_nsfw.py",
+      "official_source": null
+    },
+    {
+      "id": 9,
+      "project": "ALPR",
+      "kind": "existing-notebook",
+      "launch_path": "ALPR/ALPR_inference.ipynb",
+      "source_path": "ALPR/ALPR_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 10,
+      "project": "AgeGender",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/010-AgeGender.ipynb",
+      "source_path": "AgeGender/AgeGender.py",
+      "official_source": null
+    },
+    {
+      "id": 11,
+      "project": "Agentic-AI-A-Comprehensive-Introduction",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/011-Agentic-AI-A-Comprehensive-Introduction.ipynb",
+      "source_path": "Agentic-AI-A-Comprehensive-Introduction/DIrectionX/services.py",
+      "official_source": null
+    },
+    {
+      "id": 12,
+      "project": "AlphaBlending",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/012-AlphaBlending.ipynb",
+      "source_path": "AlphaBlending/alphaBlend.py",
+      "official_source": null
+    },
+    {
+      "id": 13,
+      "project": "Annotated-NeRF",
+      "kind": "existing-notebook",
+      "launch_path": "Annotated-NeRF/nerf-pytorch/extract_mesh.ipynb",
+      "source_path": "Annotated-NeRF/nerf-pytorch/extract_mesh.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 14,
+      "project": "AnomalyCLIP_Harnessing_CLIP_for_Weakly_Supervised_Video_Anomaly_Recognition",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/014-AnomalyCLIP_Harnessing_CLIP_for_Weakly_Supervised_Video_Anomaly_Recognition.ipynb",
+      "source_path": "AnomalyCLIP_Harnessing_CLIP_for_Weakly_Supervised_Video_Anomaly_Recognition/infer_npy_pure.py",
+      "official_source": null
+    },
+    {
+      "id": 15,
+      "project": "Anti-Spoofing-Face-Recognition-with-OAK-D",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/015-Anti-Spoofing-Face-Recognition-with-OAK-D.ipynb",
+      "source_path": "Anti-Spoofing-Face-Recognition-with-OAK-D/collect_data.py",
+      "official_source": null
+    },
+    {
+      "id": 16,
+      "project": "Attention_Mechanism_Introduction",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/016-Attention_Mechanism_Introduction.ipynb",
+      "source_path": "Attention_Mechanism_Introduction/mhsa.py",
+      "official_source": null
+    },
+    {
+      "id": 17,
+      "project": "AugmentedRealityWithArucoMarkers",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/017-AugmentedRealityWithArucoMarkers.ipynb",
+      "source_path": "AugmentedRealityWithArucoMarkers/augmented_reality_with_aruco.py",
+      "official_source": null
+    },
+    {
+      "id": 18,
+      "project": "Autoencoder-in-TensorFlow",
+      "kind": "existing-notebook",
+      "launch_path": "Autoencoder-in-TensorFlow/AE_Cartoon_TensorFlow.ipynb",
+      "source_path": "Autoencoder-in-TensorFlow/AE_Cartoon_TensorFlow.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 19,
+      "project": "Automatic-Document-Scanner",
+      "kind": "existing-notebook",
+      "launch_path": "Automatic-Document-Scanner/Document_scanning.ipynb",
+      "source_path": "Automatic-Document-Scanner/Document_scanning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 20,
+      "project": "Automatic-Speech-Recognition-with-Diarization-Speech-to-Text",
+      "kind": "existing-notebook",
+      "launch_path": "Automatic-Speech-Recognition-with-Diarization-Speech-to-Text/ASR-Whisper_Transcription_+_NeMo_Diarization.ipynb",
+      "source_path": "Automatic-Speech-Recognition-with-Diarization-Speech-to-Text/ASR-Whisper_Transcription_+_NeMo_Diarization.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 21,
+      "project": "BERT-Bidirectional-Encoder-Representations-from-Transformers",
+      "kind": "existing-notebook",
+      "launch_path": "BERT-Bidirectional-Encoder-Representations-from-Transformers/BERT_Inference.ipynb",
+      "source_path": "BERT-Bidirectional-Encoder-Representations-from-Transformers/BERT_Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 22,
+      "project": "Background-Subtraction",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/022-Background-Subtraction.ipynb",
+      "source_path": "Background-Subtraction/background_subtr_bgslib.py",
+      "official_source": null
+    },
+    {
+      "id": 23,
+      "project": "Bag-Of-Tricks-For-Image-Classification",
+      "kind": "existing-notebook",
+      "launch_path": "Bag-Of-Tricks-For-Image-Classification/bag-of-tricks-colab.ipynb",
+      "source_path": "Bag-Of-Tricks-For-Image-Classification/bag-of-tricks-colab.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 24,
+      "project": "BatchNormalization",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/024-BatchNormalization.ipynb",
+      "source_path": "BatchNormalization/cifar10_cnn_100epochs.py",
+      "official_source": null
+    },
+    {
+      "id": 25,
+      "project": "BlobDetector",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/025-BlobDetector.ipynb",
+      "source_path": "BlobDetector/blob.py",
+      "official_source": null
+    },
+    {
+      "id": 26,
+      "project": "Build-a-Video-to-Slides-Converter-Application-using-the-Power-of-Background-Estimation-and-Frame-Differencing-in-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/026-Build-a-Video-to-Slides-Converter-Application-using-the-Power-of-Background-Estimation-and.ipynb",
+      "source_path": "Build-a-Video-to-Slides-Converter-Application-using-the-Power-of-Background-Estimation-and-Frame-Differencing-in-OpenCV/__init__.py",
+      "official_source": null
+    },
+    {
+      "id": 27,
+      "project": "Building MobileViT from Scratch in Keras 3",
+      "kind": "existing-notebook",
+      "launch_path": "Building MobileViT from Scratch in Keras 3/Keras3_MobileVIT_v1.ipynb",
+      "source_path": "Building MobileViT from Scratch in Keras 3/Keras3_MobileVIT_v1.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 28,
+      "project": "Building-An-Automated-Image-Annotation-Tool-PyOpenAnnotate",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/028-Building-An-Automated-Image-Annotation-Tool-PyOpenAnnotate.ipynb",
+      "source_path": "Building-An-Automated-Image-Annotation-Tool-PyOpenAnnotate/setup.py",
+      "official_source": null
+    },
+    {
+      "id": 29,
+      "project": "Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/029-Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2.ipynb",
+      "source_path": "Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2/src/vehicle_ctrl/setup.py",
+      "official_source": null
+    },
+    {
+      "id": 30,
+      "project": "CI",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/030-CI.ipynb",
+      "source_path": null,
+      "official_source": "https://docs.github.com/actions"
+    },
+    {
+      "id": 31,
+      "project": "CVPR-2024",
+      "kind": "existing-notebook",
+      "launch_path": "CVPR-2024/colab_demo_free_tier.ipynb",
+      "source_path": "CVPR-2024/colab_demo_free_tier.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 32,
+      "project": "CameraCalibration",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/032-CameraCalibration.ipynb",
+      "source_path": "CameraCalibration/calibration_utils.py",
+      "official_source": null
+    },
+    {
+      "id": 33,
+      "project": "CenterStage",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/033-CenterStage.ipynb",
+      "source_path": "CenterStage/main.py",
+      "official_source": null
+    },
+    {
+      "id": 34,
+      "project": "CenterofBlob",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/034-CenterofBlob.ipynb",
+      "source_path": "CenterofBlob/center_of_multiple_blob.py",
+      "official_source": null
+    },
+    {
+      "id": 35,
+      "project": "CharClassification",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/035-CharClassification.ipynb",
+      "source_path": "CharClassification/generate_images.py",
+      "official_source": null
+    },
+    {
+      "id": 36,
+      "project": "Chrome-Dino-Bot-using-OpenCV-feature-matching",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/036-Chrome-Dino-Bot-using-OpenCV-feature-matching.ipynb",
+      "source_path": "Chrome-Dino-Bot-using-OpenCV-feature-matching/Trex.py",
+      "official_source": null
+    },
+    {
+      "id": 37,
+      "project": "Classification-with-localization-convert-any-keras-classifier-into-a-detector",
+      "kind": "existing-notebook",
+      "launch_path": "Classification-with-localization-convert-any-keras-classifier-into-a-detector/[LearnOpenCV]_Classification_With_Localization_Notebook.ipynb",
+      "source_path": "Classification-with-localization-convert-any-keras-classifier-into-a-detector/[LearnOpenCV]_Classification_With_Localization_Notebook.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 38,
+      "project": "ColorSpaces",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/038-ColorSpaces.ipynb",
+      "source_path": "ColorSpaces/color_spaces.py",
+      "official_source": null
+    },
+    {
+      "id": 39,
+      "project": "Colorization",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/039-Colorization.ipynb",
+      "source_path": "Colorization/colorization.py",
+      "official_source": null
+    },
+    {
+      "id": 40,
+      "project": "Colormap",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/040-Colormap.ipynb",
+      "source_path": "Colormap/colormap.py",
+      "official_source": null
+    },
+    {
+      "id": 41,
+      "project": "ComfyUI",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/041-ComfyUI.ipynb",
+      "source_path": null,
+      "official_source": "https://docs.comfy.org/"
+    },
+    {
+      "id": 42,
+      "project": "Comparing-KerasCV-YOLOv8-Models-on-the-Global-Wheat-Data-2020",
+      "kind": "existing-notebook",
+      "launch_path": "Comparing-KerasCV-YOLOv8-Models-on-the-Global-Wheat-Data-2020/KerasCV YOLOv8 large Fine-tuning.ipynb",
+      "source_path": "Comparing-KerasCV-YOLOv8-Models-on-the-Global-Wheat-Data-2020/KerasCV YOLOv8 large Fine-tuning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 43,
+      "project": "Conditional-GAN-PyTorch-TensorFlow",
+      "kind": "existing-notebook",
+      "launch_path": "Conditional-GAN-PyTorch-TensorFlow/PyTorch/CGAN-PyTorch.ipynb",
+      "source_path": "Conditional-GAN-PyTorch-TensorFlow/PyTorch/CGAN-PyTorch.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 44,
+      "project": "Contour-Detection-using-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/044-Contour-Detection-using-OpenCV.ipynb",
+      "source_path": "Contour-Detection-using-OpenCV/python/channel_experiments/channel_experiments.py",
+      "official_source": null
+    },
+    {
+      "id": 45,
+      "project": "Contrastive-Learning-SimCLR-and-BYOL",
+      "kind": "existing-notebook",
+      "launch_path": "Contrastive-Learning-SimCLR-and-BYOL/byol-implementation/byol/BYOL_Implementation_in_Pytorch.ipynb",
+      "source_path": "Contrastive-Learning-SimCLR-and-BYOL/byol-implementation/byol/BYOL_Implementation_in_Pytorch.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 46,
+      "project": "ControlNet-Achieving-Superior-Image-Generation-Results",
+      "kind": "existing-notebook",
+      "launch_path": "ControlNet-Achieving-Superior-Image-Generation-Results/ControlNet.ipynb",
+      "source_path": "ControlNet-Achieving-Superior-Image-Generation-Results/ControlNet.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 47,
+      "project": "ConvexHull",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/047-ConvexHull.ipynb",
+      "source_path": "ConvexHull/example.py",
+      "official_source": null
+    },
+    {
+      "id": 48,
+      "project": "Cosmos-Reason1-Video-Understanding",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/048-Cosmos-Reason1-Video-Understanding.ipynb",
+      "source_path": "Cosmos-Reason1-Video-Understanding/cosmos_inference.py",
+      "official_source": null
+    },
+    {
+      "id": 49,
+      "project": "Create-AR-filters-using-Mediapipe",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/049-Create-AR-filters-using-Mediapipe.ipynb",
+      "source_path": "Create-AR-filters-using-Mediapipe/apply_filter.py",
+      "official_source": null
+    },
+    {
+      "id": 50,
+      "project": "Creating-a-Virtual-Pen-and-Eraser",
+      "kind": "existing-notebook",
+      "launch_path": "Creating-a-Virtual-Pen-and-Eraser/Creating_a_Virtual_Pen_and_Eraser.ipynb",
+      "source_path": "Creating-a-Virtual-Pen-and-Eraser/Creating_a_Virtual_Pen_and_Eraser.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 51,
+      "project": "Custom-Object-Detection-Training-using-YOLOv5",
+      "kind": "existing-notebook",
+      "launch_path": "Custom-Object-Detection-Training-using-YOLOv5/Custom_Object_Detection_using_YOLOv5.ipynb",
+      "source_path": "Custom-Object-Detection-Training-using-YOLOv5/Custom_Object_Detection_using_YOLOv5.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 52,
+      "project": "DDIM-The-Faster-Improved-Version-of-DDPM-for-Efficient-AI-Image-Generation",
+      "kind": "existing-notebook",
+      "launch_path": "DDIM-The-Faster-Improved-Version-of-DDPM-for-Efficient-AI-Image-Generation/ddim_inference.ipynb",
+      "source_path": "DDIM-The-Faster-Improved-Version-of-DDPM-for-Efficient-AI-Image-Generation/ddim_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 53,
+      "project": "DETR-Overview_and_Inference",
+      "kind": "existing-notebook",
+      "launch_path": "DETR-Overview_and_Inference/DETR_INFERENCE.ipynb",
+      "source_path": "DETR-Overview_and_Inference/DETR_INFERENCE.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 54,
+      "project": "DINOv2_by_Meta_A_Self-Supervised_foundational_vision_model",
+      "kind": "existing-notebook",
+      "launch_path": "DINOv2_by_Meta_A_Self-Supervised_foundational_vision_model/inferencing_with_pretrained_dinov2_base.ipynb",
+      "source_path": "DINOv2_by_Meta_A_Self-Supervised_foundational_vision_model/inferencing_with_pretrained_dinov2_base.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 55,
+      "project": "DNN-OpenCV-Classification-Android",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/055-DNN-OpenCV-Classification-Android.ipynb",
+      "source_path": "DNN-OpenCV-Classification-Android/Mobilenetv2ToOnnx.py",
+      "official_source": null
+    },
+    {
+      "id": 56,
+      "project": "DNN-OpenCV-Classification-with-Java",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/056-DNN-OpenCV-Classification-with-Java.ipynb",
+      "source_path": "DNN-OpenCV-Classification-with-Java/Mobilenetv2ToOnnx.py",
+      "official_source": null
+    },
+    {
+      "id": 57,
+      "project": "DUSt3R-Dense-3D-Reconstruction",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/057-DUSt3R-Dense-3D-Reconstruction.ipynb",
+      "source_path": null,
+      "official_source": "https://github.com/naver/dust3r"
+    },
+    {
+      "id": 58,
+      "project": "Deciphering-LLMs",
+      "kind": "existing-notebook",
+      "launch_path": "Deciphering-LLMs/LLM_evaluation.ipynb",
+      "source_path": "Deciphering-LLMs/LLM_evaluation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 59,
+      "project": "Decoding-Virats-Flick-Shot",
+      "kind": "existing-notebook",
+      "launch_path": "Decoding-Virats-Flick-Shot/bat_swing_plane_v2.ipynb",
+      "source_path": "Decoding-Virats-Flick-Shot/bat_swing_plane_v2.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 60,
+      "project": "Deep-Convolutional-GAN",
+      "kind": "existing-notebook",
+      "launch_path": "Deep-Convolutional-GAN/PyTorch/DCGAN_Anime_Pytorch.ipynb",
+      "source_path": "Deep-Convolutional-GAN/PyTorch/DCGAN_Anime_Pytorch.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 61,
+      "project": "Deep-Learning-with-OpenCV-DNN-Module",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/061-Deep-Learning-with-OpenCV-DNN-Module.ipynb",
+      "source_path": "Deep-Learning-with-OpenCV-DNN-Module/python/classification/classify.py",
+      "official_source": null
+    },
+    {
+      "id": 62,
+      "project": "Delaunay",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/062-Delaunay.ipynb",
+      "source_path": "Delaunay/delaunay.py",
+      "official_source": null
+    },
+    {
+      "id": 63,
+      "project": "DenoisingAutoencoder",
+      "kind": "existing-notebook",
+      "launch_path": "DenoisingAutoencoder/Denoising-Autoencoder-using-Tensorflow.ipynb",
+      "source_path": "DenoisingAutoencoder/Denoising-Autoencoder-using-Tensorflow.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 64,
+      "project": "Deploying-ML-Models-on-Arduino-From-Blink-to-Think",
+      "kind": "existing-notebook",
+      "launch_path": "Deploying-ML-Models-on-Arduino-From-Blink-to-Think/Digit Classifier CNN Training/Digit_Classifier_CNN_Augmentation_3.ipynb",
+      "source_path": "Deploying-ML-Models-on-Arduino-From-Blink-to-Think/Digit Classifier CNN Training/Digit_Classifier_CNN_Augmentation_3.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 65,
+      "project": "Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/065-Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio.ipynb",
+      "source_path": "Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio/huggingface_files/app.py",
+      "official_source": null
+    },
+    {
+      "id": 66,
+      "project": "Deployment-on-Edge-LLM-Serving-on-Jetson-using-vLLM",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/066-Deployment-on-Edge-LLM-Serving-on-Jetson-using-vLLM.ipynb",
+      "source_path": "Deployment-on-Edge-LLM-Serving-on-Jetson-using-vLLM/app/main.py",
+      "official_source": null
+    },
+    {
+      "id": 67,
+      "project": "Depth-Anything",
+      "kind": "existing-notebook",
+      "launch_path": "Depth-Anything/depth-anything-inference.ipynb",
+      "source_path": "Depth-Anything/depth-anything-inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 68,
+      "project": "Depth-Perception-Using-Stereo-Camera",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/068-Depth-Perception-Using-Stereo-Camera.ipynb",
+      "source_path": "Depth-Perception-Using-Stereo-Camera/python/disparity2depth_calib.py",
+      "official_source": null
+    },
+    {
+      "id": 69,
+      "project": "DepthPro-Monocular-Metric-Depth",
+      "kind": "existing-notebook",
+      "launch_path": "DepthPro-Monocular-Metric-Depth/Applications-with-Depth/depthToPointCloud.ipynb",
+      "source_path": "DepthPro-Monocular-Metric-Depth/Applications-with-Depth/depthToPointCloud.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 70,
+      "project": "Disparity-Estimation-Using-Deep-Learning",
+      "kind": "existing-notebook",
+      "launch_path": "Disparity-Estimation-Using-Deep-Learning/PSMNet_Test_Example.ipynb",
+      "source_path": "Disparity-Estimation-Using-Deep-Learning/PSMNet_Test_Example.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 71,
+      "project": "Distributed-Training-PyTorch",
+      "kind": "existing-notebook",
+      "launch_path": "Distributed-Training-PyTorch/kaggle-t4-x2-distributed-data-parallelddp-tutorial.ipynb",
+      "source_path": "Distributed-Training-PyTorch/kaggle-t4-x2-distributed-data-parallelddp-tutorial.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 72,
+      "project": "Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3",
+      "kind": "existing-notebook",
+      "launch_path": "Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3/Custom_training_deeplabv3_mbv3.ipynb",
+      "source_path": "Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3/Custom_training_deeplabv3_mbv3.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 73,
+      "project": "Dreambooth_using_Diffusers",
+      "kind": "existing-notebook",
+      "launch_path": "Dreambooth_using_Diffusers/Dreambooth_Training.ipynb",
+      "source_path": "Dreambooth_using_Diffusers/Dreambooth_Training.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 74,
+      "project": "Driver-Drowsiness-detection-using-Mediapipe-in-Python",
+      "kind": "existing-notebook",
+      "launch_path": "Driver-Drowsiness-detection-using-Mediapipe-in-Python/Blog-Code-Demo.ipynb",
+      "source_path": "Driver-Drowsiness-detection-using-Mediapipe-in-Python/Blog-Code-Demo.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 75,
+      "project": "Drone-Programming-With-Computer-Vision-A-Beginners-Guide",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/075-Drone-Programming-With-Computer-Vision-A-Beginners-Guide.ipynb",
+      "source_path": "Drone-Programming-With-Computer-Vision-A-Beginners-Guide/Tello.py",
+      "official_source": null
+    },
+    {
+      "id": 76,
+      "project": "Edge-Detection-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/076-Edge-Detection-OpenCV.ipynb",
+      "source_path": "Edge-Detection-OpenCV/edge_detection.py",
+      "official_source": null
+    },
+    {
+      "id": 77,
+      "project": "Efficient-Background-Removal-using-U2-Net",
+      "kind": "existing-notebook",
+      "launch_path": "Efficient-Background-Removal-using-U2-Net/IS_Net_Model_Inference.ipynb",
+      "source_path": "Efficient-Background-Removal-using-U2-Net/IS_Net_Model_Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 78,
+      "project": "Efficient-image-loading",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/078-Efficient-image-loading.ipynb",
+      "source_path": "Efficient-image-loading/__init__.py",
+      "official_source": null
+    },
+    {
+      "id": 79,
+      "project": "EfficientNet",
+      "kind": "existing-notebook",
+      "launch_path": "EfficientNet/EfficientNet_ResNet50.ipynb",
+      "source_path": "EfficientNet/EfficientNet_ResNet50.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 80,
+      "project": "EigenFace",
+      "kind": "existing-notebook",
+      "launch_path": "EigenFace/EigenFace.ipynb",
+      "source_path": "EigenFace/EigenFace.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 81,
+      "project": "EpipolarGeometryAndStereoVision",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/081-EpipolarGeometryAndStereoVision.ipynb",
+      "source_path": "EpipolarGeometryAndStereoVision/stereo.py",
+      "official_source": null
+    },
+    {
+      "id": 82,
+      "project": "Exploring-DINO-dino-road-segmentation",
+      "kind": "existing-notebook",
+      "launch_path": "Exploring-DINO-dino-road-segmentation/data_prep.ipynb",
+      "source_path": "Exploring-DINO-dino-road-segmentation/data_prep.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 83,
+      "project": "Exploring-Slicing-Aided-Hyper-Inference",
+      "kind": "existing-notebook",
+      "launch_path": "Exploring-Slicing-Aided-Hyper-Inference/sahi_yolov8_inference.ipynb",
+      "source_path": "Exploring-Slicing-Aided-Hyper-Inference/sahi_yolov8_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 84,
+      "project": "ExposureFusion",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/084-ExposureFusion.ipynb",
+      "source_path": "ExposureFusion/exposureFusion.py",
+      "official_source": null
+    },
+    {
+      "id": 85,
+      "project": "FBAMatting",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/085-FBAMatting.ipynb",
+      "source_path": "FBAMatting/demo.py",
+      "official_source": null
+    },
+    {
+      "id": 86,
+      "project": "FCOS-Inference-using-PyTorch",
+      "kind": "existing-notebook",
+      "launch_path": "FCOS-Inference-using-PyTorch/pytorch_fcos_inference.ipynb",
+      "source_path": "FCOS-Inference-using-PyTorch/pytorch_fcos_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 87,
+      "project": "FPS",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/087-FPS.ipynb",
+      "source_path": "FPS/frame_rate.py",
+      "official_source": null
+    },
+    {
+      "id": 88,
+      "project": "Face-Recognition-with-ArcFace",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/088-Face-Recognition-with-ArcFace.ipynb",
+      "source_path": "Face-Recognition-with-ArcFace/backbone.py",
+      "official_source": null
+    },
+    {
+      "id": 89,
+      "project": "FaceAverage",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/089-FaceAverage.ipynb",
+      "source_path": "FaceAverage/faceAverage.py",
+      "official_source": null
+    },
+    {
+      "id": 90,
+      "project": "FaceBlurPixelate",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/090-FaceBlurPixelate.ipynb",
+      "source_path": "FaceBlurPixelate/yunet_webcam_face_blur.py",
+      "official_source": null
+    },
+    {
+      "id": 91,
+      "project": "FaceDetectionComparison",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/091-FaceDetectionComparison.ipynb",
+      "source_path": "FaceDetectionComparison/download_models.py",
+      "official_source": null
+    },
+    {
+      "id": 92,
+      "project": "FaceMaskOverlay",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/092-FaceMaskOverlay.ipynb",
+      "source_path": "FaceMaskOverlay/tools/test.py",
+      "official_source": null
+    },
+    {
+      "id": 93,
+      "project": "FaceMorph",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/093-FaceMorph.ipynb",
+      "source_path": "FaceMorph/faceMorph.py",
+      "official_source": null
+    },
+    {
+      "id": 94,
+      "project": "FaceSwap",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/094-FaceSwap.ipynb",
+      "source_path": "FaceSwap/faceSwap.py",
+      "official_source": null
+    },
+    {
+      "id": 95,
+      "project": "Facial-Emotion-Recognition",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/095-Facial-Emotion-Recognition.ipynb",
+      "source_path": "Facial-Emotion-Recognition/expression_ssd_detect.py",
+      "official_source": null
+    },
+    {
+      "id": 96,
+      "project": "FacialAttractiveness",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/096-FacialAttractiveness.ipynb",
+      "source_path": "FacialAttractiveness/source/cross_validation.py",
+      "official_source": null
+    },
+    {
+      "id": 97,
+      "project": "FacialLandmarkDetection",
+      "kind": "cpp-wrapper",
+      "launch_path": ".cvquest/notebooks/097-FacialLandmarkDetection.ipynb",
+      "source_path": "FacialLandmarkDetection/facialLandmarkDetection.cpp",
+      "official_source": null
+    },
+    {
+      "id": 98,
+      "project": "Feature-Matching-Using-Neural-Networks",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/098-Feature-Matching-Using-Neural-Networks.ipynb",
+      "source_path": null,
+      "official_source": "https://learnopencv.com/feature-matching/introduction-to-feature-matching-in-neural-networks/"
+    },
+    {
+      "id": 99,
+      "project": "Federated-Learning-Intro",
+      "kind": "existing-notebook",
+      "launch_path": "Federated-Learning-Intro/Federated_Learning_Tutorial.ipynb",
+      "source_path": "Federated-Learning-Intro/Federated_Learning_Tutorial.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 100,
+      "project": "Fine-Tuning-AnomalyCLIP",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/100-Fine-Tuning-AnomalyCLIP.ipynb",
+      "source_path": "Fine-Tuning-AnomalyCLIP/test.py",
+      "official_source": null
+    },
+    {
+      "id": 101,
+      "project": "Fine-Tuning-BERT-using-Hugging-Face-Transformers",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-BERT-using-Hugging-Face-Transformers/Arxiv_BERT_Training.ipynb",
+      "source_path": "Fine-Tuning-BERT-using-Hugging-Face-Transformers/Arxiv_BERT_Training.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 102,
+      "project": "Fine-Tuning-Gemma-3-VLM-using-QLoRA-for-LaTeX-OCR-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-Gemma-3-VLM-using-QLoRA-for-LaTeX-OCR-Dataset/finetune_gemma3_latex.ipynb",
+      "source_path": "Fine-Tuning-Gemma-3-VLM-using-QLoRA-for-LaTeX-OCR-Dataset/finetune_gemma3_latex.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 103,
+      "project": "Fine-Tuning-Grounding-DINO-Open-Vocabulary-Object-Detection",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/103-Fine-Tuning-Grounding-DINO-Open-Vocabulary-Object-Detection.ipynb",
+      "source_path": "Fine-Tuning-Grounding-DINO-Open-Vocabulary-Object-Detection/create_annotations_final.py",
+      "official_source": null
+    },
+    {
+      "id": 104,
+      "project": "Fine-Tuning-LLMs-using-PEFT",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-LLMs-using-PEFT/LoRA_on_samsum.ipynb",
+      "source_path": "Fine-Tuning-LLMs-using-PEFT/LoRA_on_samsum.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 105,
+      "project": "Fine-Tuning-SegFormer-For-Lane-Detection",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-SegFormer-For-Lane-Detection/Fine-Tune-SegFormer-BDD.ipynb",
+      "source_path": "Fine-Tuning-SegFormer-For-Lane-Detection/Fine-Tune-SegFormer-BDD.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 106,
+      "project": "Fine-Tuning-T5-Text2Text-Transformer-for-Strack-Overflow-Tag-Generation",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-T5-Text2Text-Transformer-for-Strack-Overflow-Tag-Generation/T5Small_Tag_Generator.ipynb",
+      "source_path": "Fine-Tuning-T5-Text2Text-Transformer-for-Strack-Overflow-Tag-Generation/T5Small_Tag_Generator.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 107,
+      "project": "Fine-Tuning-TrOCR",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-TrOCR/Fine_Tune_TrOCR_Curve_Text_Seq2SeqTraining_Printed.ipynb",
+      "source_path": "Fine-Tuning-TrOCR/Fine_Tune_TrOCR_Curve_Text_Seq2SeqTraining_Printed.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 108,
+      "project": "Fine-Tuning-Whisper-on-Custom-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-Whisper-on-Custom-Dataset/fine_tune_whisper_base_atco2.ipynb",
+      "source_path": "Fine-Tuning-Whisper-on-Custom-Dataset/fine_tune_whisper_base_atco2.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 109,
+      "project": "Fine-Tuning-YOLO26-Models-Custom-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-YOLO26-Models-Custom-Dataset/Fine_Tune_YOLO26_ASL_SignLanguage.ipynb",
+      "source_path": "Fine-Tuning-YOLO26-Models-Custom-Dataset/Fine_Tune_YOLO26_ASL_SignLanguage.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 110,
+      "project": "Fine-Tuning-YOLOv10-Models-Custom-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-YOLOv10-Models-Custom-Dataset/Fine-Tuning-YOLOv10.ipynb",
+      "source_path": "Fine-Tuning-YOLOv10-Models-Custom-Dataset/Fine-Tuning-YOLOv10.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 111,
+      "project": "Fine-Tuning-YOLOv12-Comparison-With-YOLOv11-And-YOLOv7-Based-Darknet",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-YOLOv12-Comparison-With-YOLOv11-And-YOLOv7-Based-Darknet/YOLOv11_fine_tuning.ipynb",
+      "source_path": "Fine-Tuning-YOLOv12-Comparison-With-YOLOv11-And-YOLOv7-Based-Darknet/YOLOv11_fine_tuning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 112,
+      "project": "Fine-Tuning-YOLOv7",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-YOLOv7/jupyter_notebook/yolov7_pothole_detection.ipynb",
+      "source_path": "Fine-Tuning-YOLOv7/jupyter_notebook/yolov7_pothole_detection.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 113,
+      "project": "Fine-Tuning-YOLOv9-Models-Custom-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-Tuning-YOLOv9-Models-Custom-Dataset/yolov9-fine-tuning.ipynb",
+      "source_path": "Fine-Tuning-YOLOv9-Models-Custom-Dataset/yolov9-fine-tuning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 114,
+      "project": "Fine-tuning-Faster-R-CNN-on-SeaRescue-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-tuning-Faster-R-CNN-on-SeaRescue-Dataset/Final_Mobilenet_5e_4_FasterRCNN.ipynb",
+      "source_path": "Fine-tuning-Faster-R-CNN-on-SeaRescue-Dataset/Final_Mobilenet_5e_4_FasterRCNN.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 115,
+      "project": "Fine-tuning-RF-DETR",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/115-Fine-tuning-RF-DETR.ipynb",
+      "source_path": "Fine-tuning-RF-DETR/scripts/inferencing_with_RFDETR.py",
+      "official_source": null
+    },
+    {
+      "id": 116,
+      "project": "Fine-tuning-Stable-Diffusion-3_5-UI-images",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-tuning-Stable-Diffusion-3_5-UI-images/scripts/data_sd3_5_medium.ipynb",
+      "source_path": "Fine-tuning-Stable-Diffusion-3_5-UI-images/scripts/data_sd3_5_medium.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 117,
+      "project": "Fine-tuning-YOLOv8-Pose-Models-for-Animal-Pose-Estimation",
+      "kind": "existing-notebook",
+      "launch_path": "Fine-tuning-YOLOv8-Pose-Models-for-Animal-Pose-Estimation/Animal_Pose_Estimation_using_YOLOv8.ipynb",
+      "source_path": "Fine-tuning-YOLOv8-Pose-Models-for-Animal-Pose-Estimation/Animal_Pose_Estimation_using_YOLOv8.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 118,
+      "project": "Flux-Image-Generation",
+      "kind": "existing-notebook",
+      "launch_path": "Flux-Image-Generation/flux_inference_scripts/flux_inference_script/flux_fashion_prompts.ipynb",
+      "source_path": "Flux-Image-Generation/flux_inference_scripts/flux_inference_script/flux_fashion_prompts.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 119,
+      "project": "FramePack-Video-Diffusion-but-feels-like-Image-Diffusion",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/119-FramePack-Video-Diffusion-but-feels-like-Image-Diffusion.ipynb",
+      "source_path": "FramePack-Video-Diffusion-but-feels-like-Image-Diffusion/inference.py",
+      "official_source": null
+    },
+    {
+      "id": 120,
+      "project": "FunnyMirrors",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/120-FunnyMirrors.ipynb",
+      "source_path": "FunnyMirrors/FunnyMirrorsImages.py",
+      "official_source": null
+    },
+    {
+      "id": 121,
+      "project": "GOTURN",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/121-GOTURN.ipynb",
+      "source_path": "GOTURN/goturnTracker.py",
+      "official_source": null
+    },
+    {
+      "id": 122,
+      "project": "Getting-Started-OpenCV-CUDA-Module",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/122-Getting-Started-OpenCV-CUDA-Module.ipynb",
+      "source_path": "Getting-Started-OpenCV-CUDA-Module/demo.py",
+      "official_source": null
+    },
+    {
+      "id": 123,
+      "project": "Getting-Started-with-VLM-on-Jetson-Nano",
+      "kind": "existing-notebook",
+      "launch_path": "Getting-Started-with-VLM-on-Jetson-Nano/Notebooks/FastVLM-1.5B from Apple.ipynb",
+      "source_path": "Getting-Started-with-VLM-on-Jetson-Nano/Notebooks/FastVLM-1.5B from Apple.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 124,
+      "project": "Getting-Started-with-YOLOv5-Instance-Segmentation",
+      "kind": "existing-notebook",
+      "launch_path": "Getting-Started-with-YOLOv5-Instance-Segmentation/yolov5_segmentation.ipynb",
+      "source_path": "Getting-Started-with-YOLOv5-Instance-Segmentation/yolov5_segmentation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 125,
+      "project": "GradCAM-Enhancing-Neural-Network-Interpretability",
+      "kind": "existing-notebook",
+      "launch_path": "GradCAM-Enhancing-Neural-Network-Interpretability/01-Fine-Tune-EfficientNetv2-small-on-Brain-MRI.ipynb",
+      "source_path": "GradCAM-Enhancing-Neural-Network-Interpretability/01-Fine-Tune-EfficientNetv2-small-on-Brain-MRI.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 126,
+      "project": "Graph-Convolutional-Networks-Model-Relations-In-Data",
+      "kind": "existing-notebook",
+      "launch_path": "Graph-Convolutional-Networks-Model-Relations-In-Data/graph_convolutional_networks_model_relations_in_data.ipynb",
+      "source_path": "Graph-Convolutional-Networks-Model-Relations-In-Data/graph_convolutional_networks_model_relations_in_data.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 127,
+      "project": "Graphrag-Medical-Document-Analysis",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/127-Graphrag-Medical-Document-Analysis.ipynb",
+      "source_path": "Graphrag-Medical-Document-Analysis/neo4j_aura.py",
+      "official_source": null
+    },
+    {
+      "id": 128,
+      "project": "Guide-to-training-DDPMs-from-Scratch",
+      "kind": "existing-notebook",
+      "launch_path": "Guide-to-training-DDPMs-from-Scratch/Generating_flowers_using_DDPMs.ipynb",
+      "source_path": "Guide-to-training-DDPMs-from-Scratch/Generating_flowers_using_DDPMs.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 129,
+      "project": "HandPose",
+      "kind": "existing-notebook",
+      "launch_path": "HandPose/handPose-Notebook.ipynb",
+      "source_path": "HandPose/handPose-Notebook.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 130,
+      "project": "Handwritten_Text_Recognition_using_OCR",
+      "kind": "existing-notebook",
+      "launch_path": "Handwritten_Text_Recognition_using_OCR/Fine_Tune_TrOCR_Handwritten.ipynb",
+      "source_path": "Handwritten_Text_Recognition_using_OCR/Fine_Tune_TrOCR_Handwritten.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 131,
+      "project": "Hangman",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/131-Hangman.ipynb",
+      "source_path": "Hangman/main.py",
+      "official_source": null
+    },
+    {
+      "id": 132,
+      "project": "HeadPose",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/132-HeadPose.ipynb",
+      "source_path": "HeadPose/headPose.py",
+      "official_source": null
+    },
+    {
+      "id": 133,
+      "project": "Histogram-of-Oriented-Gradients",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/133-Histogram-of-Oriented-Gradients.ipynb",
+      "source_path": "Histogram-of-Oriented-Gradients/hog.py",
+      "official_source": null
+    },
+    {
+      "id": 134,
+      "project": "Holes",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/134-Holes.ipynb",
+      "source_path": "Holes/imfill.py",
+      "official_source": null
+    },
+    {
+      "id": 135,
+      "project": "Homography",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/135-Homography.ipynb",
+      "source_path": "Homography/homography.py",
+      "official_source": null
+    },
+    {
+      "id": 136,
+      "project": "Hough-Transform",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/136-Hough-Transform.ipynb",
+      "source_path": "Hough-Transform/hough_circles.py",
+      "official_source": null
+    },
+    {
+      "id": 137,
+      "project": "How_to_Build_a_GitHub_Code_Analyser_Agent_for_Developer_Productivity",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/137-How_to_Build_a_GitHub_Code_Analyser_Agent_for_Developer_Productivity.ipynb",
+      "source_path": null,
+      "official_source": "https://docs.langchain.com/oss/python/deepagents/code/overview"
+    },
+    {
+      "id": 138,
+      "project": "HuMoments",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/138-HuMoments.ipynb",
+      "source_path": "HuMoments/HuMoments.py",
+      "official_source": null
+    },
+    {
+      "id": 139,
+      "project": "Human-Action-Recognition-Using-Detectron2-And-Lstm",
+      "kind": "existing-notebook",
+      "launch_path": "Human-Action-Recognition-Using-Detectron2-And-Lstm/human_action_classification.ipynb",
+      "source_path": "Human-Action-Recognition-Using-Detectron2-And-Lstm/human_action_classification.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 140,
+      "project": "Image-Captioning-using-ResNet-and-LSTM",
+      "kind": "existing-notebook",
+      "launch_path": "Image-Captioning-using-ResNet-and-LSTM/train.ipynb",
+      "source_path": "Image-Captioning-using-ResNet-and-LSTM/train.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 141,
+      "project": "Image-Classification-in-PyTorch",
+      "kind": "existing-notebook",
+      "launch_path": "Image-Classification-in-PyTorch/image_classification_using_transfer_learning_in_pytorch.ipynb",
+      "source_path": "Image-Classification-in-PyTorch/image_classification_using_transfer_learning_in_pytorch.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 142,
+      "project": "Image-Cropping-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/142-Image-Cropping-OpenCV.ipynb",
+      "source_path": "Image-Cropping-OpenCV/crop_image.py",
+      "official_source": null
+    },
+    {
+      "id": 143,
+      "project": "Image-Inpainting",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/143-Image-Inpainting.ipynb",
+      "source_path": "Image-Inpainting/inpaint-time.py",
+      "official_source": null
+    },
+    {
+      "id": 144,
+      "project": "Image-Resizing-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/144-Image-Resizing-OpenCV.ipynb",
+      "source_path": "Image-Resizing-OpenCV/generate_sample_image.py",
+      "official_source": null
+    },
+    {
+      "id": 145,
+      "project": "Image-classification-pre-trained-models",
+      "kind": "existing-notebook",
+      "launch_path": "Image-classification-pre-trained-models/Image_Classification_using_pre_trained_models.ipynb",
+      "source_path": "Image-classification-pre-trained-models/Image_Classification_using_pre_trained_models.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 146,
+      "project": "Image-to-Image-Translation-with-GAN",
+      "kind": "existing-notebook",
+      "launch_path": "Image-to-Image-Translation-with-GAN/PyTorch/pix2pix_pytorch.ipynb",
+      "source_path": "Image-to-Image-Translation-with-GAN/PyTorch/pix2pix_pytorch.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 147,
+      "project": "ImageAlignment",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/147-ImageAlignment.ipynb",
+      "source_path": "ImageAlignment/ecc_utils.py",
+      "official_source": null
+    },
+    {
+      "id": 148,
+      "project": "ImageAlignment-FeatureBased",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/148-ImageAlignment-FeatureBased.ipynb",
+      "source_path": "ImageAlignment-FeatureBased/align.py",
+      "official_source": null
+    },
+    {
+      "id": 149,
+      "project": "ImageMetrics",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/149-ImageMetrics.ipynb",
+      "source_path": "ImageMetrics/Python/brisquequality.py",
+      "official_source": null
+    },
+    {
+      "id": 150,
+      "project": "Image_GS_Adaptive_Image_Reconstruction_using_2D_Gaussians",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/150-Image_GS_Adaptive_Image_Reconstruction_using_2D_Gaussians.ipynb",
+      "source_path": "Image_GS_Adaptive_Image_Reconstruction_using_2D_Gaussians/model.py",
+      "official_source": null
+    },
+    {
+      "id": 151,
+      "project": "Improving-Illumination-in-Night-Time-Images",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/151-Improving-Illumination-in-Night-Time-Images.ipynb",
+      "source_path": "Improving-Illumination-in-Night-Time-Images/python/guidedfilter.py",
+      "official_source": null
+    },
+    {
+      "id": 152,
+      "project": "Inference-for-PyTorch-Models",
+      "kind": "existing-notebook",
+      "launch_path": "Inference-for-PyTorch-Models/ONNX-Caffe2/PyTorch_Inference.ipynb",
+      "source_path": "Inference-for-PyTorch-Models/ONNX-Caffe2/PyTorch_Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 153,
+      "project": "Inference_RF-DETR_YOLO26_RT-DETR",
+      "kind": "existing-notebook",
+      "launch_path": "Inference_RF-DETR_YOLO26_RT-DETR/Inference_(RT_DETR,_YOLO26,_RF_DETR) (8).ipynb",
+      "source_path": "Inference_RF-DETR_YOLO26_RT-DETR/Inference_(RT_DETR,_YOLO26,_RF_DETR) (8).ipynb",
+      "official_source": null
+    },
+    {
+      "id": 154,
+      "project": "Inside_RoPE_Position_Embeddings",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/154-Inside_RoPE_Position_Embeddings.ipynb",
+      "source_path": "Inside_RoPE_Position_Embeddings/rotary_angles_along.py",
+      "official_source": null
+    },
+    {
+      "id": 155,
+      "project": "Install-OpenCV-5-on-Linux",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/155-Install-OpenCV-5-on-Linux.ipynb",
+      "source_path": "Install-OpenCV-5-on-Linux/verify_python.py",
+      "official_source": null
+    },
+    {
+      "id": 156,
+      "project": "Install-OpenCV-Windows-exe",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/156-Install-OpenCV-Windows-exe.ipynb",
+      "source_path": null,
+      "official_source": "https://docs.opencv.org/5.0/tutorials/introduction/general_install/general_install.html"
+    },
+    {
+      "id": 157,
+      "project": "InstallScripts",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/157-InstallScripts.ipynb",
+      "source_path": "InstallScripts/Windows-3/main.py",
+      "official_source": null
+    },
+    {
+      "id": 158,
+      "project": "InstructPix2Pix-Edit-Images-With-Prompts",
+      "kind": "existing-notebook",
+      "launch_path": "InstructPix2Pix-Edit-Images-With-Prompts/IntructPix2Pix_Diffuser.ipynb",
+      "source_path": "InstructPix2Pix-Edit-Images-With-Prompts/IntructPix2Pix_Diffuser.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 159,
+      "project": "Integrating-Gradio-with-OpenCV-DNN",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/159-Integrating-Gradio-with-OpenCV-DNN.ipynb",
+      "source_path": "Integrating-Gradio-with-OpenCV-DNN/app.py",
+      "official_source": null
+    },
+    {
+      "id": 160,
+      "project": "Intersection-over-Union-IoU-in-Object-Detection-and-Segmentation",
+      "kind": "existing-notebook",
+      "launch_path": "Intersection-over-Union-IoU-in-Object-Detection-and-Segmentation/IoU_NumPy.ipynb",
+      "source_path": "Intersection-over-Union-IoU-in-Object-Detection-and-Segmentation/IoU_NumPy.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 161,
+      "project": "Intro-to-Generative-Adversarial-Network",
+      "kind": "existing-notebook",
+      "launch_path": "Intro-to-Generative-Adversarial-Network/Pytorch/GAN_Pytorch_Fashion_MNIST.ipynb",
+      "source_path": "Intro-to-Generative-Adversarial-Network/Pytorch/GAN_Pytorch_Fashion_MNIST.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 162,
+      "project": "Introduction-to-Diffusion-Models-for-Image-Generation",
+      "kind": "existing-notebook",
+      "launch_path": "Introduction-to-Diffusion-Models-for-Image-Generation/Stable_Diffusion_6GB_VRAM.ipynb",
+      "source_path": "Introduction-to-Diffusion-Models-for-Image-Generation/Stable_Diffusion_6GB_VRAM.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 163,
+      "project": "Introduction-to-MediaPipe",
+      "kind": "existing-notebook",
+      "launch_path": "Introduction-to-MediaPipe/MediaPipe-sample-solutions.ipynb",
+      "source_path": "Introduction-to-MediaPipe/MediaPipe-sample-solutions.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 164,
+      "project": "Introduction-to-OpenVino-Deep-Learning-Workbench",
+      "kind": "existing-notebook",
+      "launch_path": "Introduction-to-OpenVino-Deep-Learning-Workbench/pycocoEvalDemo.ipynb",
+      "source_path": "Introduction-to-OpenVino-Deep-Learning-Workbench/pycocoEvalDemo.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 165,
+      "project": "Introduction-to-PaddlePaddle",
+      "kind": "existing-notebook",
+      "launch_path": "Introduction-to-PaddlePaddle/Paddle_Detection_PoseEstimation.ipynb",
+      "source_path": "Introduction-to-PaddlePaddle/Paddle_Detection_PoseEstimation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 166,
+      "project": "Introduction-to-ROS2-in-python",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/166-Introduction-to-ROS2-in-python.ipynb",
+      "source_path": "Introduction-to-ROS2-in-python/ros2_py_ws/src/slam/setup.py",
+      "official_source": null
+    },
+    {
+      "id": 167,
+      "project": "Introduction-to-Ultralytics-Explorer-API",
+      "kind": "existing-notebook",
+      "launch_path": "Introduction-to-Ultralytics-Explorer-API/explorer.ipynb",
+      "source_path": "Introduction-to-Ultralytics-Explorer-API/explorer.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 168,
+      "project": "Introduction_to_Diffusers",
+      "kind": "existing-notebook",
+      "launch_path": "Introduction_to_Diffusers/Introduction_to_Diffusers.ipynb",
+      "source_path": "Introduction_to_Diffusers/Introduction_to_Diffusers.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 169,
+      "project": "InvisibilityCloak",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/169-InvisibilityCloak.ipynb",
+      "source_path": "InvisibilityCloak/Invisibility_Cloak.py",
+      "official_source": null
+    },
+    {
+      "id": 170,
+      "project": "Iterative-Closest-Point-ICP",
+      "kind": "existing-notebook",
+      "launch_path": "Iterative-Closest-Point-ICP/Open3D-icp_registration.ipynb",
+      "source_path": "Iterative-Closest-Point-ICP/Open3D-icp_registration.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 171,
+      "project": "Keras-Fine-Tuning",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Fine-Tuning/keras-finetune-vgg.ipynb",
+      "source_path": "Keras-Fine-Tuning/keras-finetune-vgg.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 172,
+      "project": "Keras-Fine-Tuning-Pre-Trained-Models",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Fine-Tuning-Pre-Trained-Models/Keras-Fine-Tune-Pre-Trained-Models-GTSRB.ipynb",
+      "source_path": "Keras-Fine-Tuning-Pre-Trained-Models/Keras-Fine-Tune-Pre-Trained-Models-GTSRB.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 173,
+      "project": "Keras-ImageNet-Models",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-ImageNet-Models/Pre-Trained-ImageNet-Models.ipynb",
+      "source_path": "Keras-ImageNet-Models/Pre-Trained-ImageNet-Models.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 174,
+      "project": "Keras-Implement-Simple-CNN",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Implement-Simple-CNN/Keras-Implement-Simple-CNN.ipynb",
+      "source_path": "Keras-Implement-Simple-CNN/Keras-Implement-Simple-CNN.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 175,
+      "project": "Keras-Linear-Regression",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Linear-Regression/Keras-Linear-Regression.ipynb",
+      "source_path": "Keras-Linear-Regression/Keras-Linear-Regression.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 176,
+      "project": "Keras-MLP-MNIST-Classification",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-MLP-MNIST-Classification/Keras-MLP-MNIST-Classification.ipynb",
+      "source_path": "Keras-MLP-MNIST-Classification/Keras-MLP-MNIST-Classification.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 177,
+      "project": "Keras-Object-Detection-TensorFlow-Hub",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Object-Detection-TensorFlow-Hub/Keras-Object-Detection-TensorFlow-Hub.ipynb",
+      "source_path": "Keras-Object-Detection-TensorFlow-Hub/Keras-Object-Detection-TensorFlow-Hub.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 178,
+      "project": "Keras-Pre-Trained-ImageNet-Models",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Pre-Trained-ImageNet-Models/Pre-Trained-ImageNet-Models.ipynb",
+      "source_path": "Keras-Pre-Trained-ImageNet-Models/Pre-Trained-ImageNet-Models.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 179,
+      "project": "Keras-Segmentation-TensorFlow-Hub",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Segmentation-TensorFlow-Hub/Keras-Segmentation-TensorFlow-Hub.ipynb",
+      "source_path": "Keras-Segmentation-TensorFlow-Hub/Keras-Segmentation-TensorFlow-Hub.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 180,
+      "project": "Keras-Transfer-Learning",
+      "kind": "existing-notebook",
+      "launch_path": "Keras-Transfer-Learning/transfer-learning-vgg.ipynb",
+      "source_path": "Keras-Transfer-Learning/transfer-learning-vgg.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 181,
+      "project": "LLaVA",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/181-LLaVA.ipynb",
+      "source_path": "LLaVA/inference_hf_pipeline.py",
+      "official_source": null
+    },
+    {
+      "id": 182,
+      "project": "LangGraph-A-Visual-Automation-and-Summarization-Pipeline",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/182-LangGraph-A-Visual-Automation-and-Summarization-Pipeline.ipynb",
+      "source_path": "LangGraph-A-Visual-Automation-and-Summarization-Pipeline/browser_automation.py",
+      "official_source": null
+    },
+    {
+      "id": 183,
+      "project": "LangGraph_Building_Self_Correcting_RAG_Agent_for_Code_Generation",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/183-LangGraph_Building_Self_Correcting_RAG_Agent_for_Code_Generation.ipynb",
+      "source_path": "LangGraph_Building_Self_Correcting_RAG_Agent_for_Code_Generation/rag_agent.py",
+      "official_source": null
+    },
+    {
+      "id": 184,
+      "project": "LeGO-LOAM-ROS2",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/184-LeGO-LOAM-ROS2.ipynb",
+      "source_path": "LeGO-LOAM-ROS2/LeGO-LOAM/launch/run.launch.py",
+      "official_source": null
+    },
+    {
+      "id": 185,
+      "project": "LightRAG-Legal",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/185-LightRAG-Legal.ipynb",
+      "source_path": "LightRAG-Legal/gradio_lightrag_querying.py",
+      "official_source": null
+    },
+    {
+      "id": 186,
+      "project": "Local-VLM-Agents-in-Action-GUI-Automation-with-Moondream3-and-Gemini",
+      "kind": "existing-notebook",
+      "launch_path": "Local-VLM-Agents-in-Action-GUI-Automation-with-Moondream3-and-Gemini/Moondream3-Preview-Model-fp16.ipynb",
+      "source_path": "Local-VLM-Agents-in-Action-GUI-Automation-with-Moondream3-and-Gemini/Moondream3-Preview-Model-fp16.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 187,
+      "project": "MASt3R-SLAM",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/187-MASt3R-SLAM.ipynb",
+      "source_path": null,
+      "official_source": "https://github.com/rmurai0610/MASt3R-SLAM"
+    },
+    {
+      "id": 188,
+      "project": "MASt3R-SfM-3D-Reconstruction-Image-Matching",
+      "kind": "existing-notebook",
+      "launch_path": "MASt3R-SfM-3D-Reconstruction-Image-Matching/image-matching.ipynb",
+      "source_path": "MASt3R-SfM-3D-Reconstruction-Image-Matching/image-matching.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 189,
+      "project": "MRNet-Single-Model",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/189-MRNet-Single-Model.ipynb",
+      "source_path": "MRNet-Single-Model/config.py",
+      "official_source": null
+    },
+    {
+      "id": 190,
+      "project": "MRnet-MultiTask-Approach",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/190-MRnet-MultiTask-Approach.ipynb",
+      "source_path": "MRnet-MultiTask-Approach/config.py",
+      "official_source": null
+    },
+    {
+      "id": 191,
+      "project": "Mask-RCNN",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/191-Mask-RCNN.ipynb",
+      "source_path": "Mask-RCNN/mask_rcnn.py",
+      "official_source": null
+    },
+    {
+      "id": 192,
+      "project": "MatAnyone-Explained-Consistent-Memory-for-Better-Video-Matting",
+      "kind": "existing-notebook",
+      "launch_path": "MatAnyone-Explained-Consistent-Memory-for-Better-Video-Matting/matanyone-inf-script.ipynb",
+      "source_path": "MatAnyone-Explained-Consistent-Memory-for-Better-Video-Matting/matanyone-inf-script.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 193,
+      "project": "Medical-Image-Segmentation-Using-HuggingFace-&-PyTorch",
+      "kind": "existing-notebook",
+      "launch_path": "Medical-Image-Segmentation-Using-HuggingFace-&-PyTorch/Segformer_medical_lightning.ipynb",
+      "source_path": "Medical-Image-Segmentation-Using-HuggingFace-&-PyTorch/Segformer_medical_lightning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 194,
+      "project": "Medical_Multi-label_Classification_with_PyTorch_&_Lightning",
+      "kind": "existing-notebook",
+      "launch_path": "Medical_Multi-label_Classification_with_PyTorch_&_Lightning/HPA_PT_lightning.ipynb",
+      "source_path": "Medical_Multi-label_Classification_with_PyTorch_&_Lightning/HPA_PT_lightning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 195,
+      "project": "MiniCPM-o-4.5-Real-Time-Video-Understanding",
+      "kind": "existing-notebook",
+      "launch_path": "MiniCPM-o-4.5-Real-Time-Video-Understanding/minicpm_o_full_duplex_video_qa.ipynb",
+      "source_path": "MiniCPM-o-4.5-Real-Time-Video-Understanding/minicpm_o_full_duplex_video_qa.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 196,
+      "project": "Molmo-VLM-SAM2",
+      "kind": "existing-notebook",
+      "launch_path": "Molmo-VLM-SAM2/Molmo_VLM_SAM2_Segmentation.ipynb",
+      "source_path": "Molmo-VLM-SAM2/Molmo_VLM_SAM2_Segmentation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 197,
+      "project": "Monocular SLAM for Robotics implementation in python",
+      "kind": "existing-notebook",
+      "launch_path": "Monocular SLAM for Robotics implementation in python/notebooks/bundle_adjustment.ipynb",
+      "source_path": "Monocular SLAM for Robotics implementation in python/notebooks/bundle_adjustment.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 198,
+      "project": "Moondream-Cloud-API",
+      "kind": "existing-notebook",
+      "launch_path": "Moondream-Cloud-API/Moondream3.ipynb",
+      "source_path": "Moondream-Cloud-API/Moondream3.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 199,
+      "project": "Moving-Object-Detection-with-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/199-Moving-Object-Detection-with-OpenCV.ipynb",
+      "source_path": "Moving-Object-Detection-with-OpenCV/app.py",
+      "official_source": null
+    },
+    {
+      "id": 200,
+      "project": "MultiObjectTracker",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/200-MultiObjectTracker.ipynb",
+      "source_path": "MultiObjectTracker/multiTracker.py",
+      "official_source": null
+    },
+    {
+      "id": 201,
+      "project": "Multimodal-RAG-with-ColPali-Gemini",
+      "kind": "existing-notebook",
+      "launch_path": "Multimodal-RAG-with-ColPali-Gemini/Final-ColPali-with-patch-activations-.ipynb",
+      "source_path": "Multimodal-RAG-with-ColPali-Gemini/Final-ColPali-with-patch-activations-.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 202,
+      "project": "Non-Maximum-Suppression",
+      "kind": "existing-notebook",
+      "launch_path": "Non-Maximum-Suppression/nms_pytorch.ipynb",
+      "source_path": "Non-Maximum-Suppression/nms_pytorch.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 203,
+      "project": "NonPhotorealisticRendering",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/203-NonPhotorealisticRendering.ipynb",
+      "source_path": "NonPhotorealisticRendering/npr.py",
+      "official_source": null
+    },
+    {
+      "id": 204,
+      "project": "OAK-DepthAi-Pipeline-Overview",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/204-OAK-DepthAi-Pipeline-Overview.ipynb",
+      "source_path": "OAK-DepthAi-Pipeline-Overview/color-camera-control.py",
+      "official_source": null
+    },
+    {
+      "id": 205,
+      "project": "OAK-Object-Detection-with-Depth",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/205-OAK-Object-Detection-with-Depth.ipynb",
+      "source_path": "OAK-Object-Detection-with-Depth/face-det.py",
+      "official_source": null
+    },
+    {
+      "id": 206,
+      "project": "OCR",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/206-OCR.ipynb",
+      "source_path": "OCR/ocr_simple.py",
+      "official_source": null
+    },
+    {
+      "id": 207,
+      "project": "Object-Detection-on-Edge-Devices",
+      "kind": "existing-notebook",
+      "launch_path": "Object-Detection-on-Edge-Devices/YOLOv8-Pothole-Training.ipynb",
+      "source_path": "Object-Detection-on-Edge-Devices/YOLOv8-Pothole-Training.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 208,
+      "project": "Object-Detection-using-KerasCV-YOLOv8",
+      "kind": "existing-notebook",
+      "launch_path": "Object-Detection-using-KerasCV-YOLOv8/traffic_light_detection_yolov8large.ipynb",
+      "source_path": "Object-Detection-using-KerasCV-YOLOv8/traffic_light_detection_yolov8large.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 209,
+      "project": "Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python",
+      "kind": "existing-notebook",
+      "launch_path": "Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python/Convert_PyTorch_models.ipynb",
+      "source_path": "Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python/Convert_PyTorch_models.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 210,
+      "project": "Object-Insertion-in-Gaussian-Splatting",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/210-Object-Insertion-in-Gaussian-Splatting.ipynb",
+      "source_path": "Object-Insertion-in-Gaussian-Splatting/src/colmap_rerun.py",
+      "official_source": null
+    },
+    {
+      "id": 211,
+      "project": "Object-Keypoint-Similarity-in-Keypoint-Detection",
+      "kind": "existing-notebook",
+      "launch_path": "Object-Keypoint-Similarity-in-Keypoint-Detection/Object Keypoint Similarity.ipynb",
+      "source_path": "Object-Keypoint-Similarity-in-Keypoint-Detection/Object Keypoint Similarity.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 212,
+      "project": "Object-Tracking-OpenCV5",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/212-Object-Tracking-OpenCV5.ipynb",
+      "source_path": "Object-Tracking-OpenCV5/download_models.py",
+      "official_source": null
+    },
+    {
+      "id": 213,
+      "project": "Object-Tracking-and-Reidentification-with-FairMOT",
+      "kind": "existing-notebook",
+      "launch_path": "Object-Tracking-and-Reidentification-with-FairMOT/Tracking_using_FairMOT.ipynb",
+      "source_path": "Object-Tracking-and-Reidentification-with-FairMOT/Tracking_using_FairMOT.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 214,
+      "project": "ObjectDetection-YOLO",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/214-ObjectDetection-YOLO.ipynb",
+      "source_path": "ObjectDetection-YOLO/object_detection_yolo.py",
+      "official_source": null
+    },
+    {
+      "id": 215,
+      "project": "OpenCV-dnn-gpu-support-Linux",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/215-OpenCV-dnn-gpu-support-Linux.ipynb",
+      "source_path": "OpenCV-dnn-gpu-support-Linux/OpenPoseVideo.py",
+      "official_source": null
+    },
+    {
+      "id": 216,
+      "project": "OpenCV-dnn-gpu-support-Windows",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/216-OpenCV-dnn-gpu-support-Windows.ipynb",
+      "source_path": "OpenCV-dnn-gpu-support-Windows/OpenPoseVideo.py",
+      "official_source": null
+    },
+    {
+      "id": 217,
+      "project": "OpenPose",
+      "kind": "existing-notebook",
+      "launch_path": "OpenPose/OpenPose_Notebook.ipynb",
+      "source_path": "OpenPose/OpenPose_Notebook.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 218,
+      "project": "OpenPose-Multi-Person",
+      "kind": "existing-notebook",
+      "launch_path": "OpenPose-Multi-Person/multi-person-openpose.ipynb",
+      "source_path": "OpenPose-Multi-Person/multi-person-openpose.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 219,
+      "project": "OpenVINO-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/219-OpenVINO-OpenCV.ipynb",
+      "source_path": "OpenVINO-OpenCV/image-classification.py",
+      "official_source": null
+    },
+    {
+      "id": 220,
+      "project": "Optical-Character-Recognition-using-PaddleOCR",
+      "kind": "existing-notebook",
+      "launch_path": "Optical-Character-Recognition-using-PaddleOCR/OCR_comparison.ipynb",
+      "source_path": "Optical-Character-Recognition-using-PaddleOCR/OCR_comparison.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 221,
+      "project": "Optical-Flow-Estimation-using-Deep-Learning-RAFT",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/221-Optical-Flow-Estimation-using-Deep-Learning-RAFT.ipynb",
+      "source_path": "Optical-Flow-Estimation-using-Deep-Learning-RAFT/inference.py",
+      "official_source": null
+    },
+    {
+      "id": 222,
+      "project": "Optical-Flow-in-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/222-Optical-Flow-in-OpenCV.ipynb",
+      "source_path": "Optical-Flow-in-OpenCV/demo.py",
+      "official_source": null
+    },
+    {
+      "id": 223,
+      "project": "Photoshop-Filters-in-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/223-Photoshop-Filters-in-OpenCV.ipynb",
+      "source_path": "Photoshop-Filters-in-OpenCV/60s_TV.py",
+      "official_source": null
+    },
+    {
+      "id": 224,
+      "project": "Plastic-Waste-Detection-with-Deep-Learning",
+      "kind": "existing-notebook",
+      "launch_path": "Plastic-Waste-Detection-with-Deep-Learning/Image_Web_Scraper.ipynb",
+      "source_path": "Plastic-Waste-Detection-with-Deep-Learning/Image_Web_Scraper.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 225,
+      "project": "Playing-Chrome-TRex-Game-with-Facial-Gestures",
+      "kind": "existing-notebook",
+      "launch_path": "Playing-Chrome-TRex-Game-with-Facial-Gestures/TRex _Game_with_AR.ipynb",
+      "source_path": "Playing-Chrome-TRex-Game-with-Facial-Gestures/TRex _Game_with_AR.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 226,
+      "project": "Playing-rock-paper-scissors-with-AI",
+      "kind": "existing-notebook",
+      "launch_path": "Playing-rock-paper-scissors-with-AI/Rock_paper_scissor.ipynb",
+      "source_path": "Playing-rock-paper-scissors-with-AI/Rock_paper_scissor.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 227,
+      "project": "Post-Training-Quantization-with-OpenVino-Toolkit",
+      "kind": "existing-notebook",
+      "launch_path": "Post-Training-Quantization-with-OpenVino-Toolkit/pycocoEvalDemo.ipynb",
+      "source_path": "Post-Training-Quantization-with-OpenVino-Toolkit/pycocoEvalDemo.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 228,
+      "project": "Posture-analysis-system-using-MediaPipe-Pose",
+      "kind": "existing-notebook",
+      "launch_path": "Posture-analysis-system-using-MediaPipe-Pose/human_posture_analysis.ipynb",
+      "source_path": "Posture-analysis-system-using-MediaPipe-Pose/human_posture_analysis.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 229,
+      "project": "Pothole-Detection-using-YOLOv4-and-Darknet",
+      "kind": "existing-notebook",
+      "launch_path": "Pothole-Detection-using-YOLOv4-and-Darknet/jupyter_notebook/yolov4_pothole_detection.ipynb",
+      "source_path": "Pothole-Detection-using-YOLOv4-and-Darknet/jupyter_notebook/yolov4_pothole_detection.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 230,
+      "project": "PyTorch-Fully-Convolutional-Image-Classification",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/230-PyTorch-Fully-Convolutional-Image-Classification.ipynb",
+      "source_path": "PyTorch-Fully-Convolutional-Image-Classification/FullyConvolutionalResnet18.py",
+      "official_source": null
+    },
+    {
+      "id": 231,
+      "project": "PyTorch-Keypoint-RCNN",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-Keypoint-RCNN/run_pose_estimation.ipynb",
+      "source_path": "PyTorch-Keypoint-RCNN/run_pose_estimation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 232,
+      "project": "PyTorch-Mask-RCNN",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-Mask-RCNN/PyTorch_Mask_RCNN.ipynb",
+      "source_path": "PyTorch-Mask-RCNN/PyTorch_Mask_RCNN.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 233,
+      "project": "PyTorch-Multi-Label-Image-Classification",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-Multi-Label-Image-Classification/Multi_Output_Classification.ipynb",
+      "source_path": "PyTorch-Multi-Label-Image-Classification/Multi_Output_Classification.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 234,
+      "project": "PyTorch-Multi-Label-Image-Classification-Image-Tagging",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-Multi-Label-Image-Classification-Image-Tagging/Pipeline.ipynb",
+      "source_path": "PyTorch-Multi-Label-Image-Classification-Image-Tagging/Pipeline.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 235,
+      "project": "PyTorch-ONNX-TensorRT",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/235-PyTorch-ONNX-TensorRT.ipynb",
+      "source_path": "PyTorch-ONNX-TensorRT/pytorch_model.py",
+      "official_source": null
+    },
+    {
+      "id": 236,
+      "project": "PyTorch-ONNX-TensorRT-CPP",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/236-PyTorch-ONNX-TensorRT-CPP.ipynb",
+      "source_path": "PyTorch-ONNX-TensorRT-CPP/pytorch_model.py",
+      "official_source": null
+    },
+    {
+      "id": 237,
+      "project": "PyTorch-Receptive-Field-With-Backprop",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/237-PyTorch-Receptive-Field-With-Backprop.ipynb",
+      "source_path": "PyTorch-Receptive-Field-With-Backprop/FullyConvolutionalResnet18.py",
+      "official_source": null
+    },
+    {
+      "id": 238,
+      "project": "PyTorch-Segmentation-torchvision",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-Segmentation-torchvision/intro-seg.ipynb",
+      "source_path": "PyTorch-Segmentation-torchvision/intro-seg.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 239,
+      "project": "PyTorch-Vision-Experiment-Logging",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-Vision-Experiment-Logging/Torchvision-Experiment-Logging.ipynb",
+      "source_path": "PyTorch-Vision-Experiment-Logging/Torchvision-Experiment-Logging.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 240,
+      "project": "PyTorch-faster-RCNN",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-faster-RCNN/PyTorch_faster_RCNN.ipynb",
+      "source_path": "PyTorch-faster-RCNN/PyTorch_faster_RCNN.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 241,
+      "project": "PyTorch-for-Beginners",
+      "kind": "existing-notebook",
+      "launch_path": "PyTorch-for-Beginners/PyTorch_for_Beginners.ipynb",
+      "source_path": "PyTorch-for-Beginners/PyTorch_for_Beginners.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 242,
+      "project": "PyTorch-to-CoreML-model-conversion",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/242-PyTorch-to-CoreML-model-conversion.ipynb",
+      "source_path": "PyTorch-to-CoreML-model-conversion/torch_to_coreml.py",
+      "official_source": null
+    },
+    {
+      "id": 243,
+      "project": "PyTorch-to-TensorFlow-Model-Conversion",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/243-PyTorch-to-TensorFlow-Model-Conversion.ipynb",
+      "source_path": "PyTorch-to-TensorFlow-Model-Conversion/FullyConvolutionalResnet18.py",
+      "official_source": null
+    },
+    {
+      "id": 244,
+      "project": "Pytorch-Lightning",
+      "kind": "existing-notebook",
+      "launch_path": "Pytorch-Lightning/Learning_Lightning.ipynb",
+      "source_path": "Pytorch-Lightning/Learning_Lightning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 245,
+      "project": "Pytorch-Net-Surgery",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/245-Pytorch-Net-Surgery.ipynb",
+      "source_path": "Pytorch-Net-Surgery/channel_replication.py",
+      "official_source": null
+    },
+    {
+      "id": 246,
+      "project": "QRCode-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/246-QRCode-OpenCV.ipynb",
+      "source_path": "QRCode-OpenCV/qrCodeOpencv.py",
+      "official_source": null
+    },
+    {
+      "id": 247,
+      "project": "Quora-Dataset-Duplicate-Search",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/247-Quora-Dataset-Duplicate-Search.ipynb",
+      "source_path": "Quora-Dataset-Duplicate-Search/Quora-Duplicate-Search.py",
+      "official_source": null
+    },
+    {
+      "id": 248,
+      "project": "Qwen3-VL-Embedding-Reranker",
+      "kind": "existing-notebook",
+      "launch_path": "Qwen3-VL-Embedding-Reranker/Qwen3VL_Embedding_Reranker.ipynb",
+      "source_path": "Qwen3-VL-Embedding-Reranker/Qwen3VL_Embedding_Reranker.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 249,
+      "project": "RAG_LangChain",
+      "kind": "existing-notebook",
+      "launch_path": "RAG_LangChain/RAG_langchain.ipynb",
+      "source_path": "RAG_LangChain/RAG_langchain.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 250,
+      "project": "RF_DETR_Segmentation_Demo",
+      "kind": "existing-notebook",
+      "launch_path": "RF_DETR_Segmentation_Demo/RF_DETR_Segmentation.ipynb",
+      "source_path": "RF_DETR_Segmentation_Demo/RF_DETR_Segmentation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 251,
+      "project": "Read-Write-Display-Image-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/251-Read-Write-Display-Image-OpenCV.ipynb",
+      "source_path": "Read-Write-Display-Image-OpenCV/generate_sample_image.py",
+      "official_source": null
+    },
+    {
+      "id": 252,
+      "project": "Real_Time_Deep_SORT_using_Torchvision_Detectors",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/252-Real_Time_Deep_SORT_using_Torchvision_Detectors.ipynb",
+      "source_path": "Real_Time_Deep_SORT_using_Torchvision_Detectors/coco_classes.py",
+      "official_source": null
+    },
+    {
+      "id": 253,
+      "project": "Recommendation-System-using-Vector-Search",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/253-Recommendation-System-using-Vector-Search.ipynb",
+      "source_path": "Recommendation-System-using-Vector-Search/app.py",
+      "official_source": null
+    },
+    {
+      "id": 254,
+      "project": "ReconstructFaceUsingEigenFaces",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/254-ReconstructFaceUsingEigenFaces.ipynb",
+      "source_path": "ReconstructFaceUsingEigenFaces/createPCAModel.py",
+      "official_source": null
+    },
+    {
+      "id": 255,
+      "project": "RedEyeRemover",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/255-RedEyeRemover.ipynb",
+      "source_path": "RedEyeRemover/removeRedEyes.py",
+      "official_source": null
+    },
+    {
+      "id": 256,
+      "project": "Roadmap-To-an-Automated-Image-Annotation-Tool-Using-Python",
+      "kind": "existing-notebook",
+      "launch_path": "Roadmap-To-an-Automated-Image-Annotation-Tool-Using-Python/image-annotation-tool-roadmap.ipynb",
+      "source_path": "Roadmap-To-an-Automated-Image-Annotation-Tool-Using-Python/image-annotation-tool-roadmap.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 257,
+      "project": "Roboflow_Trackers_Demo",
+      "kind": "existing-notebook",
+      "launch_path": "Roboflow_Trackers_Demo/Roboflow_Trackers.ipynb",
+      "source_path": "Roboflow_Trackers_Demo/Roboflow_Trackers.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 258,
+      "project": "RotationMatrixToEulerAngles",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/258-RotationMatrixToEulerAngles.ipynb",
+      "source_path": "RotationMatrixToEulerAngles/rotm2euler.py",
+      "official_source": null
+    },
+    {
+      "id": 259,
+      "project": "Running-OpenVino-Models-on-Intel-Integrated-GPU",
+      "kind": "existing-notebook",
+      "launch_path": "Running-OpenVino-Models-on-Intel-Integrated-GPU/pycocoEvalDemo.ipynb",
+      "source_path": "Running-OpenVino-Models-on-Intel-Integrated-GPU/pycocoEvalDemo.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 260,
+      "project": "SAM-3",
+      "kind": "existing-notebook",
+      "launch_path": "SAM-3/sam3_inference.ipynb",
+      "source_path": "SAM-3/sam3_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 261,
+      "project": "SAM_2_Segment_Anything_Model_2",
+      "kind": "existing-notebook",
+      "launch_path": "SAM_2_Segment_Anything_Model_2/custom_code/sam2_tiny_inference_image.ipynb",
+      "source_path": "SAM_2_Segment_Anything_Model_2/custom_code/sam2_tiny_inference_image.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 262,
+      "project": "SDXL-inpainting",
+      "kind": "existing-notebook",
+      "launch_path": "SDXL-inpainting/sdxl-inpainting.ipynb",
+      "source_path": "SDXL-inpainting/sdxl-inpainting.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 263,
+      "project": "SVM-using-Python",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/263-SVM-using-Python.ipynb",
+      "source_path": "SVM-using-Python/utils.py",
+      "official_source": null
+    },
+    {
+      "id": 264,
+      "project": "Sapiens-Human-Vision-Model-Meta",
+      "kind": "existing-notebook",
+      "launch_path": "Sapiens-Human-Vision-Model-Meta/Sapiens-Video-Inference.ipynb",
+      "source_path": "Sapiens-Human-Vision-Model-Meta/Sapiens-Video-Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 265,
+      "project": "SeamlessCloning",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/265-SeamlessCloning.ipynb",
+      "source_path": "SeamlessCloning/clone.py",
+      "official_source": null
+    },
+    {
+      "id": 266,
+      "project": "Segment-Anything-A-Foundation-Model-for-Image-Segmentation",
+      "kind": "existing-notebook",
+      "launch_path": "Segment-Anything-A-Foundation-Model-for-Image-Segmentation/Segment_Anything.ipynb",
+      "source_path": "Segment-Anything-A-Foundation-Model-for-Image-Segmentation/Segment_Anything.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 267,
+      "project": "SelectiveSearch",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/267-SelectiveSearch.ipynb",
+      "source_path": "SelectiveSearch/ssearch.py",
+      "official_source": null
+    },
+    {
+      "id": 268,
+      "project": "Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus",
+      "kind": "existing-notebook",
+      "launch_path": "Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus/Segmenation_deeplabv3_plus_effnet_v2_s.ipynb",
+      "source_path": "Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus/Segmenation_deeplabv3_plus_effnet_v2_s.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 269,
+      "project": "SimLingo-Vision-Language-Action-Model-for-Autonomous-Driving",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/269-SimLingo-Vision-Language-Action-Model-for-Autonomous-Driving.ipynb",
+      "source_path": "SimLingo-Vision-Language-Action-Model-for-Autonomous-Driving/inference_script.py",
+      "official_source": null
+    },
+    {
+      "id": 270,
+      "project": "SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism",
+      "kind": "existing-notebook",
+      "launch_path": "SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism/SimSiam's Pretraining and Fine-Tuning Implementation in PyTorch/SimSiam_Pretraining_and_Fine_Tuning.ipynb",
+      "source_path": "SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism/SimSiam's Pretraining and Fine-Tuning Implementation in PyTorch/SimSiam_Pretraining_and_Fine_Tuning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 271,
+      "project": "Sinusoidal_Position_Embeddings",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/271-Sinusoidal_Position_Embeddings.ipynb",
+      "source_path": "Sinusoidal_Position_Embeddings/sinusoidal_testing.py",
+      "official_source": null
+    },
+    {
+      "id": 272,
+      "project": "SnakeGame",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/272-SnakeGame.ipynb",
+      "source_path": "SnakeGame/snake.py",
+      "official_source": null
+    },
+    {
+      "id": 273,
+      "project": "Snowman-Detector-using-YOLOv5",
+      "kind": "existing-notebook",
+      "launch_path": "Snowman-Detector-using-YOLOv5/train_yolov5_snowman_medium_freeze_layers.ipynb",
+      "source_path": "Snowman-Detector-using-YOLOv5/train_yolov5_snowman_medium_freeze_layers.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 274,
+      "project": "Stable-Diffusion-3",
+      "kind": "existing-notebook",
+      "launch_path": "Stable-Diffusion-3/sd3.5.ipynb",
+      "source_path": "Stable-Diffusion-3/sd3.5.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 275,
+      "project": "Stable-Diffusion-A-New-Paradigm-in-Generative-AI",
+      "kind": "existing-notebook",
+      "launch_path": "Stable-Diffusion-A-New-Paradigm-in-Generative-AI/Diffusion_Models_Inference.ipynb",
+      "source_path": "Stable-Diffusion-A-New-Paradigm-in-Generative-AI/Diffusion_Models_Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 276,
+      "project": "Super-Resolution-in-OpenCV",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/276-Super-Resolution-in-OpenCV.ipynb",
+      "source_path": "Super-Resolution-in-OpenCV/download_model.py",
+      "official_source": null
+    },
+    {
+      "id": 277,
+      "project": "TRM",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/277-TRM.ipynb",
+      "source_path": "TRM/trm_inference.py",
+      "official_source": null
+    },
+    {
+      "id": 278,
+      "project": "TSNE",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/278-TSNE.ipynb",
+      "source_path": "TSNE/animals_dataset.py",
+      "official_source": null
+    },
+    {
+      "id": 279,
+      "project": "TensorBoard-With-Pytorch-Lightning",
+      "kind": "existing-notebook",
+      "launch_path": "TensorBoard-With-Pytorch-Lightning/Tensorboard-with-PyTorch-Lightning.ipynb",
+      "source_path": "TensorBoard-With-Pytorch-Lightning/Tensorboard-with-PyTorch-Lightning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 280,
+      "project": "TensorFlow-Fully-Convolutional-Image-Classification",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/280-TensorFlow-Fully-Convolutional-Image-Classification.ipynb",
+      "source_path": "TensorFlow-Fully-Convolutional-Image-Classification/FullyConvolutionalResnet50.py",
+      "official_source": null
+    },
+    {
+      "id": 281,
+      "project": "TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning",
+      "kind": "existing-notebook",
+      "launch_path": "TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning/TensorFlow_Lite_Model_Optimization_for_On_Device_Machine_Learning.ipynb",
+      "source_path": "TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning/TensorFlow_Lite_Model_Optimization_for_On_Device_Machine_Learning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 282,
+      "project": "TensorFlow-Receptive-Field-With-Backprop",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/282-TensorFlow-Receptive-Field-With-Backprop.ipynb",
+      "source_path": "TensorFlow-Receptive-Field-With-Backprop/FullyConvolutionalResnet50.py",
+      "official_source": null
+    },
+    {
+      "id": 283,
+      "project": "Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML",
+      "kind": "existing-notebook",
+      "launch_path": "Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML/TF_Lite_Model_Maker_Create_Models_for_On_Device_Machine_Learning.ipynb",
+      "source_path": "Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML/TF_Lite_Model_Maker_Create_Models_for_On_Device_Machine_Learning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 284,
+      "project": "Tetris",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/284-Tetris.ipynb",
+      "source_path": "Tetris/tetris.py",
+      "official_source": null
+    },
+    {
+      "id": 285,
+      "project": "Text-Summarization-using-T5-Fine-Tuning-and-Building-Gradio-App",
+      "kind": "existing-notebook",
+      "launch_path": "Text-Summarization-using-T5-Fine-Tuning-and-Building-Gradio-App/T5Base_BBC_News_Summary.ipynb",
+      "source_path": "Text-Summarization-using-T5-Fine-Tuning-and-Building-Gradio-App/T5Base_BBC_News_Summary.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 286,
+      "project": "TextDetectionEAST",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/286-TextDetectionEAST.ipynb",
+      "source_path": "TextDetectionEAST/textDetection.py",
+      "official_source": null
+    },
+    {
+      "id": 287,
+      "project": "The-ultimate-guide-to-deeplabv3",
+      "kind": "existing-notebook",
+      "launch_path": "The-ultimate-guide-to-deeplabv3/Colab_Deeplabv3_pytorch_inference.ipynb",
+      "source_path": "The-ultimate-guide-to-deeplabv3/Colab_Deeplabv3_pytorch_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 288,
+      "project": "Threshold",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/288-Threshold.ipynb",
+      "source_path": "Threshold/threshold.py",
+      "official_source": null
+    },
+    {
+      "id": 289,
+      "project": "TrOCR-Getting-Started-with-Transformer-Based-OCR",
+      "kind": "existing-notebook",
+      "launch_path": "TrOCR-Getting-Started-with-Transformer-Based-OCR/TrOCR_Inference.ipynb",
+      "source_path": "TrOCR-Getting-Started-with-Transformer-Based-OCR/TrOCR_Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 290,
+      "project": "Train-YOLO-NAS-on-Custom-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "Train-YOLO-NAS-on-Custom-Dataset/inference.ipynb",
+      "source_path": "Train-YOLO-NAS-on-Custom-Dataset/inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 291,
+      "project": "Train-YOLOv8-Instance-Segmentation-on-Custom-Data",
+      "kind": "existing-notebook",
+      "launch_path": "Train-YOLOv8-Instance-Segmentation-on-Custom-Data/Trashcan_YOLOV8_Material.ipynb",
+      "source_path": "Train-YOLOv8-Instance-Segmentation-on-Custom-Data/Trashcan_YOLOV8_Material.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 292,
+      "project": "Train-YOLOv8-on-Custom-Dataset-A-Complete-Tutorial",
+      "kind": "existing-notebook",
+      "launch_path": "Train-YOLOv8-on-Custom-Dataset-A-Complete-Tutorial/yolov8_fine_tuning.ipynb",
+      "source_path": "Train-YOLOv8-on-Custom-Dataset-A-Complete-Tutorial/yolov8_fine_tuning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 293,
+      "project": "Training-CLIP-from-Scratch-for-Image-Retrieval",
+      "kind": "existing-notebook",
+      "launch_path": "Training-CLIP-from-Scratch-for-Image-Retrieval/CLIP_PyTorch-Inference-Gradio.ipynb",
+      "source_path": "Training-CLIP-from-Scratch-for-Image-Retrieval/CLIP_PyTorch-Inference-Gradio.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 294,
+      "project": "Training_3D_U-Net_Brain_Tumor_Seg",
+      "kind": "existing-notebook",
+      "launch_path": "Training_3D_U-Net_Brain_Tumor_Seg/01_Data_preprocessing.ipynb",
+      "source_path": "Training_3D_U-Net_Brain_Tumor_Seg/01_Data_preprocessing.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 295,
+      "project": "Training_a_custom_hand_detector_with_dlib",
+      "kind": "existing-notebook",
+      "launch_path": "Training_a_custom_hand_detector_with_dlib/Training_a_custom_hand_Detector.ipynb",
+      "source_path": "Training_a_custom_hand_detector_with_dlib/Training_a_custom_hand_Detector.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 296,
+      "project": "UI-cvui",
+      "kind": "cpp-wrapper",
+      "launch_path": ".cvquest/notebooks/296-UI-cvui.ipynb",
+      "source_path": "UI-cvui/canny.cpp",
+      "official_source": null
+    },
+    {
+      "id": 297,
+      "project": "Ultimate_Guide_to_Vector_Databases_and_RAG_pipeline",
+      "kind": "existing-notebook",
+      "launch_path": "Ultimate_Guide_to_Vector_Databases_and_RAG_pipeline/vector_db_qdrant_vlm.ipynb",
+      "source_path": "Ultimate_Guide_to_Vector_Databases_and_RAG_pipeline/vector_db_qdrant_vlm.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 298,
+      "project": "Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models",
+      "kind": "existing-notebook",
+      "launch_path": "Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models/yolov8_inference.ipynb",
+      "source_path": "Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models/yolov8_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 299,
+      "project": "Understanding-CNNs",
+      "kind": "existing-notebook",
+      "launch_path": "Understanding-CNNs/Understanding-CNNs.ipynb",
+      "source_path": "Understanding-CNNs/Understanding-CNNs.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 300,
+      "project": "Understanding-Multiple-Object-Tracking-using-DeepSORT",
+      "kind": "existing-notebook",
+      "launch_path": "Understanding-Multiple-Object-Tracking-using-DeepSORT/Understanding_Multiple_Object_Tracking_using_DeepSORT.ipynb",
+      "source_path": "Understanding-Multiple-Object-Tracking-using-DeepSORT/Understanding_Multiple_Object_Tracking_using_DeepSORT.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 301,
+      "project": "UnderstandingLensDistortion",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/301-UnderstandingLensDistortion.ipynb",
+      "source_path": "UnderstandingLensDistortion/Undistort.py",
+      "official_source": null
+    },
+    {
+      "id": 302,
+      "project": "Universal-Sentence-Encoder",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/302-Universal-Sentence-Encoder.ipynb",
+      "source_path": "Universal-Sentence-Encoder/embedText.py",
+      "official_source": null
+    },
+    {
+      "id": 303,
+      "project": "Unsloth_A_Guide_From_Basics_to_Fine_Tuning_Vision_Models",
+      "kind": "existing-notebook",
+      "launch_path": "Unsloth_A_Guide_From_Basics_to_Fine_Tuning_Vision_Models/Fine_Tuning_Qwen2_5_VL_(7B)_Vision_using_Unsloth.ipynb",
+      "source_path": "Unsloth_A_Guide_From_Basics_to_Fine_Tuning_Vision_Models/Fine_Tuning_Qwen2_5_VL_(7B)_Vision_using_Unsloth.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 304,
+      "project": "VGGT-3D-Reconstruction",
+      "kind": "existing-notebook",
+      "launch_path": "VGGT-3D-Reconstruction/vggt_inference.ipynb",
+      "source_path": "VGGT-3D-Reconstruction/vggt_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 305,
+      "project": "VJEPA-2-Video-Classification",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/305-VJEPA-2-Video-Classification.ipynb",
+      "source_path": "VJEPA-2-Video-Classification/vjepa-2_video_embedding_inference_script.py",
+      "official_source": null
+    },
+    {
+      "id": 306,
+      "project": "VLM-on-Edge-Worth-the-Hype-or-Just-a-Novelty",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/306-VLM-on-Edge-Worth-the-Hype-or-Just-a-Novelty.ipynb",
+      "source_path": "VLM-on-Edge-Worth-the-Hype-or-Just-a-Novelty/vlm-test.py",
+      "official_source": null
+    },
+    {
+      "id": 307,
+      "project": "VLM_Evaluation_Metrics",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/307-VLM_Evaluation_Metrics.ipynb",
+      "source_path": "VLM_Evaluation_Metrics/bleu_evaluation_with_smolvlm_instruct.py",
+      "official_source": null
+    },
+    {
+      "id": 308,
+      "project": "Variational-Autoencoder-TensorFlow",
+      "kind": "existing-notebook",
+      "launch_path": "Variational-Autoencoder-TensorFlow/VAE_Cartoon_TensorFlow.ipynb",
+      "source_path": "Variational-Autoencoder-TensorFlow/VAE_Cartoon_TensorFlow.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 309,
+      "project": "Video-Generation-A-Diffusion-based-approach",
+      "kind": "existing-notebook",
+      "launch_path": "Video-Generation-A-Diffusion-based-approach/Hunyuan_Video_inf.ipynb",
+      "source_path": "Video-Generation-A-Diffusion-based-approach/Hunyuan_Video_inf.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 310,
+      "project": "Video-RAG_Training_Free_Retrieval_for_Long_Video_LVLMs",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/310-Video-RAG_Training_Free_Retrieval_for_Long_Video_LVLMs.ipynb",
+      "source_path": "Video-RAG_Training_Free_Retrieval_for_Long_Video_LVLMs/builder.py",
+      "official_source": null
+    },
+    {
+      "id": 311,
+      "project": "VideoBackgroundEstimation",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/311-VideoBackgroundEstimation.ipynb",
+      "source_path": "VideoBackgroundEstimation/removeVideoBg.py",
+      "official_source": null
+    },
+    {
+      "id": 312,
+      "project": "VideoReadWriteDisplay",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/312-VideoReadWriteDisplay.ipynb",
+      "source_path": "VideoReadWriteDisplay/videoRead.py",
+      "official_source": null
+    },
+    {
+      "id": 313,
+      "project": "VideoStabilization",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/313-VideoStabilization.ipynb",
+      "source_path": "VideoStabilization/video_stabilization.py",
+      "official_source": null
+    },
+    {
+      "id": 314,
+      "project": "Vision-Language-Action-Models",
+      "kind": "existing-notebook",
+      "launch_path": "Vision-Language-Action-Models/1_gr00t_inference.ipynb",
+      "source_path": "Vision-Language-Action-Models/1_gr00t_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 315,
+      "project": "Vision_Transformer_PyTorch",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/315-Vision_Transformer_PyTorch.ipynb",
+      "source_path": "Vision_Transformer_PyTorch/mhsa.py",
+      "official_source": null
+    },
+    {
+      "id": 316,
+      "project": "WarpTriangle",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/316-WarpTriangle.ipynb",
+      "source_path": "WarpTriangle/warpTriangle.py",
+      "official_source": null
+    },
+    {
+      "id": 317,
+      "project": "WeChat-QRCode-Scanner-OpenCV",
+      "kind": "existing-notebook",
+      "launch_path": "WeChat-QRCode-Scanner-OpenCV/Python/WeChat-qrcode-scanner.ipynb",
+      "source_path": "WeChat-QRCode-Scanner-OpenCV/Python/WeChat-qrcode-scanner.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 318,
+      "project": "Weighted-Boxes-Fusion-in-Object-Detection",
+      "kind": "existing-notebook",
+      "launch_path": "Weighted-Boxes-Fusion-in-Object-Detection/Weighted_Boxes_Fusion_vs_Non_Maximum_Suppression.ipynb",
+      "source_path": "Weighted-Boxes-Fusion-in-Object-Detection/Weighted_Boxes_Fusion_vs_Non_Maximum_Suppression.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 319,
+      "project": "What-Makes-DeepSeek-OCR-So-Powerful",
+      "kind": "existing-notebook",
+      "launch_path": "What-Makes-DeepSeek-OCR-So-Powerful/Deepseek-OCR-Q4-transformer.ipynb",
+      "source_path": "What-Makes-DeepSeek-OCR-So-Powerful/Deepseek-OCR-Q4-transformer.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 320,
+      "project": "What-is-EXIF-Data-in-Images",
+      "kind": "existing-notebook",
+      "launch_path": "What-is-EXIF-Data-in-Images/exif.ipynb",
+      "source_path": "What-is-EXIF-Data-in-Images/exif.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 321,
+      "project": "XeusCling",
+      "kind": "existing-notebook",
+      "launch_path": "XeusCling/facialLandmarkDetection.ipynb",
+      "source_path": "XeusCling/facialLandmarkDetection.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 322,
+      "project": "YOLO-Loss-Functions-Part1",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO-Loss-Functions-Part1/focal-loss.ipynb",
+      "source_path": "YOLO-Loss-Functions-Part1/focal-loss.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 323,
+      "project": "YOLO-Loss-Functions-Part2",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO-Loss-Functions-Part2/gfl.ipynb",
+      "source_path": "YOLO-Loss-Functions-Part2/gfl.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 324,
+      "project": "YOLO-NAS-Pose",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO-NAS-Pose/YOLO_NAS_POSE_Inference.ipynb",
+      "source_path": "YOLO-NAS-Pose/YOLO_NAS_POSE_Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 325,
+      "project": "YOLO-NAS_Introduction",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO-NAS_Introduction/YOLO_NAS_Inference_starter_notebook.ipynb",
+      "source_path": "YOLO-NAS_Introduction/YOLO_NAS_Inference_starter_notebook.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 326,
+      "project": "YOLO11",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO11/YOLO11_inference.ipynb",
+      "source_path": "YOLO11/YOLO11_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 327,
+      "project": "YOLO26-NMS-Free-Demo",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO26-NMS-Free-Demo/NMS_Free_Inference_with_YOLO26.ipynb",
+      "source_path": "YOLO26-NMS-Free-Demo/NMS_Free_Inference_with_YOLO26.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 328,
+      "project": "YOLO26-instance-segmentation",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO26-instance-segmentation/YOLO26_Segmentation.ipynb",
+      "source_path": "YOLO26-instance-segmentation/YOLO26_Segmentation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 329,
+      "project": "YOLO26_Keypoint_Estimation",
+      "kind": "existing-notebook",
+      "launch_path": "YOLO26_Keypoint_Estimation/YOLO26_Keypoint_Estimation.ipynb",
+      "source_path": "YOLO26_Keypoint_Estimation/YOLO26_Keypoint_Estimation.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 330,
+      "project": "YOLOE-Real-Time-Seeing-Anything",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOE-Real-Time-Seeing-Anything/yoloe_real_time_seeing_anything.ipynb",
+      "source_path": "YOLOE-Real-Time-Seeing-Anything/yoloe_real_time_seeing_anything.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 331,
+      "project": "YOLOX-Object-Detection-Paper-Explanation-and-Custom-Training",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOX-Object-Detection-Paper-Explanation-and-Custom-Training/DataGenerator.ipynb",
+      "source_path": "YOLOX-Object-Detection-Paper-Explanation-and-Custom-Training/DataGenerator.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 332,
+      "project": "YOLOv10",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOv10/YOLOv10_Inference.ipynb",
+      "source_path": "YOLOv10/YOLOv10_Inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 333,
+      "project": "YOLOv12",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOv12/YOLOv12_inf.ipynb",
+      "source_path": "YOLOv12/YOLOv12_inf.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 334,
+      "project": "YOLOv3-Training-Snowman-Detector",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/334-YOLOv3-Training-Snowman-Detector.ipynb",
+      "source_path": "YOLOv3-Training-Snowman-Detector/getDataFromOpenImages_snowman.py",
+      "official_source": null
+    },
+    {
+      "id": 335,
+      "project": "YOLOv6-Custom-Dataset-Training-Underwater-Trash-Detection",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOv6-Custom-Dataset-Training-Underwater-Trash-Detection/notebooks/yolov6_custom_dataset_training.ipynb",
+      "source_path": "YOLOv6-Custom-Dataset-Training-Underwater-Trash-Detection/notebooks/yolov6_custom_dataset_training.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 336,
+      "project": "YOLOv6-Object-Detection-Paper-Explanation-and-Inference",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOv6-Object-Detection-Paper-Explanation-and-Inference/yolov6_inference.ipynb",
+      "source_path": "YOLOv6-Object-Detection-Paper-Explanation-and-Inference/yolov6_inference.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 337,
+      "project": "YOLOv7-Object-Detection-Paper-Explanation-and-Inference",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/337-YOLOv7-Object-Detection-Paper-Explanation-and-Inference.ipynb",
+      "source_path": "YOLOv7-Object-Detection-Paper-Explanation-and-Inference/yolov7_keypoint.py",
+      "official_source": null
+    },
+    {
+      "id": 338,
+      "project": "YOLOv7-Pose-vs-MediaPipe-in-Human-Pose-Estimation",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/338-YOLOv7-Pose-vs-MediaPipe-in-Human-Pose-Estimation.ipynb",
+      "source_path": "YOLOv7-Pose-vs-MediaPipe-in-Human-Pose-Estimation/yolov7-pose.py",
+      "official_source": null
+    },
+    {
+      "id": 339,
+      "project": "YOLOv8-Object-Tracking-and-Counting-with-OpenCV",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOv8-Object-Tracking-and-Counting-with-OpenCV/YOLOv8_Object_Tracking_and_Counting_with_OpenCV.ipynb",
+      "source_path": "YOLOv8-Object-Tracking-and-Counting-with-OpenCV/YOLOv8_Object_Tracking_and_Counting_with_OpenCV.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 340,
+      "project": "YOLOv9-Advancing-the-YOLO-Legacy",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOv9-Advancing-the-YOLO-Legacy/Inference_using_YOLOv9.ipynb",
+      "source_path": "YOLOv9-Advancing-the-YOLO-Legacy/Inference_using_YOLOv9.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 341,
+      "project": "YOLOv9-Instance-Segmentation-on-Medical-Dataset",
+      "kind": "existing-notebook",
+      "launch_path": "YOLOv9-Instance-Segmentation-on-Medical-Dataset/Yolov8l_1024.ipynb",
+      "source_path": "YOLOv9-Instance-Segmentation-on-Medical-Dataset/Yolov8l_1024.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 342,
+      "project": "YoloR-paper-explanation-analysis",
+      "kind": "existing-notebook",
+      "launch_path": "YoloR-paper-explanation-analysis/Local_Setup_and_Run_Instructions.ipynb",
+      "source_path": "YoloR-paper-explanation-analysis/Local_Setup_and_Run_Instructions.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 343,
+      "project": "app-seperation-semseg",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/343-app-seperation-semseg.ipynb",
+      "source_path": "app-seperation-semseg/Background-Blurring.py",
+      "official_source": null
+    },
+    {
+      "id": 344,
+      "project": "barcode-QRcodeScanner",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/344-barcode-QRcodeScanner.ipynb",
+      "source_path": "barcode-QRcodeScanner/barcode-QRcodeScanner.py",
+      "official_source": null
+    },
+    {
+      "id": 345,
+      "project": "centernet-with-tf-hub",
+      "kind": "existing-notebook",
+      "launch_path": "centernet-with-tf-hub/CenterNet-with-TF-Hub.ipynb",
+      "source_path": "centernet-with-tf-hub/CenterNet-with-TF-Hub.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 346,
+      "project": "cvpr-2024-research-papers-part2",
+      "kind": "existing-notebook",
+      "launch_path": "cvpr-2024-research-papers-part2/Docres/DocRes.ipynb",
+      "source_path": "cvpr-2024-research-papers-part2/Docres/DocRes.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 347,
+      "project": "digits-classification",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/347-digits-classification.ipynb",
+      "source_path": "digits-classification/common.py",
+      "official_source": null
+    },
+    {
+      "id": 348,
+      "project": "docs",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/348-docs.ipynb",
+      "source_path": null,
+      "official_source": "https://jupyterlab.readthedocs.io/en/stable/"
+    },
+    {
+      "id": 349,
+      "project": "downloadOpenImages",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/349-downloadOpenImages.ipynb",
+      "source_path": "downloadOpenImages/downloadOI.py",
+      "official_source": null
+    },
+    {
+      "id": 350,
+      "project": "finetuning-gemma3n",
+      "kind": "existing-notebook",
+      "launch_path": "finetuning-gemma3n/finetune_gemma3n_rocov2.ipynb",
+      "source_path": "finetuning-gemma3n/finetune_gemma3n_rocov2.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 351,
+      "project": "finetuning-retinanet",
+      "kind": "existing-notebook",
+      "launch_path": "finetuning-retinanet/notebooks/data-processing.ipynb",
+      "source_path": "finetuning-retinanet/notebooks/data-processing.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 352,
+      "project": "finetuning-sam2",
+      "kind": "existing-notebook",
+      "launch_path": "finetuning-sam2/sam2-finetuning.ipynb",
+      "source_path": "finetuning-sam2/sam2-finetuning.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 353,
+      "project": "forEach",
+      "kind": "cpp-wrapper",
+      "launch_path": ".cvquest/notebooks/353-forEach.ipynb",
+      "source_path": "forEach/forEach.cpp",
+      "official_source": null
+    },
+    {
+      "id": 354,
+      "project": "gpu_arch_and_CUDA",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/354-gpu_arch_and_CUDA.ipynb",
+      "source_path": "gpu_arch_and_CUDA/profiler_demo_utils.py",
+      "official_source": null
+    },
+    {
+      "id": 355,
+      "project": "hdr",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/355-hdr.ipynb",
+      "source_path": "hdr/hdr.py",
+      "official_source": null
+    },
+    {
+      "id": 356,
+      "project": "heatmap",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/356-heatmap.ipynb",
+      "source_path": "heatmap/generate_heatmap.py",
+      "official_source": null
+    },
+    {
+      "id": 357,
+      "project": "imread",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/357-imread.ipynb",
+      "source_path": "imread/imread_examples.py",
+      "official_source": null
+    },
+    {
+      "id": 358,
+      "project": "industrial_cv_TensorRT_cpp",
+      "kind": "cpp-wrapper",
+      "launch_path": ".cvquest/notebooks/358-industrial_cv_TensorRT_cpp.ipynb",
+      "source_path": "industrial_cv_TensorRT_cpp/inferutils.cpp",
+      "official_source": null
+    },
+    {
+      "id": 359,
+      "project": "industrial_cv_TensorRT_python",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/359-industrial_cv_TensorRT_python.ipynb",
+      "source_path": "industrial_cv_TensorRT_python/pytrt.py",
+      "official_source": "https://docs.nvidia.com/deeplearning/tensorrt/latest/inference-library/python-api-docs.html"
+    },
+    {
+      "id": 360,
+      "project": "medgemma",
+      "kind": "existing-notebook",
+      "launch_path": "medgemma/quick_start_with_hugging_face.ipynb",
+      "source_path": "medgemma/quick_start_with_hugging_face.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 361,
+      "project": "medsam2-explained",
+      "kind": "existing-notebook",
+      "launch_path": "medsam2-explained/MedSAM2_inference_CT_Lesion.ipynb",
+      "source_path": "medsam2-explained/MedSAM2_inference_CT_Lesion.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 362,
+      "project": "ninjaEyeDetector",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/362-ninjaEyeDetector.ipynb",
+      "source_path": "ninjaEyeDetector/ninjaEyeDetector.py",
+      "official_source": null
+    },
+    {
+      "id": 363,
+      "project": "oak-getting-started",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/363-oak-getting-started.ipynb",
+      "source_path": "oak-getting-started/depth.py",
+      "official_source": null
+    },
+    {
+      "id": 364,
+      "project": "oakd-social-distance-monitor",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/364-oakd-social-distance-monitor.ipynb",
+      "source_path": "oakd-social-distance-monitor/main.py",
+      "official_source": null
+    },
+    {
+      "id": 365,
+      "project": "object-detection-with-vlms",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/365-object-detection-with-vlms.ipynb",
+      "source_path": "object-detection-with-vlms/app.py",
+      "official_source": null
+    },
+    {
+      "id": 366,
+      "project": "opencv5-yolo26-football-cpp",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/366-opencv5-yolo26-football-cpp.ipynb",
+      "source_path": "opencv5-yolo26-football-cpp/scripts/export_variants.py",
+      "official_source": null
+    },
+    {
+      "id": 367,
+      "project": "otsu-method",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/367-otsu-method.ipynb",
+      "source_path": "otsu-method/otsu_implementation.py",
+      "official_source": null
+    },
+    {
+      "id": 368,
+      "project": "pymodule",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/368-pymodule.ipynb",
+      "source_path": "pymodule/bvtest.py",
+      "official_source": null
+    },
+    {
+      "id": 369,
+      "project": "qt-test",
+      "kind": "cpp-wrapper",
+      "launch_path": ".cvquest/notebooks/369-qt-test.ipynb",
+      "source_path": "qt-test/camviewer.cpp",
+      "official_source": null
+    },
+    {
+      "id": 370,
+      "project": "qwen3",
+      "kind": "existing-notebook",
+      "launch_path": "qwen3/ollama_qwen3_inf.ipynb",
+      "source_path": "qwen3/ollama_qwen3_inf.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 371,
+      "project": "smolvla",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/371-smolvla.ipynb",
+      "source_path": "smolvla/smolvla_inference.py",
+      "official_source": null
+    },
+    {
+      "id": 372,
+      "project": "speech-to-speech",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/372-speech-to-speech.ipynb",
+      "source_path": null,
+      "official_source": "https://platform.openai.com/docs/guides/realtime"
+    },
+    {
+      "id": 373,
+      "project": "stereo-camera",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/373-stereo-camera.ipynb",
+      "source_path": "stereo-camera/calibrate.py",
+      "official_source": null
+    },
+    {
+      "id": 374,
+      "project": "style-transfer-zoom",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/374-style-transfer-zoom.ipynb",
+      "source_path": "style-transfer-zoom/config.py",
+      "official_source": null
+    },
+    {
+      "id": 375,
+      "project": "t-SNE-with-Tensorboard",
+      "kind": "existing-notebook",
+      "launch_path": "t-SNE-with-Tensorboard/t_SNE_in_TensorBoard.ipynb",
+      "source_path": "t-SNE-with-Tensorboard/t_SNE_in_TensorBoard.ipynb",
+      "official_source": null
+    },
+    {
+      "id": 376,
+      "project": "tracking",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/376-tracking.ipynb",
+      "source_path": "tracking/download_models.py",
+      "official_source": null
+    },
+    {
+      "id": 377,
+      "project": "video-classification-and-human-activity-recognition",
+      "kind": "existing-notebook",
+      "launch_path": "video-classification-and-human-activity-recognition/Introduction_to_Video_Classification_&_Human_Activity_Recognition (1).ipynb",
+      "source_path": "video-classification-and-human-activity-recognition/Introduction_to_Video_Classification_&_Human_Activity_Recognition (1).ipynb",
+      "official_source": null
+    },
+    {
+      "id": 378,
+      "project": "vjepa-2",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/378-vjepa-2.ipynb",
+      "source_path": "vjepa-2/vjepa-2_video_embedding_inference_script.py",
+      "official_source": null
+    },
+    {
+      "id": 379,
+      "project": "yolo11-on-raspberry-pi",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/379-yolo11-on-raspberry-pi.ipynb",
+      "source_path": "yolo11-on-raspberry-pi/benchmark.py",
+      "official_source": null
+    },
+    {
+      "id": 380,
+      "project": "zoom-gestures",
+      "kind": "python-wrapper",
+      "launch_path": ".cvquest/notebooks/380-zoom-gestures.ipynb",
+      "source_path": "zoom-gestures/main.py",
+      "official_source": null
+    },
+    {
+      "id": 381,
+      "project": "﻿industrial_cv_TensorRT_python﻿",
+      "kind": "starter",
+      "launch_path": ".cvquest/notebooks/381-industrial_cv_TensorRT_python.ipynb",
+      "source_path": null,
+      "official_source": "https://docs.nvidia.com/deeplearning/tensorrt/latest/inference-library/python-api-docs.html"
+    }
+  ]
+}

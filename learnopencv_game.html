@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV Quest — LearnOpenCV</title>
+  <style>
+    :root{--ink:#172019;--muted:#68736b;--paper:#f5f1e8;--card:#fffdf8;--green:#245c45;--lime:#d8ef75;--line:#d8d5ca;--orange:#ef8354;--red:#dc2626;--shadow:0 18px 50px rgba(30,50,36,.1)}
+    *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,sans-serif} button,input,select{font:inherit}
+    body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.26;background-image:radial-gradient(#335b48 1px,transparent 1px);background-size:24px 24px}
+    .shell{position:relative;max-width:1240px;margin:auto;padding:28px 24px 60px}.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:28px}.brand{display:flex;align-items:center;gap:12px;font-weight:900;letter-spacing:-.04em;font-size:22px}.logo{display:grid;place-items:center;width:42px;height:42px;border-radius:13px;background:var(--green);color:var(--lime);font-size:22px}.mini{display:flex;gap:10px}.pill{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:9px 14px;font-weight:750}
+    .hero{display:grid;grid-template-columns:1.45fr .55fr;gap:18px;margin-bottom:18px}.hero-main{padding:38px;border-radius:28px;background:var(--green);color:white;box-shadow:var(--shadow);overflow:hidden;position:relative}.hero-main:after{content:"<>";position:absolute;right:28px;bottom:-28px;font:900 130px/1 monospace;color:rgba(216,239,117,.12)}.eyebrow{text-transform:uppercase;letter-spacing:.16em;font-size:12px;font-weight:900;color:var(--lime)}h1{font-size:clamp(34px,5vw,63px);line-height:.96;letter-spacing:-.06em;margin:18px 0 14px;max-width:650px}.hero p{color:#dce8df;max-width:590px;line-height:1.6}.level-card{border-radius:28px;background:var(--lime);padding:30px;display:flex;flex-direction:column;justify-content:space-between}.level-num{font-size:70px;font-weight:950;line-height:1;letter-spacing:-.07em}.bar{height:10px;background:rgba(23,32,25,.14);border-radius:99px;overflow:hidden}.bar>i{display:block;height:100%;background:var(--green);border-radius:99px;transition:width .5s}.level-meta{display:flex;justify-content:space-between;font-size:13px;font-weight:800;margin:10px 0}
+    .stats{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:28px}.stat{background:var(--card);border:1px solid var(--line);padding:16px 18px;border-radius:18px}.stat b{font-size:24px;display:block}.stat span{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.08em;font-weight:800}
+    .content{display:grid;grid-template-columns:1fr 340px;gap:20px}.panel{background:rgba(255,253,248,.92);border:1px solid var(--line);border-radius:24px;padding:22px;box-shadow:var(--shadow)}.panel-head{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:18px}.title-tools{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.jupyter-controls{display:flex;align-items:center;gap:6px}.jupyter-status{width:9px;height:9px;border-radius:50%;background:#a7ada8;box-shadow:0 0 0 4px rgba(167,173,168,.18)}.jupyter-status.running{background:#29a36a;box-shadow:0 0 0 4px rgba(41,163,106,.18)}.btn.tiny{padding:7px 10px;font-size:12px}.panel h2{margin:0;font-size:22px;letter-spacing:-.04em}.filters{display:flex;gap:8px}.filters select,.filters input{max-width:140px;border:1px solid var(--line);border-radius:10px;padding:9px;background:white;color:var(--ink)}
+    .quests{display:grid;gap:10px;max-height:660px;overflow:auto;padding-right:4px}.quest{display:grid;grid-template-columns:50px 1fr auto;gap:14px;align-items:center;border:1px solid var(--line);border-radius:16px;padding:14px;background:white;transition:.2s;cursor:pointer}.quest:hover{transform:translateY(-2px);border-color:#9caa9f}.quest.locked{opacity:.65}.quest.completed{background:#f1f6e1;border-color:#b5d99c}.quest.failed{background:#fef2f2;border-color:#fca5a5}.quest.unavailable{background:#fffbe6;border-color:#fef08a;opacity:.85}.qicon{width:50px;height:50px;border-radius:14px;display:grid;place-items:center;background:#edf1ea;font-size:21px}.quest.unlocked .qicon{background:var(--lime)}.quest.completed .qicon{background:var(--green);color:white}.quest.failed .qicon{background:var(--red);color:white}.quest.unavailable .qicon{background:var(--orange);color:white}.qname{font-weight:850;word-break:break-word}.qmeta{font-size:12px;color:var(--muted);margin-top:4px}.qreason{font-size:11px;color:#991b1b;margin-top:3px;font-weight:600}.quest.unavailable .qreason{color:#92400e}.qactions{display:flex;gap:6px}.btn{border:0;border-radius:11px;padding:9px 12px;font-size:13px;font-weight:850;cursor:pointer;background:var(--green);color:white}.btn:disabled{cursor:not-allowed;background:#afb5b0}.btn.secondary{background:#edf1ea;color:var(--ink)}.btn.excel{background:#16a34a;color:white}.btn.verify{background:#2563eb;color:white}
+    .side{display:grid;gap:16px;align-content:start}.mission{padding:22px;border-radius:20px;background:#f4d6c8;border:1px solid #e9bda9}.mission h3{margin:7px 0}.mission p{font-size:13px;line-height:1.5;color:#6d4c40}.terminal{background:#172019;color:#d8ef75;border-radius:18px;padding:16px;min-height:170px;white-space:pre-wrap;font:12px/1.55 ui-monospace,SFMono-Regular,monospace;overflow:auto}.actions{display:grid;grid-template-columns:1fr;gap:8px}.toast{position:fixed;right:24px;bottom:24px;background:var(--ink);color:white;padding:15px 20px;border-radius:13px;box-shadow:var(--shadow);transform:translateY(100px);opacity:0;transition:.3s;z-index:5}.toast.show{transform:none;opacity:1}.empty{text-align:center;color:var(--muted);padding:48px}
+    @media(max-width:850px){.hero,.content{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}.level-card{min-height:230px}.mini{display:none}} @media(max-width:520px){.shell{padding:18px 14px}.hero-main{padding:28px 22px}.stats{grid-template-columns:1fr 1fr}.panel-head{align-items:flex-start;flex-direction:column}.filters{width:100%}.filters input{min-width:0;width:100%}.quest{grid-template-columns:42px 1fr}.quest .btn{grid-column:2}.qicon{width:42px;height:42px}}
+  </style>
+</head>
+<body><div class="shell">
+  <nav class="topbar"><div class="brand"><span class="logo">◉</span> CV QUEST</div><div class="mini"><span class="pill">🔥 <b id="streak">1</b>일 연속</span><span class="pill">⭐ <b id="xpTop">0</b> XP</span></div></nav>
+  <section class="hero"><div class="hero-main"><div class="eyebrow">Learn · Run · Verify</div><h1>코드로 검증하는<br>컴퓨터 비전 세계</h1><p>LearnOpenCV 프로젝트의 노트북 셀을 직접 실행해 보세요. 전체 실행이 성공하면 통과되고 엑셀 리포트를 다운로드할 수 있습니다.</p></div><div class="level-card"><div><small>현재 레벨</small><div class="level-num" id="level">01</div></div><div><div class="level-meta"><span id="rank">PIXEL ROOKIE</span><span id="xpText">0 / 500 XP</span></div><div class="bar"><i id="xpBar" style="width:0%"></i></div></div></div></section>
+  <section class="stats">
+    <div class="stat"><b id="total">—</b><span>전체 퀘스트</span></div>
+    <div class="stat"><b id="done">—</b><span>통과 (Passed)</span></div>
+    <div class="stat"><b id="available">—</b><span>도전 가능</span></div>
+    <div class="stat"><b id="failedCount">—</b><span>실패 (Failed)</span></div>
+    <div class="stat"><b id="unavailCount">—</b><span>실행 불가</span></div>
+  </section>
+  <main class="content"><section class="panel"><div class="panel-head"><div class="title-tools"><h2>탐험 지도</h2><div class="jupyter-controls"><span id="jupyterStatus" class="jupyter-status" title="Jupyter 중지됨"></span><button id="jupyterStart" class="btn tiny" onclick="controlJupyter('start')">Jupyter Start</button><button id="jupyterStop" class="btn tiny secondary" onclick="controlJupyter('stop')">Stop</button></div></div><div class="filters"><input id="search" placeholder="프로젝트 검색"><select id="statusFilter"><option value="">모든 상태</option><option value="completed">통과 (Passed)</option><option value="unlocked">도전 가능</option><option value="failed">실패 (Failed)</option><option value="unavailable">실행 불가</option><option value="locked">잠김</option></select><select id="type"><option value="">모든 유형</option><option>script</option><option>notebook</option><option>mixed</option><option>docs-only</option></select></div></div><div class="quests" id="quests"><div class="empty">퀘스트를 불러오는 중...</div></div></section>
+  <aside class="side"><section class="mission"><small>오늘의 미션</small><h3>노트북 실행 완료하기</h3><p>Jupyter Notebook에서 셀을 직접 끝까지 실행해 보세요. 오류 없이 동작해야 통과 처리됩니다.</p></section><section class="panel"><h2>컨트롤 센터</h2><div class="actions" style="margin-top:16px"><button class="btn excel" onclick="downloadExcel()">📊 엑셀 리포트 다운로드 (.xlsx)</button><button class="btn secondary" onclick="command('summary')">진행 요약</button><button class="btn secondary" onclick="command('scan')">다시 스캔</button><button class="btn secondary" onclick="resetGame()">초기화</button></div></section><div class="terminal" id="terminal">SYSTEM // 퀘스트 데이터를 동기화합니다...</div></aside></main>
+</div><div class="toast" id="toast"></div>
+<script>
+let data={tasks:[]}; const $=s=>document.querySelector(s); const icons={script:'⌘',notebook:'▦',mixed:'◆','docs-only':'≡'};
+const esc=s=>String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+async function api(url,options){const r=await fetch(url,options);const j=await r.json();if(!r.ok)throw new Error(j.output||j.error||'요청 실패');return j}
+function render(){
+  const completed=data.completed||0,xp=completed*100,level=Math.floor(xp/500)+1,within=xp%500;
+  $('#total').textContent=data.total;$('#done').textContent=completed;$('#available').textContent=data.unlocked||0;
+  $('#failedCount').textContent=data.failed||0;$('#unavailCount').textContent=data.unavailable||0;
+  $('#xpTop').textContent=xp;$('#level').textContent=String(level).padStart(2,'0');$('#xpText').textContent=`${within} / 500 XP`;$('#xpBar').style.width=(within/5)+'%';$('#rank').textContent=level<3?'PIXEL ROOKIE':level<8?'VISION SCOUT':'CV EXPLORER';
+
+  const q=$('#search').value.toLowerCase(),type=$('#type').value,stFilter=$('#statusFilter').value;
+  const list=data.tasks.filter(t=>(!q||t.name.toLowerCase().includes(q))&&(!type||t.classification===type)&&(!stFilter||t.status===stFilter));
+  
+  $('#quests').innerHTML=list.length?list.map(t=>{
+    let badgeText = t.status==='completed'?'✓ 통과':t.status==='failed'?'✕ 실패':t.status==='unavailable'?'⌁ 실행 불가':t.status==='unlocked'?'▶ 도전 가능':'🔒 잠김';
+    let iconChar = t.status==='completed'?'✓':t.status==='failed'?'✕':t.status==='unavailable'?'⌁':icons[t.classification]||'◇';
+    return `<article class="quest ${t.status}" onclick="openNotebook(${t.id})">
+      <div class="qicon">${iconChar}</div>
+      <div>
+        <div class="qname">${esc(t.name)}</div>
+        <div class="qmeta">QUEST ${String(t.id).padStart(3,'0')} · ${esc(t.notebook?.kind||t.classification)} · <b>${badgeText}</b></div>
+        ${t.reason?`<div class="qreason">${esc(t.reason)}</div>`:''}
+      </div>
+      <div class="qactions">
+        <button class="btn secondary" onclick="event.stopPropagation();openNotebook(${t.id})">Jupyter ↗</button>
+        ${t.status==='unlocked'||t.status==='failed'?`<button class="btn verify" onclick="event.stopPropagation();verifyQuest(${t.id})">▶ Run & 검증</button>`:''}
+        ${t.status==='completed'?`<button class="btn" disabled>통과됨</button>`:''}
+      </div>
+    </article>`;
+  }).join(''):'<div class="empty">조건에 맞는 퀘스트가 없습니다.</div>'
+}
+async function load(){try{data=await api('/api/tasks');render();$('#terminal').textContent='SYSTEM // 동기화 완료\nJupyter에서 셀을 직접 실행하거나 Run & 검증 버튼을 누르세요.'}catch(e){$('#terminal').textContent='ERROR // '+e.message}}
+async function command(cmd,id){try{const r=await api('/api/command',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({command:cmd,task_id:id})});$('#terminal').textContent=r.output;await load();return r}catch(e){$('#terminal').textContent='ERROR // '+e.message}}
+async function verifyQuest(id){
+  $('#terminal').textContent=`VERIFY // Task ${id} 실행 검증 중...\n잠시만 기다려 주세요 (셀 백그라운드 테스트 실행)...`;
+  try{
+    const r=await api('/api/verify-run',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({task_id:id})});
+    const res=r.result;
+    if(res.status==='completed'){
+      $('#terminal').textContent=`VERIFY // Task ${id} PASSED! 🎉\n${res.reason}`;
+      toast('실행 성공! 퀘스트 통과 +100 XP ⭐');
+    }else{
+      $('#terminal').textContent=`VERIFY // Task ${id} FAILED / UNAVAILABLE ⚠️\n상태: ${res.status}\n원인: ${res.reason}`;
+      toast('실행 검증 실패 또는 실행 불가 항목입니다.');
+    }
+    await load();
+  }catch(e){
+    $('#terminal').textContent='ERROR // '+e.message;
+  }
+}
+async function openNotebook(id){const tab=window.open('','_blank');if(tab)tab.document.write('<title>JupyterLab 시작 중…</title><p style="font:16px system-ui;padding:32px">JupyterLab을 시작하고 노트북을 여는 중입니다…</p>');try{const r=await api('/api/launch',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({task_id:id})});if(tab)tab.location.href=r.url;else window.location.href=r.url;$('#terminal').textContent=`JUPYTER // 실행 준비 완료\n${r.path}\n\n노트북에서 셀을 실행할 수 있습니다.`;toast('JupyterLab에서 퀘스트를 열었습니다.')}catch(e){if(tab)tab.close();$('#terminal').textContent='ERROR // '+e.message;toast('노트북을 열지 못했습니다.')}}
+function downloadExcel(){window.open('/api/export-excel','_blank');toast('엑셀 리포트 다운로드를 시작합니다 📊')}
+function showJupyterStatus(running){const dot=$('#jupyterStatus');dot.classList.toggle('running',running);dot.title=running?'Jupyter 실행 중':'Jupyter 중지됨';$('#jupyterStart').disabled=running;$('#jupyterStop').disabled=!running}
+async function refreshJupyterStatus(){try{const r=await api('/api/jupyter');showJupyterStatus(r.running)}catch(e){showJupyterStatus(false)}}
+async function controlJupyter(action){$('#terminal').textContent=`JUPYTER // ${action==='start'?'시작':'종료'} 중...`;try{const r=await api('/api/jupyter',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action})});showJupyterStatus(r.running);$('#terminal').textContent=`JUPYTER // ${r.running?'실행 중 · http://127.0.0.1:8888':'정상 종료됨'}`;toast(r.running?'JupyterLab을 시작했습니다.':'JupyterLab을 종료했습니다.')}catch(e){$('#terminal').textContent='ERROR // '+e.message;toast('Jupyter 제어에 실패했습니다.')}}
+async function resetGame(){if(confirm('모든 진행 상황을 초기화할까요?')){await command('reset');toast('새로운 모험이 시작되었습니다.')}}
+function toast(msg){const t=$('#toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),2600)}
+$('#search').addEventListener('input',render);$('#type').addEventListener('change',render);$('#statusFilter').addEventListener('change',render);load();refreshJupyterStatus();setInterval(refreshJupyterStatus,10000);
+</script></body></html>

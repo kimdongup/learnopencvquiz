@@ -1,0 +1,7389 @@
+[
+  {
+    "id": 1,
+    "name": "2D_Gaussian_Splatting_Geometrically_Accurate_Radiance_Field_Reconstruction",
+    "path": "2D_Gaussian_Splatting_Geometrically_Accurate_Radiance_Field_Reconstruction",
+    "status": "unlocked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 2
+    }
+  },
+  {
+    "id": 2,
+    "name": "3D-Gaussian-Splatting-Code",
+    "path": "3D-Gaussian-Splatting-Code",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 1787,
+    "extensions": {
+      ".md": 7,
+      ".12": 1,
+      ".in": 2,
+      ".bib": 2,
+      ".py": 48,
+      ".cu": 25,
+      ".txt": 15,
+      ".cpp": 208,
+      ".cppcheck": 1,
+      ".dat": 2,
+      ".natvis": 1,
+      ".pdf": 1,
+      ".doxy": 1,
+      ".jpg": 12,
+      ".png": 62,
+      ".jpeg": 1,
+      ".css": 4,
+      ".html": 827,
+      ".js": 98,
+      ".hpp": 278,
+      ".cppm": 1,
+      ".inl": 138,
+      ".h": 11,
+      ".cuh": 9,
+      ".rst": 14,
+      ".gif": 3,
+      ".mp4": 1,
+      ".sh": 9,
+      ".csv": 2,
+      ".npz": 1
+    }
+  },
+  {
+    "id": 3,
+    "name": "3D-LiDAR-Object-Detection",
+    "path": "3D-LiDAR-Object-Detection",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run sfa/test.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 81,
+    "extensions": {
+      ".txt": 6,
+      ".md": 1,
+      ".gif": 1,
+      ".pkl": 6,
+      ".pth": 1,
+      ".avi": 2,
+      ".png": 1,
+      ".0": 6,
+      ".4": 4,
+      ".2": 4,
+      ".7": 4,
+      ".5": 4,
+      ".6": 4,
+      ".1": 4,
+      ".3": 4,
+      ".py": 29
+    }
+  },
+  {
+    "id": 4,
+    "name": "3D-LiDAR-Perception",
+    "path": "3D-LiDAR-Perception",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open 3D-lidar-perception.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".zip": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 5,
+    "name": "A-Deep-Dive-into-Tensorflow-Model-Optimization",
+    "path": "A-Deep-Dive-into-Tensorflow-Model-Optimization",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open TensorFlow_Model_Optimization_Deeper_Dive_into_Model_Optimization.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 6,
+    "name": "ADAS-Stereo-Vision",
+    "path": "ADAS-Stereo-Vision",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with main.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 99,
+    "extensions": {
+      ".txt": 15,
+      ".md": 1,
+      ".tar": 1,
+      ".py": 29,
+      ".gif": 7,
+      ".png": 12,
+      ".pfm": 7,
+      ".ipynb": 2,
+      ".sh": 3,
+      ".opencvuniv": 22
+    }
+  },
+  {
+    "id": 7,
+    "name": "AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats",
+    "path": "AI-Fitness-Trainer-Using-MediaPipe-Analyzing-Squats",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run setup.sh from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 12,
+    "extensions": {
+      ".sh": 1,
+      ".txt": 1,
+      ".py": 7,
+      ".md": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 8,
+    "name": "AI_for_Video_Understanding_From_Content_Moderation_to_Summarization",
+    "path": "AI_for_Video_Understanding_From_Content_Moderation_to_Summarization",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run scripts/clip_nsfw.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 9,
+    "name": "ALPR",
+    "path": "ALPR",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with License_plate_detection_YOLOv4.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 246,
+    "extensions": {
+      ".ipynb": 3,
+      ".txt": 5,
+      ".md": 5,
+      ".jpg": 11,
+      ".sh": 18,
+      ".in": 2,
+      ".py": 33,
+      ".ps1": 4,
+      ".json": 1,
+      ".cmake": 3,
+      ".h": 61,
+      ".hpp": 1,
+      ".c": 71,
+      ".log": 2,
+      ".cmd": 5,
+      ".svg": 1,
+      ".cu": 11,
+      ".cpp": 4,
+      ".cs": 1,
+      ".pb": 1
+    }
+  },
+  {
+    "id": 10,
+    "name": "AgeGender",
+    "path": "AgeGender",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run AgeGender.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 21,
+    "extensions": {
+      ".txt": 1,
+      ".pb": 1,
+      ".prototxt": 2,
+      ".jpg": 13,
+      ".md": 1,
+      ".cpp": 1,
+      ".pbtxt": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 11,
+    "name": "Agentic-AI-A-Comprehensive-Introduction",
+    "path": "Agentic-AI-A-Comprehensive-Introduction",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run DIrectionX/services.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".gif": 1,
+      ".py": 7
+    }
+  },
+  {
+    "id": 12,
+    "name": "AlphaBlending",
+    "path": "AlphaBlending",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run alphaBlend.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".png": 2,
+      ".jpg": 2,
+      ".md": 1,
+      ".cpp": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 13,
+    "name": "Annotated-NeRF",
+    "path": "Annotated-NeRF",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with nerf-pytorch/load_blender.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 20,
+    "extensions": {
+      ".md": 2,
+      ".py": 11,
+      ".ipynb": 1,
+      ".txt": 2,
+      ".sh": 1,
+      ".jpg": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 14,
+    "name": "AnomalyCLIP_Harnessing_CLIP_for_Weakly_Supervised_Video_Anomaly_Recognition",
+    "path": "AnomalyCLIP_Harnessing_CLIP_for_Weakly_Supervised_Video_Anomaly_Recognition",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run infer_raw_frames.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".py": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 15,
+    "name": "Anti-Spoofing-Face-Recognition-with-OAK-D",
+    "path": "Anti-Spoofing-Face-Recognition-with-OAK-D",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run face_auth.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 13,
+    "extensions": {
+      ".py": 5,
+      ".txt": 1,
+      ".md": 2,
+      ".png": 2,
+      ".blob": 1,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 16,
+    "name": "Attention_Mechanism_Introduction",
+    "path": "Attention_Mechanism_Introduction",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run mhsa.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 17,
+    "name": "AugmentedRealityWithArucoMarkers",
+    "path": "AugmentedRealityWithArucoMarkers",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run generate_aruco_markers.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 12,
+    "extensions": {
+      ".txt": 2,
+      ".py": 3,
+      ".cpp": 2,
+      ".jpg": 3,
+      ".mp4": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 18,
+    "name": "Autoencoder-in-TensorFlow",
+    "path": "Autoencoder-in-TensorFlow",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Autoencoder_FashionMnist_TensorFlow.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 4,
+    "extensions": {
+      ".txt": 1,
+      ".ipynb": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 19,
+    "name": "Automatic-Document-Scanner",
+    "path": "Automatic-Document-Scanner",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with simple-scan.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 76,
+    "extensions": {
+      ".py": 3,
+      ".txt": 1,
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 1,
+      ".csv": 1,
+      ".jpg": 68
+    }
+  },
+  {
+    "id": 20,
+    "name": "Automatic-Speech-Recognition-with-Diarization-Speech-to-Text",
+    "path": "Automatic-Speech-Recognition-with-Diarization-Speech-to-Text",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Speech_to_text_API_AAI_vs_Gladia_vs_Deepgram.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 3,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 21,
+    "name": "BERT-Bidirectional-Encoder-Representations-from-Transformers",
+    "path": "BERT-Bidirectional-Encoder-Representations-from-Transformers",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open IMDB_BERT_Training.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".txt": 1,
+      ".png": 1
+    }
+  },
+  {
+    "id": 22,
+    "name": "Background-Subtraction",
+    "path": "Background-Subtraction",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run background_subtr_bgslib.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".cpp": 2,
+      ".mp4": 2,
+      ".md": 1,
+      ".py": 3,
+      ".xml": 1
+    }
+  },
+  {
+    "id": 23,
+    "name": "Bag-Of-Tricks-For-Image-Classification",
+    "path": "Bag-Of-Tricks-For-Image-Classification",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with bag-of-tricks-colab.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1,
+      ".py": 6
+    }
+  },
+  {
+    "id": 24,
+    "name": "BatchNormalization",
+    "path": "BatchNormalization",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run cifar10_cnn_bn_100epochs.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".py": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 25,
+    "name": "BlobDetector",
+    "path": "BlobDetector",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run blob.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 2,
+      ".cpp": 1,
+      ".md": 1,
+      ".jpg": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 26,
+    "name": "Build-a-Video-to-Slides-Converter-Application-using-the-Power-of-Background-Estimation-and-Frame-Differencing-in-OpenCV",
+    "path": "Build-a-Video-to-Slides-Converter-Application-using-the-Power-of-Background-Estimation-and-Frame-Differencing-in-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run frame_differencing.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 8,
+    "extensions": {
+      ".txt": 1,
+      ".py": 5,
+      ".md": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 27,
+    "name": "Building MobileViT from Scratch in Keras 3",
+    "path": "Building MobileViT from Scratch in Keras 3",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Keras3_MobileVIT_v1.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 28,
+    "name": "Building-An-Automated-Image-Annotation-Tool-PyOpenAnnotate",
+    "path": "Building-An-Automated-Image-Annotation-Tool-PyOpenAnnotate",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run setup.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 116,
+    "extensions": {
+      ".toml": 1,
+      ".in": 1,
+      ".md": 1,
+      ".py": 6,
+      ".txt": 52,
+      ".mp4": 2,
+      ".jpg": 52
+    }
+  },
+  {
+    "id": 29,
+    "name": "Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2",
+    "path": "Building_Autonomous_Vehicle_in_Carla_Path_Following_with_PID_Control_ROS2",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run src/vehicle_ctrl/setup.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 181,
+    "extensions": {
+      ".md": 3,
+      ".gif": 1,
+      ".xml": 10,
+      ".py": 17,
+      ".cfg": 14,
+      ".osm": 1,
+      ".pcd": 1,
+      ".json": 1,
+      ".rviz": 3,
+      ".txt": 5,
+      ".msg": 18,
+      ".srv": 3,
+      ".rst": 4,
+      ".cpp": 54,
+      ".h": 1,
+      ".hpp": 36,
+      ".launch": 7
+    }
+  },
+  {
+    "id": 30,
+    "name": "CI",
+    "path": "CI",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "This project appears documentation-only and needs porting.",
+    "has_readme": false,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 1,
+    "extensions": {}
+  },
+  {
+    "id": 31,
+    "name": "CVPR-2024",
+    "path": "CVPR-2024",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open colab_demo_pro_tier.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 2,
+      ".md": 1,
+      ".ipynb": 2,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 32,
+    "name": "CameraCalibration",
+    "path": "CameraCalibration",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run cameraCalibration.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 54,
+    "extensions": {
+      ".cpp": 3,
+      ".hpp": 1,
+      ".txt": 2,
+      ".md": 1,
+      ".py": 4,
+      ".jpg": 41,
+      ".cmake": 2
+    }
+  },
+  {
+    "id": 33,
+    "name": "CenterStage",
+    "path": "CenterStage",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 34,
+    "name": "CenterofBlob",
+    "path": "CenterofBlob",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run single_blob.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 12,
+    "extensions": {
+      ".cpp": 3,
+      ".txt": 2,
+      ".py": 3,
+      ".png": 2,
+      ".md": 1,
+      ".cmake": 1
+    }
+  },
+  {
+    "id": 35,
+    "name": "CharClassification",
+    "path": "CharClassification",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run train_model.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".py": 4,
+      ".md": 1,
+      ".jpg": 2,
+      ".ttf": 2
+    }
+  },
+  {
+    "id": 36,
+    "name": "Chrome-Dino-Bot-using-OpenCV-feature-matching",
+    "path": "Chrome-Dino-Bot-using-OpenCV-feature-matching",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Trex.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".jpg": 2,
+      ".txt": 1,
+      ".py": 1,
+      ".png": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 37,
+    "name": "Classification-with-localization-convert-any-keras-classifier-into-a-detector",
+    "path": "Classification-with-localization-convert-any-keras-classifier-into-a-detector",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open [LearnOpenCV]_Classification_With_Localization_Notebook.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 38,
+    "name": "ColorSpaces",
+    "path": "ColorSpaces",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run dataAnalysis.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 77,
+    "extensions": {
+      ".py": 5,
+      ".txt": 2,
+      ".cpp": 2,
+      ".hpp": 1,
+      ".md": 1,
+      ".jpg": 66
+    }
+  },
+  {
+    "id": 39,
+    "name": "Colorization",
+    "path": "Colorization",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run colorization.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 20,
+    "extensions": {
+      ".txt": 3,
+      ".npy": 1,
+      ".png": 1,
+      ".md": 2,
+      ".py": 5,
+      ".cpp": 2,
+      ".mp4": 1,
+      ".sh": 1,
+      ".hpp": 1,
+      ".prototxt": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 40,
+    "name": "Colormap",
+    "path": "Colormap",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run colormap.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".cpp": 2,
+      ".py": 2,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 41,
+    "name": "ComfyUI",
+    "path": "ComfyUI",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".json": 1
+    }
+  },
+  {
+    "id": 42,
+    "name": "Comparing-KerasCV-YOLOv8-Models-on-the-Global-Wheat-Data-2020",
+    "path": "Comparing-KerasCV-YOLOv8-Models-on-the-Global-Wheat-Data-2020",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open KerasCV YOLOv8 large Fine-tuning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 4,
+      ".md": 1
+    }
+  },
+  {
+    "id": 43,
+    "name": "Conditional-GAN-PyTorch-TensorFlow",
+    "path": "Conditional-GAN-PyTorch-TensorFlow",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with TensorFlow/CGAN-RockPaperScissor-TensorFlow.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 8,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 3,
+      ".py": 3
+    }
+  },
+  {
+    "id": 44,
+    "name": "Contour-Detection-using-OpenCV",
+    "path": "Contour-Detection-using-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run python/contour_approximations/contour_approx.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 15,
+    "extensions": {
+      ".md": 1,
+      ".txt": 4,
+      ".py": 4,
+      ".jpg": 3,
+      ".cpp": 3
+    }
+  },
+  {
+    "id": 45,
+    "name": "Contrastive-Learning-SimCLR-and-BYOL",
+    "path": "Contrastive-Learning-SimCLR-and-BYOL",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with byol-implementation/byol/resnet_base_network.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".py": 2,
+      ".ipynb": 2,
+      ".yaml": 1
+    }
+  },
+  {
+    "id": 46,
+    "name": "ControlNet-Achieving-Superior-Image-Generation-Results",
+    "path": "ControlNet-Achieving-Superior-Image-Generation-Results",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open ControlNet.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 47,
+    "name": "ConvexHull",
+    "path": "ConvexHull",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run example.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".cpp": 1,
+      ".txt": 2,
+      ".md": 1,
+      ".py": 2,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 48,
+    "name": "Cosmos-Reason1-Video-Understanding",
+    "path": "Cosmos-Reason1-Video-Understanding",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run cosmos_inference.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".py": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 49,
+    "name": "Create-AR-filters-using-Mediapipe",
+    "path": "Create-AR-filters-using-Mediapipe",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run apply_filter.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 42,
+    "extensions": {
+      ".txt": 2,
+      ".py": 4,
+      ".md": 1,
+      ".png": 22,
+      ".csv": 11,
+      ".jpg": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 50,
+    "name": "Creating-a-Virtual-Pen-and-Eraser",
+    "path": "Creating-a-Virtual-Pen-and-Eraser",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Creating_a_Virtual_Pen_and_Eraser.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".npy": 1,
+      ".png": 1,
+      ".jpg": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 51,
+    "name": "Custom-Object-Detection-Training-using-YOLOv5",
+    "path": "Custom-Object-Detection-Training-using-YOLOv5",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Custom_Object_Detection_using_YOLOv5.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 52,
+    "name": "DDIM-The-Faster-Improved-Version-of-DDPM-for-Efficient-AI-Image-Generation",
+    "path": "DDIM-The-Faster-Improved-Version-of-DDPM-for-Efficient-AI-Image-Generation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open ddim_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 1
+    }
+  },
+  {
+    "id": 53,
+    "name": "DETR-Overview_and_Inference",
+    "path": "DETR-Overview_and_Inference",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open DETR_INFERENCE.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 54,
+    "name": "DINOv2_by_Meta_A_Self-Supervised_foundational_vision_model",
+    "path": "DINOv2_by_Meta_A_Self-Supervised_foundational_vision_model",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open inferencing_with_pretrained_dinov2_base.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".gif": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 55,
+    "name": "DNN-OpenCV-Classification-Android",
+    "path": "DNN-OpenCV-Classification-Android",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Mobilenetv2ToOnnx.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 186,
+    "extensions": {
+      ".py": 1,
+      ".txt": 4,
+      ".md": 1,
+      ".jpg": 1,
+      ".gradle": 4,
+      ".properties": 2,
+      ".bat": 1,
+      ".pro": 1,
+      ".java": 144,
+      ".xml": 11,
+      ".png": 10,
+      ".onnx": 1,
+      ".so": 2,
+      ".aidl": 1,
+      ".jar": 1
+    }
+  },
+  {
+    "id": 56,
+    "name": "DNN-OpenCV-Classification-with-Java",
+    "path": "DNN-OpenCV-Classification-with-Java",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Mobilenetv2ToOnnx.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".py": 1,
+      ".txt": 2,
+      ".md": 1,
+      ".java": 1,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 57,
+    "name": "DUSt3R-Dense-3D-Reconstruction",
+    "path": "DUSt3R-Dense-3D-Reconstruction",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 1,
+    "extensions": {
+      ".md": 1
+    }
+  },
+  {
+    "id": 58,
+    "name": "Deciphering-LLMs",
+    "path": "Deciphering-LLMs",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open LLM_evaluation.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 59,
+    "name": "Decoding-Virats-Flick-Shot",
+    "path": "Decoding-Virats-Flick-Shot",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open bat_swing_plane_v2.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".yml": 1,
+      ".ipynb": 1,
+      ".md": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 60,
+    "name": "Deep-Convolutional-GAN",
+    "path": "Deep-Convolutional-GAN",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with TensorFlow/dcgan_anime_tesnorflow.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 2,
+      ".ipynb": 2
+    }
+  },
+  {
+    "id": 61,
+    "name": "Deep-Learning-with-OpenCV-DNN-Module",
+    "path": "Deep-Learning-with-OpenCV-DNN-Module",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run python/classification/classify.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 24,
+    "extensions": {
+      ".md": 2,
+      ".txt": 7,
+      ".py": 3,
+      ".caffemodel": 1,
+      ".jpg": 4,
+      ".pb": 1,
+      ".prototxt": 1,
+      ".mp4": 2,
+      ".cpp": 3
+    }
+  },
+  {
+    "id": 62,
+    "name": "Delaunay",
+    "path": "Delaunay",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run delaunay.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".txt": 3,
+      ".py": 2,
+      ".md": 1,
+      ".jpg": 1,
+      ".cpp": 1,
+      ".cmake": 2
+    }
+  },
+  {
+    "id": 63,
+    "name": "DenoisingAutoencoder",
+    "path": "DenoisingAutoencoder",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Denoising-Autoencoder-using-Tensorflow.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 64,
+    "name": "Deploying-ML-Models-on-Arduino-From-Blink-to-Think",
+    "path": "Deploying-ML-Models-on-Arduino-From-Blink-to-Think",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Sketches/Digit-Classifier-CNN/manager-over-ble.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 94,
+    "extensions": {
+      ".jpg": 7,
+      ".md": 1,
+      ".h": 9,
+      ".ino": 2,
+      ".py": 1,
+      ".png": 58,
+      ".zip": 1,
+      ".tflite": 8,
+      ".ipynb": 7
+    }
+  },
+  {
+    "id": 65,
+    "name": "Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio",
+    "path": "Deploying-a-Deep-Learning-Model-using-Hugging-Face-Spaces-and-Gradio",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run huggingface_files/app.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".md": 2,
+      ".txt": 1,
+      ".py": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 66,
+    "name": "Deployment-on-Edge-LLM-Serving-on-Jetson-using-vLLM",
+    "path": "Deployment-on-Edge-LLM-Serving-on-Jetson-using-vLLM",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 24,
+    "extensions": {
+      ".txt": 1,
+      ".md": 2,
+      ".png": 12,
+      ".html": 1,
+      ".py": 2,
+      ".svg": 1,
+      ".js": 4,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 67,
+    "name": "Depth-Anything",
+    "path": "Depth-Anything",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open depth-anything-inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 68,
+    "name": "Depth-Perception-Using-Stereo-Camera",
+    "path": "Depth-Perception-Using-Stereo-Camera",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run python/disparity_params_gui.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 20,
+    "extensions": {
+      ".md": 1,
+      ".py": 5,
+      ".txt": 2,
+      ".cpp": 6,
+      ".hpp": 1,
+      ".xml": 5
+    }
+  },
+  {
+    "id": 69,
+    "name": "DepthPro-Monocular-Metric-Depth",
+    "path": "DepthPro-Monocular-Metric-Depth",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with depthpro-app.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".md": 1,
+      ".py": 5,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 70,
+    "name": "Disparity-Estimation-Using-Deep-Learning",
+    "path": "Disparity-Estimation-Using-Deep-Learning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open PSMNet_Test_Example.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 1,
+      ".png": 2,
+      ".md": 1,
+      ".tar raw=true": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 71,
+    "name": "Distributed-Training-PyTorch",
+    "path": "Distributed-Training-PyTorch",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open kaggle-t4-x2-distributed-data-parallelddp-tutorial.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 72,
+    "name": "Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3",
+    "path": "Document-Scanner-Custom-Semantic-Segmentation-using-PyTorch-DeepLabV3",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with generate_doc_set.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 17,
+    "extensions": {
+      ".py": 6,
+      ".md": 2,
+      ".ipynb": 2,
+      ".jpg": 6,
+      ".png": 1
+    }
+  },
+  {
+    "id": 73,
+    "name": "Dreambooth_using_Diffusers",
+    "path": "Dreambooth_using_Diffusers",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Dreambooth_Training.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".zip": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 74,
+    "name": "Driver-Drowsiness-detection-using-Mediapipe-in-Python",
+    "path": "Driver-Drowsiness-detection-using-Mediapipe-in-Python",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with ads.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".txt": 1,
+      ".jpg": 3,
+      ".py": 4,
+      ".md": 1,
+      ".ipynb": 1,
+      ".wav": 1
+    }
+  },
+  {
+    "id": 75,
+    "name": "Drone-Programming-With-Computer-Vision-A-Beginners-Guide",
+    "path": "Drone-Programming-With-Computer-Vision-A-Beginners-Guide",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Tello.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".py": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 76,
+    "name": "Edge-Detection-OpenCV",
+    "path": "Edge-Detection-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run edge_detection.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".txt": 2,
+      ".py": 3,
+      ".cpp": 1,
+      ".md": 1,
+      ".png": 4
+    }
+  },
+  {
+    "id": 77,
+    "name": "Efficient-Background-Removal-using-U2-Net",
+    "path": "Efficient-Background-Removal-using-U2-Net",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open IS_Net_Model_Inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 78,
+    "name": "Efficient-image-loading",
+    "path": "Efficient-image-loading",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run benchmark.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 20,
+    "extensions": {
+      ".py": 7,
+      ".txt": 1,
+      ".md": 1,
+      ".jpg": 11
+    }
+  },
+  {
+    "id": 79,
+    "name": "EfficientNet",
+    "path": "EfficientNet",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open EfficientNet_ResNet50.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 80,
+    "name": "EigenFace",
+    "path": "EigenFace",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with EigenFace.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 243,
+    "extensions": {
+      ".ipynb": 1,
+      ".h": 1,
+      ".md": 1,
+      ".py": 1,
+      ".jpg": 238,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 81,
+    "name": "EpipolarGeometryAndStereoVision",
+    "path": "EpipolarGeometryAndStereoVision",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run stereo.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 1,
+      ".cpp": 1,
+      ".md": 1,
+      ".py": 1,
+      ".png": 2
+    }
+  },
+  {
+    "id": 82,
+    "name": "Exploring-DINO-dino-road-segmentation",
+    "path": "Exploring-DINO-dino-road-segmentation",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with training.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 38,
+    "extensions": {
+      ".ipynb": 3,
+      ".md": 3,
+      ".txt": 1,
+      ".py": 20,
+      ".csv": 6,
+      ".zip": 3,
+      ".sh": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 83,
+    "name": "Exploring-Slicing-Aided-Hyper-Inference",
+    "path": "Exploring-Slicing-Aided-Hyper-Inference",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open sahi_yolov8_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".jpg": 2,
+      ".png": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 84,
+    "name": "ExposureFusion",
+    "path": "ExposureFusion",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run exposureFusion.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 19,
+    "extensions": {
+      ".md": 1,
+      ".py": 1,
+      ".cpp": 1,
+      ".jpg": 16
+    }
+  },
+  {
+    "id": 85,
+    "name": "FBAMatting",
+    "path": "FBAMatting",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run dataloader.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 64,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 9,
+      ".png": 50,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 86,
+    "name": "FCOS-Inference-using-PyTorch",
+    "path": "FCOS-Inference-using-PyTorch",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open pytorch_fcos_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 87,
+    "name": "FPS",
+    "path": "FPS",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run frame_rate.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 8,
+    "extensions": {
+      ".cpp": 1,
+      ".txt": 2,
+      ".py": 4,
+      ".md": 1
+    }
+  },
+  {
+    "id": 88,
+    "name": "Face-Recognition-with-ArcFace",
+    "path": "Face-Recognition-with-ArcFace",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run similarity.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 52,
+    "extensions": {
+      ".txt": 1,
+      ".py": 14,
+      ".md": 1,
+      ".npy": 3,
+      ".jpg": 33
+    }
+  },
+  {
+    "id": 89,
+    "name": "FaceAverage",
+    "path": "FaceAverage",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run faceAverage.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 19,
+    "extensions": {
+      ".py": 2,
+      ".txt": 8,
+      ".cpp": 1,
+      ".md": 1,
+      ".jpg": 7
+    }
+  },
+  {
+    "id": 90,
+    "name": "FaceBlurPixelate",
+    "path": "FaceBlurPixelate",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run yunet_webcam_face_blur.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".py": 1,
+      ".cpp": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 91,
+    "name": "FaceDetectionComparison",
+    "path": "FaceDetectionComparison",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run historical_detector_cli.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 30,
+    "extensions": {
+      ".txt": 3,
+      ".py": 9,
+      ".cpp": 5,
+      ".zip": 1,
+      ".md": 2,
+      ".hpp": 1,
+      ".pb": 1,
+      ".dat": 1,
+      ".prototxt": 1,
+      ".caffemodel": 1,
+      ".xml": 1,
+      ".pbtxt": 1,
+      ".mp4": 3
+    }
+  },
+  {
+    "id": 92,
+    "name": "FaceMaskOverlay",
+    "path": "FaceMaskOverlay",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run overlay_with_mask.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 33,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".pth": 1,
+      ".py": 18,
+      ".yaml": 1,
+      ".prototxt": 1,
+      ".caffemodel": 1,
+      ".png": 4,
+      ".csv": 4
+    }
+  },
+  {
+    "id": 93,
+    "name": "FaceMorph",
+    "path": "FaceMorph",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run faceMorph.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 10,
+    "extensions": {
+      ".txt": 4,
+      ".jpg": 3,
+      ".md": 1,
+      ".py": 1,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 94,
+    "name": "FaceSwap",
+    "path": "FaceSwap",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run faceSwap.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 3,
+      ".jpg": 3,
+      ".py": 1,
+      ".md": 1,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 95,
+    "name": "Facial-Emotion-Recognition",
+    "path": "Facial-Emotion-Recognition",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run expression_ssd_detect.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".mp4": 3,
+      ".md": 1,
+      ".onnx": 1,
+      ".py": 1,
+      ".gif": 1,
+      ".caffemodel": 1,
+      ".prototxt": 1
+    }
+  },
+  {
+    "id": 96,
+    "name": "FacialAttractiveness",
+    "path": "FacialAttractiveness",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run source/trainModel.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 12,
+    "extensions": {
+      ".md": 1,
+      ".py": 3,
+      ".txt": 8
+    }
+  },
+  {
+    "id": 97,
+    "name": "FacialLandmarkDetection",
+    "path": "FacialLandmarkDetection",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run facialLandmarkDetection.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".cpp": 1,
+      ".hpp": 2,
+      ".xml": 1,
+      ".md": 1,
+      ".yaml": 1
+    }
+  },
+  {
+    "id": 98,
+    "name": "Feature-Matching-Using-Neural-Networks",
+    "path": "Feature-Matching-Using-Neural-Networks",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 99,
+    "name": "Federated-Learning-Intro",
+    "path": "Federated-Learning-Intro",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Pysyft_API_Tutorial.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 100,
+    "name": "Fine-Tuning-AnomalyCLIP",
+    "path": "Fine-Tuning-AnomalyCLIP",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run metrics.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".py": 5,
+      ".sh": 3,
+      ".jpg": 1,
+      ".txt": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 101,
+    "name": "Fine-Tuning-BERT-using-Hugging-Face-Transformers",
+    "path": "Fine-Tuning-BERT-using-Hugging-Face-Transformers",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Arxiv_BERT_Training.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 102,
+    "name": "Fine-Tuning-Gemma-3-VLM-using-QLoRA-for-LaTeX-OCR-Dataset",
+    "path": "Fine-Tuning-Gemma-3-VLM-using-QLoRA-for-LaTeX-OCR-Dataset",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open finetune_gemma3_latex.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 103,
+    "name": "Fine-Tuning-Grounding-DINO-Open-Vocabulary-Object-Detection",
+    "path": "Fine-Tuning-Grounding-DINO-Open-Vocabulary-Object-Detection",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run create_annotations_final.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".py": 4,
+      ".md": 1
+    }
+  },
+  {
+    "id": 104,
+    "name": "Fine-Tuning-LLMs-using-PEFT",
+    "path": "Fine-Tuning-LLMs-using-PEFT",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open LoRA_on_samsum.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 2,
+      ".safetensors": 1,
+      ".json": 4,
+      ".model": 1
+    }
+  },
+  {
+    "id": 105,
+    "name": "Fine-Tuning-SegFormer-For-Lane-Detection",
+    "path": "Fine-Tuning-SegFormer-For-Lane-Detection",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Fine-Tune-SegFormer-BDD.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".py": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 106,
+    "name": "Fine-Tuning-T5-Text2Text-Transformer-for-Strack-Overflow-Tag-Generation",
+    "path": "Fine-Tuning-T5-Text2Text-Transformer-for-Strack-Overflow-Tag-Generation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open T5Small_Tag_Generator.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".png": 1
+    }
+  },
+  {
+    "id": 107,
+    "name": "Fine-Tuning-TrOCR",
+    "path": "Fine-Tuning-TrOCR",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Fine_Tune_TrOCR_Curve_Text_Seq2SeqTraining_Printed.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 108,
+    "name": "Fine-Tuning-Whisper-on-Custom-Dataset",
+    "path": "Fine-Tuning-Whisper-on-Custom-Dataset",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with gradio_ui.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".py": 3,
+      ".ipynb": 3,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 109,
+    "name": "Fine-Tuning-YOLO26-Models-Custom-Dataset",
+    "path": "Fine-Tuning-YOLO26-Models-Custom-Dataset",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Fine_Tune_YOLO26_ASL_SignLanguage.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 2,
+      ".jpg": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 110,
+    "name": "Fine-Tuning-YOLOv10-Models-Custom-Dataset",
+    "path": "Fine-Tuning-YOLOv10-Models-Custom-Dataset",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Fine-Tuning-YOLOv10.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 111,
+    "name": "Fine-Tuning-YOLOv12-Comparison-With-YOLOv11-And-YOLOv7-Based-Darknet",
+    "path": "Fine-Tuning-YOLOv12-Comparison-With-YOLOv11-And-YOLOv7-Based-Darknet",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLOv11_fine_tuning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 3,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 112,
+    "name": "Fine-Tuning-YOLOv7",
+    "path": "Fine-Tuning-YOLOv7",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open jupyter_notebook/yolov7_pothole_detection.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 113,
+    "name": "Fine-Tuning-YOLOv9-Models-Custom-Dataset",
+    "path": "Fine-Tuning-YOLOv9-Models-Custom-Dataset",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open yolov9-fine-tuning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".jpg": 3,
+      ".gif": 4
+    }
+  },
+  {
+    "id": 114,
+    "name": "Fine-tuning-Faster-R-CNN-on-SeaRescue-Dataset",
+    "path": "Fine-tuning-Faster-R-CNN-on-SeaRescue-Dataset",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Final_Mobilenet_5e_4_FasterRCNN.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".ipynb": 4,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 115,
+    "name": "Fine-tuning-RF-DETR",
+    "path": "Fine-tuning-RF-DETR",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run scripts/yolo_to_coco.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".gif": 1,
+      ".md": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 116,
+    "name": "Fine-tuning-Stable-Diffusion-3_5-UI-images",
+    "path": "Fine-tuning-Stable-Diffusion-3_5-UI-images",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open scripts/sd3_5m_pretrain_inf_ui (1).ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".png": 2,
+      ".ipynb": 4
+    }
+  },
+  {
+    "id": 117,
+    "name": "Fine-tuning-YOLOv8-Pose-Models-for-Animal-Pose-Estimation",
+    "path": "Fine-tuning-YOLOv8-Pose-Models-for-Animal-Pose-Estimation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Animal_Pose_Estimation_using_YOLOv8.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 118,
+    "name": "Flux-Image-Generation",
+    "path": "Flux-Image-Generation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open flux_inference_scripts/flux_inference_script/flux_youtube_thumbnails.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 10,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".ipynb": 8
+    }
+  },
+  {
+    "id": 119,
+    "name": "FramePack-Video-Diffusion-but-feels-like-Image-Diffusion",
+    "path": "FramePack-Video-Diffusion-but-feels-like-Image-Diffusion",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run inference.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 120,
+    "name": "FunnyMirrors",
+    "path": "FunnyMirrors",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run FunnyMirrorsVideo.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".py": 2,
+      ".jpg": 3,
+      ".md": 1,
+      ".jpeg": 1,
+      ".png": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 121,
+    "name": "GOTURN",
+    "path": "GOTURN",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run goturnTracker.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".mp4": 1,
+      ".prototxt": 1,
+      ".md": 1,
+      ".cpp": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 122,
+    "name": "Getting-Started-OpenCV-CUDA-Module",
+    "path": "Getting-Started-OpenCV-CUDA-Module",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run demo.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".cpp": 1,
+      ".py": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 123,
+    "name": "Getting-Started-with-VLM-on-Jetson-Nano",
+    "path": "Getting-Started-with-VLM-on-Jetson-Nano",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Notebooks/Moondream2-BFloat16.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 8
+    }
+  },
+  {
+    "id": 124,
+    "name": "Getting-Started-with-YOLOv5-Instance-Segmentation",
+    "path": "Getting-Started-with-YOLOv5-Instance-Segmentation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open yolov5_segmentation.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1,
+      ".jpg": 4
+    }
+  },
+  {
+    "id": 125,
+    "name": "GradCAM-Enhancing-Neural-Network-Interpretability",
+    "path": "GradCAM-Enhancing-Neural-Network-Interpretability",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open 01-Fine-Tune-EfficientNetv2-small-on-Brain-MRI.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 2
+    }
+  },
+  {
+    "id": 126,
+    "name": "Graph-Convolutional-Networks-Model-Relations-In-Data",
+    "path": "Graph-Convolutional-Networks-Model-Relations-In-Data",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open graph_convolutional_networks_model_relations_in_data.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 127,
+    "name": "Graphrag-Medical-Document-Analysis",
+    "path": "Graphrag-Medical-Document-Analysis",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run ollama_demo_scrooge.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".py": 4,
+      ".md": 1,
+      ".txt": 2,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 128,
+    "name": "Guide-to-training-DDPMs-from-Scratch",
+    "path": "Guide-to-training-DDPMs-from-Scratch",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Generating_flowers_using_DDPMs.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".gif": 1,
+      ".png": 1
+    }
+  },
+  {
+    "id": 129,
+    "name": "HandPose",
+    "path": "HandPose",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with handPoseImage.cpp or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 13,
+    "extensions": {
+      ".cpp": 2,
+      ".txt": 1,
+      ".py": 2,
+      ".jpg": 3,
+      ".md": 1,
+      ".ipynb": 1,
+      ".mp4": 1,
+      ".sh": 1,
+      ".prototxt": 1
+    }
+  },
+  {
+    "id": 130,
+    "name": "Handwritten_Text_Recognition_using_OCR",
+    "path": "Handwritten_Text_Recognition_using_OCR",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Pretrained_Model_Inference.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".py": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 131,
+    "name": "Hangman",
+    "path": "Hangman",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".png": 1,
+      ".csv": 2,
+      ".md": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 132,
+    "name": "HeadPose",
+    "path": "HeadPose",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run headPose.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 8,
+    "extensions": {
+      ".txt": 2,
+      ".jpg": 2,
+      ".py": 2,
+      ".md": 1,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 133,
+    "name": "Histogram-of-Oriented-Gradients",
+    "path": "Histogram-of-Oriented-Gradients",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run hog.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".cpp": 1,
+      ".txt": 3,
+      ".md": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 134,
+    "name": "Holes",
+    "path": "Holes",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run imfill.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 2,
+      ".py": 2,
+      ".jpg": 1,
+      ".cpp": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 135,
+    "name": "Homography",
+    "path": "Homography",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run virtual-billboard.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 20,
+    "extensions": {
+      ".txt": 2,
+      ".jpg": 4,
+      ".hpp": 1,
+      ".cpp": 5,
+      ".py": 7,
+      ".md": 1
+    }
+  },
+  {
+    "id": 136,
+    "name": "Hough-Transform",
+    "path": "Hough-Transform",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run hough_circles.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 12,
+    "extensions": {
+      ".txt": 2,
+      ".py": 4,
+      ".cpp": 2,
+      ".jpg": 2,
+      ".md": 1,
+      ".hpp": 1
+    }
+  },
+  {
+    "id": 137,
+    "name": "How_to_Build_a_GitHub_Code_Analyser_Agent_for_Developer_Productivity",
+    "path": "How_to_Build_a_GitHub_Code_Analyser_Agent_for_Developer_Productivity",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 138,
+    "name": "HuMoments",
+    "path": "HuMoments",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run shapeMatcher.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 16,
+    "extensions": {
+      ".py": 3,
+      ".txt": 3,
+      ".cpp": 2,
+      ".md": 1,
+      ".png": 7
+    }
+  },
+  {
+    "id": 139,
+    "name": "Human-Action-Recognition-Using-Detectron2-And-Lstm",
+    "path": "Human-Action-Recognition-Using-Detectron2-And-Lstm",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with lstm_train.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 15,
+    "extensions": {
+      ".txt": 1,
+      ".ipynb": 2,
+      ".mp4": 1,
+      ".md": 1,
+      ".py": 6,
+      ".png": 2,
+      ".ckpt": 1,
+      ".html": 1
+    }
+  },
+  {
+    "id": 140,
+    "name": "Image-Captioning-using-ResNet-and-LSTM",
+    "path": "Image-Captioning-using-ResNet-and-LSTM",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with app.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 141,
+    "name": "Image-Classification-in-PyTorch",
+    "path": "Image-Classification-in-PyTorch",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open image_classification_using_transfer_learning_in_pytorch.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 142,
+    "name": "Image-Cropping-OpenCV",
+    "path": "Image-Cropping-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run crop_image.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".py": 3,
+      ".txt": 2,
+      ".cpp": 1,
+      ".md": 1,
+      ".png": 4
+    }
+  },
+  {
+    "id": 143,
+    "name": "Image-Inpainting",
+    "path": "Image-Inpainting",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run inpaint.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 14,
+    "extensions": {
+      ".png": 4,
+      ".py": 2,
+      ".txt": 1,
+      ".jpg": 3,
+      ".md": 1,
+      ".cpp": 1,
+      ".jpeg": 1
+    }
+  },
+  {
+    "id": 144,
+    "name": "Image-Resizing-OpenCV",
+    "path": "Image-Resizing-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run test_resize_image.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".txt": 2,
+      ".py": 3,
+      ".cpp": 1,
+      ".md": 1,
+      ".png": 4
+    }
+  },
+  {
+    "id": 145,
+    "name": "Image-classification-pre-trained-models",
+    "path": "Image-classification-pre-trained-models",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Image_Classification_using_pre_trained_models.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": false,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 1,
+    "extensions": {
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 146,
+    "name": "Image-to-Image-Translation-with-GAN",
+    "path": "Image-to-Image-Translation-with-GAN",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with TensorFlow/pix2pix-tensorflow-single_gpu.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 3,
+      ".ipynb": 2
+    }
+  },
+  {
+    "id": 147,
+    "name": "ImageAlignment",
+    "path": "ImageAlignment",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run image_alignment_simple_example.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 15,
+    "extensions": {
+      ".cpp": 2,
+      ".txt": 2,
+      ".py": 4,
+      ".md": 1,
+      ".jpg": 6
+    }
+  },
+  {
+    "id": 148,
+    "name": "ImageAlignment-FeatureBased",
+    "path": "ImageAlignment-FeatureBased",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run align.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 2,
+      ".py": 2,
+      ".md": 1,
+      ".cpp": 1,
+      ".jpg": 2,
+      ".cmake": 1
+    }
+  },
+  {
+    "id": 149,
+    "name": "ImageMetrics",
+    "path": "ImageMetrics",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run C++/main.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 12,
+    "extensions": {
+      ".md": 2,
+      ".txt": 3,
+      ".cpp": 1,
+      ".py": 2,
+      ".jpg": 1,
+      ".yml": 2
+    }
+  },
+  {
+    "id": 150,
+    "name": "Image_GS_Adaptive_Image_Reconstruction_using_2D_Gaussians",
+    "path": "Image_GS_Adaptive_Image_Reconstruction_using_2D_Gaussians",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run model.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".py": 1,
+      ".md": 2
+    }
+  },
+  {
+    "id": 151,
+    "name": "Improving-Illumination-in-Night-Time-Images",
+    "path": "Improving-Illumination-in-Night-Time-Images",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run python/guidedfilter.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".md": 1,
+      ".py": 2,
+      ".png": 2,
+      ".txt": 2,
+      ".cpp": 2,
+      ".h": 1
+    }
+  },
+  {
+    "id": 152,
+    "name": "Inference-for-PyTorch-Models",
+    "path": "Inference-for-PyTorch-Models",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open ONNX-Caffe2/PyTorch_to_ONNX_for_Inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": false,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 2,
+      ".yml": 1,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 153,
+    "name": "Inference_RF-DETR_YOLO26_RT-DETR",
+    "path": "Inference_RF-DETR_YOLO26_RT-DETR",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Inference_(RT_DETR,_YOLO26,_RF_DETR) (9) (1).ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 10,
+    "extensions": {
+      ".png": 4,
+      ".ipynb": 5,
+      ".md": 1
+    }
+  },
+  {
+    "id": 154,
+    "name": "Inside_RoPE_Position_Embeddings",
+    "path": "Inside_RoPE_Position_Embeddings",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run rotary_with_d.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".py": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 155,
+    "name": "Install-OpenCV-5-on-Linux",
+    "path": "Install-OpenCV-5-on-Linux",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run verify_python.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".py": 1,
+      ".sh": 2,
+      ".md": 1,
+      ".txt": 1,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 156,
+    "name": "Install-OpenCV-Windows-exe",
+    "path": "Install-OpenCV-Windows-exe",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 1,
+    "extensions": {
+      ".md": 1
+    }
+  },
+  {
+    "id": 157,
+    "name": "InstallScripts",
+    "path": "InstallScripts",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 19,
+    "extensions": {
+      ".sh": 12,
+      ".md": 1,
+      ".py": 4,
+      ".bat": 2
+    }
+  },
+  {
+    "id": 158,
+    "name": "InstructPix2Pix-Edit-Images-With-Prompts",
+    "path": "InstructPix2Pix-Edit-Images-With-Prompts",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open IntructPix2Pix_Diffuser.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 159,
+    "name": "Integrating-Gradio-with-OpenCV-DNN",
+    "path": "Integrating-Gradio-with-OpenCV-DNN",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run yolov3.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".py": 3,
+      ".md": 1,
+      ".gif": 1,
+      ".jpg": 1,
+      ".mp4": 2
+    }
+  },
+  {
+    "id": 160,
+    "name": "Intersection-over-Union-IoU-in-Object-Detection-and-Segmentation",
+    "path": "Intersection-over-Union-IoU-in-Object-Detection-and-Segmentation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open IoU_PyTorch.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 161,
+    "name": "Intro-to-Generative-Adversarial-Network",
+    "path": "Intro-to-Generative-Adversarial-Network",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Tensorflow/gan_tensorflow_fashion_mnist.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 48,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 2,
+      ".ipynb": 2,
+      ".data-00000-of-00001": 3,
+      ".index": 3,
+      ".png": 34,
+      ".0": 1
+    }
+  },
+  {
+    "id": 162,
+    "name": "Introduction-to-Diffusion-Models-for-Image-Generation",
+    "path": "Introduction-to-Diffusion-Models-for-Image-Generation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Stable_Diffusion_6GB_VRAM.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".jpg": 1,
+      ".png": 2
+    }
+  },
+  {
+    "id": 163,
+    "name": "Introduction-to-MediaPipe",
+    "path": "Introduction-to-MediaPipe",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open MediaPipe-sample-solutions.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 1,
+      ".txt": 1,
+      ".jpg": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 164,
+    "name": "Introduction-to-OpenVino-Deep-Learning-Workbench",
+    "path": "Introduction-to-OpenVino-Deep-Learning-Workbench",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with object_detection_demo_coco.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".py": 2,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 165,
+    "name": "Introduction-to-PaddlePaddle",
+    "path": "Introduction-to-PaddlePaddle",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Paddle_Detection_PoseEstimation.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 2,
+      ".jpg": 3,
+      ".png": 1
+    }
+  },
+  {
+    "id": 166,
+    "name": "Introduction-to-ROS2-in-python",
+    "path": "Introduction-to-ROS2-in-python",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run ros2_py_ws/src/slam/setup.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 30,
+    "extensions": {
+      ".md": 1,
+      ".xml": 1,
+      ".py": 11,
+      ".cfg": 1,
+      ".txt": 1,
+      ".mp4": 5,
+      ".rviz": 1,
+      ".gif": 1,
+      ".png": 7
+    }
+  },
+  {
+    "id": 167,
+    "name": "Introduction-to-Ultralytics-Explorer-API",
+    "path": "Introduction-to-Ultralytics-Explorer-API",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open explorer.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 168,
+    "name": "Introduction_to_Diffusers",
+    "path": "Introduction_to_Diffusers",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Introduction_to_Diffusers.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 2,
+      ".jpg": 3
+    }
+  },
+  {
+    "id": 169,
+    "name": "InvisibilityCloak",
+    "path": "InvisibilityCloak",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Invisibility_Cloak.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 1,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 170,
+    "name": "Iterative-Closest-Point-ICP",
+    "path": "Iterative-Closest-Point-ICP",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Open3D-icp_registration.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".py": 2,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 171,
+    "name": "Keras-Fine-Tuning",
+    "path": "Keras-Fine-Tuning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open keras-finetune-vgg.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 752,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".jpg": 750
+    }
+  },
+  {
+    "id": 172,
+    "name": "Keras-Fine-Tuning-Pre-Trained-Models",
+    "path": "Keras-Fine-Tuning-Pre-Trained-Models",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Keras-Fine-Tune-Pre-Trained-Models-GTSRB.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 173,
+    "name": "Keras-ImageNet-Models",
+    "path": "Keras-ImageNet-Models",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open pretrained-imagenet-models-classification.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 11,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".jpg": 8
+    }
+  },
+  {
+    "id": 174,
+    "name": "Keras-Implement-Simple-CNN",
+    "path": "Keras-Implement-Simple-CNN",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Keras-Implement-Simple-CNN.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 175,
+    "name": "Keras-Linear-Regression",
+    "path": "Keras-Linear-Regression",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Keras-Linear-Regression.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 176,
+    "name": "Keras-MLP-MNIST-Classification",
+    "path": "Keras-MLP-MNIST-Classification",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Keras-MLP-MNIST-Classification.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 177,
+    "name": "Keras-Object-Detection-TensorFlow-Hub",
+    "path": "Keras-Object-Detection-TensorFlow-Hub",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Keras-Object-Detection-TensorFlow-Hub.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 178,
+    "name": "Keras-Pre-Trained-ImageNet-Models",
+    "path": "Keras-Pre-Trained-ImageNet-Models",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Pre-Trained-ImageNet-Models.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 10,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".png": 8
+    }
+  },
+  {
+    "id": 179,
+    "name": "Keras-Segmentation-TensorFlow-Hub",
+    "path": "Keras-Segmentation-TensorFlow-Hub",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Keras-Segmentation-TensorFlow-Hub.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 180,
+    "name": "Keras-Transfer-Learning",
+    "path": "Keras-Transfer-Learning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open transfer-learning-vgg.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 752,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".jpg": 750
+    }
+  },
+  {
+    "id": 181,
+    "name": "LLaVA",
+    "path": "LLaVA",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run inference_hf_pipeline.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 182,
+    "name": "LangGraph-A-Visual-Automation-and-Summarization-Pipeline",
+    "path": "LangGraph-A-Visual-Automation-and-Summarization-Pipeline",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run browser_automation.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 183,
+    "name": "LangGraph_Building_Self_Correcting_RAG_Agent_for_Code_Generation",
+    "path": "LangGraph_Building_Self_Correcting_RAG_Agent_for_Code_Generation",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run rag_agent.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 184,
+    "name": "LeGO-LOAM-ROS2",
+    "path": "LeGO-LOAM-ROS2",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run LeGO-LOAM/launch/run.launch.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 34,
+    "extensions": {
+      ".pdf": 1,
+      ".md": 2,
+      ".txt": 2,
+      ".xml": 2,
+      ".msg": 1,
+      ".yaml": 2,
+      ".gif": 3,
+      ".png": 2,
+      ".jpg": 2,
+      ".py": 1,
+      ".h": 7,
+      ".hpp": 1,
+      ".rviz": 2,
+      ".cpp": 5
+    }
+  },
+  {
+    "id": 185,
+    "name": "LightRAG-Legal",
+    "path": "LightRAG-Legal",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run gradio_lightrag_querying.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".md": 1,
+      ".py": 2,
+      ".jpg": 2,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 186,
+    "name": "Local-VLM-Agents-in-Action-GUI-Automation-with-Moondream3-and-Gemini",
+    "path": "Local-VLM-Agents-in-Action-GUI-Automation-with-Moondream3-and-Gemini",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with actions.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".py": 2,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 187,
+    "name": "MASt3R-SLAM",
+    "path": "MASt3R-SLAM",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 188,
+    "name": "MASt3R-SfM-3D-Reconstruction-Image-Matching",
+    "path": "MASt3R-SfM-3D-Reconstruction-Image-Matching",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open image-matching.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 189,
+    "name": "MRNet-Single-Model",
+    "path": "MRNet-Single-Model",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run config.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 15,
+    "extensions": {
+      ".py": 8,
+      ".txt": 1,
+      ".md": 2,
+      ".png": 2,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 190,
+    "name": "MRnet-MultiTask-Approach",
+    "path": "MRnet-MultiTask-Approach",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run config.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 17,
+    "extensions": {
+      ".py": 11,
+      ".md": 2,
+      ".png": 2,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 191,
+    "name": "Mask-RCNN",
+    "path": "Mask-RCNN",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run mask_rcnn.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 11,
+    "extensions": {
+      ".jpg": 1,
+      ".txt": 2,
+      ".names": 1,
+      ".cpp": 1,
+      ".md": 1,
+      ".pbtxt": 1,
+      ".py": 1,
+      ".out": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 192,
+    "name": "MatAnyone-Explained-Consistent-Memory-for-Better-Video-Matting",
+    "path": "MatAnyone-Explained-Consistent-Memory-for-Better-Video-Matting",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open matanyone-inf-script.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".gif": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 193,
+    "name": "Medical-Image-Segmentation-Using-HuggingFace-&-PyTorch",
+    "path": "Medical-Image-Segmentation-Using-HuggingFace-&-PyTorch",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Segformer_medical_lightning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 194,
+    "name": "Medical_Multi-label_Classification_with_PyTorch_&_Lightning",
+    "path": "Medical_Multi-label_Classification_with_PyTorch_&_Lightning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open HPA_PT_lightning_colab.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 195,
+    "name": "MiniCPM-o-4.5-Real-Time-Video-Understanding",
+    "path": "MiniCPM-o-4.5-Real-Time-Video-Understanding",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open minicpm_o_full_duplex_video_qa.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 12,
+    "extensions": {
+      ".txt": 1,
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 1,
+      ".mp4": 4,
+      ".wav": 2,
+      ".m4a": 2
+    }
+  },
+  {
+    "id": 196,
+    "name": "Molmo-VLM-SAM2",
+    "path": "Molmo-VLM-SAM2",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Molmo_VLM_SAM2_Segmentation.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 197,
+    "name": "Monocular SLAM for Robotics implementation in python",
+    "path": "Monocular SLAM for Robotics implementation in python",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with pointmap.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 22,
+    "extensions": {
+      ".txt": 4,
+      ".py": 6,
+      ".md": 1,
+      ".jpg": 4,
+      ".mp4": 4,
+      ".ipynb": 3
+    }
+  },
+  {
+    "id": 198,
+    "name": "Moondream-Cloud-API",
+    "path": "Moondream-Cloud-API",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Moondream3.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 199,
+    "name": "Moving-Object-Detection-with-OpenCV",
+    "path": "Moving-Object-Detection-with-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 2,
+      ".gif": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 200,
+    "name": "MultiObjectTracker",
+    "path": "MultiObjectTracker",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run multiTracker.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".cpp": 1,
+      ".md": 1,
+      ".py": 1,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 201,
+    "name": "Multimodal-RAG-with-ColPali-Gemini",
+    "path": "Multimodal-RAG-with-ColPali-Gemini",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Unstructured_Multimodal_Rag.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 3,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 202,
+    "name": "Non-Maximum-Suppression",
+    "path": "Non-Maximum-Suppression",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open nms_pytorch.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".jpg": 4,
+      ".md": 1,
+      ".txt": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 203,
+    "name": "NonPhotorealisticRendering",
+    "path": "NonPhotorealisticRendering",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run npr.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".cpp": 1,
+      ".jpg": 1,
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 204,
+    "name": "OAK-DepthAi-Pipeline-Overview",
+    "path": "OAK-DepthAi-Pipeline-Overview",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run color-camera.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 17,
+    "extensions": {
+      ".py": 14,
+      ".txt": 1,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 205,
+    "name": "OAK-Object-Detection-with-Depth",
+    "path": "OAK-Object-Detection-with-Depth",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run face-det.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 1,
+      ".py": 2,
+      ".md": 1,
+      ".blob": 1,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 206,
+    "name": "OCR",
+    "path": "OCR",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run ocr_simple.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 12,
+    "extensions": {
+      ".txt": 2,
+      ".py": 2,
+      ".md": 1,
+      ".cpp": 1,
+      ".sh": 1,
+      ".png": 1,
+      ".jpg": 4
+    }
+  },
+  {
+    "id": 207,
+    "name": "Object-Detection-on-Edge-Devices",
+    "path": "Object-Detection-on-Edge-Devices",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with oak_d-image-inference.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".py": 3,
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 208,
+    "name": "Object-Detection-using-KerasCV-YOLOv8",
+    "path": "Object-Detection-using-KerasCV-YOLOv8",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open traffic_light_detection_yolov8large.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 209,
+    "name": "Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python",
+    "path": "Object-Detection-using-YOLOv5-and-OpenCV-DNN-in-CPP-and-Python",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Convert_PyTorch_models.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".names": 1,
+      ".txt": 2,
+      ".ipynb": 1,
+      ".md": 1,
+      ".cpp": 1,
+      ".jpg": 1,
+      ".py": 1,
+      ".onnx": 3
+    }
+  },
+  {
+    "id": 210,
+    "name": "Object-Insertion-in-Gaussian-Splatting",
+    "path": "Object-Insertion-in-Gaussian-Splatting",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run src/colmap_rerun.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".py": 3
+    }
+  },
+  {
+    "id": 211,
+    "name": "Object-Keypoint-Similarity-in-Keypoint-Detection",
+    "path": "Object-Keypoint-Similarity-in-Keypoint-Detection",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Object Keypoint Similarity.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 212,
+    "name": "Object-Tracking-OpenCV5",
+    "path": "Object-Tracking-OpenCV5",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run download_models.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".py": 4,
+      ".md": 1,
+      ".txt": 2,
+      ".cpp": 1,
+      ".cmake": 2
+    }
+  },
+  {
+    "id": 213,
+    "name": "Object-Tracking-and-Reidentification-with-FairMOT",
+    "path": "Object-Tracking-and-Reidentification-with-FairMOT",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Tracking_using_FairMOT.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 214,
+    "name": "ObjectDetection-YOLO",
+    "path": "ObjectDetection-YOLO",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run object_detection_yolo.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 11,
+    "extensions": {
+      ".cpp": 1,
+      ".names": 1,
+      ".jpg": 2,
+      ".txt": 1,
+      ".py": 1,
+      ".mp4": 1,
+      ".cfg": 1,
+      ".md": 1,
+      ".sh": 1
+    }
+  },
+  {
+    "id": 215,
+    "name": "OpenCV-dnn-gpu-support-Linux",
+    "path": "OpenCV-dnn-gpu-support-Linux",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run OpenPoseVideo.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".cpp": 1,
+      ".py": 1,
+      ".txt": 1,
+      ".md": 1,
+      ".sh": 1,
+      ".prototxt": 3
+    }
+  },
+  {
+    "id": 216,
+    "name": "OpenCV-dnn-gpu-support-Windows",
+    "path": "OpenCV-dnn-gpu-support-Windows",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run OpenPoseVideo.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".cpp": 1,
+      ".py": 1,
+      ".txt": 1,
+      ".md": 1,
+      ".sh": 1,
+      ".prototxt": 3
+    }
+  },
+  {
+    "id": 217,
+    "name": "OpenPose",
+    "path": "OpenPose",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with OpenPoseImage.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 20,
+    "extensions": {
+      ".py": 5,
+      ".cpp": 2,
+      ".jpeg": 2,
+      ".txt": 2,
+      ".ipynb": 1,
+      ".mp4": 1,
+      ".md": 2,
+      ".hpp": 1,
+      ".sh": 1,
+      ".prototxt": 3
+    }
+  },
+  {
+    "id": 218,
+    "name": "OpenPose-Multi-Person",
+    "path": "OpenPose-Multi-Person",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with multi-person-openpose.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 1,
+      ".jpg": 1,
+      ".py": 1,
+      ".md": 1,
+      ".png": 1,
+      ".ipynb": 1,
+      ".cpp": 1,
+      ".sh": 1,
+      ".prototxt": 1
+    }
+  },
+  {
+    "id": 219,
+    "name": "OpenVINO-OpenCV",
+    "path": "OpenVINO-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run image-classification.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 1,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 220,
+    "name": "Optical-Character-Recognition-using-PaddleOCR",
+    "path": "Optical-Character-Recognition-using-PaddleOCR",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with OCR_inference.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5785,
+    "extensions": {
+      ".ttf": 22,
+      ".ipynb": 2,
+      ".md": 187,
+      ".jpg": 2705,
+      ".txt": 2136,
+      ".sh": 21,
+      ".py": 311,
+      ".in": 1,
+      ".pyx": 1,
+      ".png": 181,
+      ".h": 22,
+      ".cmake": 1,
+      ".cpp": 21,
+      ".jpeg": 1,
+      ".yml": 100,
+      ".cc": 5,
+      ".gif": 7,
+      ".json": 7,
+      ".gradle": 3,
+      ".properties": 4,
+      ".bat": 1,
+      ".pro": 1,
+      ".java": 9,
+      ".xml": 13,
+      ".hpp": 1,
+      ".jar": 1,
+      ".js": 3,
+      ".html": 1,
+      ".cu": 1,
+      ".ttc": 1,
+      ".qrc": 1,
+      ".cfg": 1,
+      ".svg": 6,
+      ".icns": 1
+    }
+  },
+  {
+    "id": 221,
+    "name": "Optical-Flow-Estimation-using-Deep-Learning-RAFT",
+    "path": "Optical-Flow-Estimation-using-Deep-Learning-RAFT",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run inference.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 1,
+      ".pth": 2,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 222,
+    "name": "Optical-Flow-in-OpenCV",
+    "path": "Optical-Flow-in-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run demo.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 14,
+    "extensions": {
+      ".txt": 2,
+      ".md": 1,
+      ".py": 5,
+      ".cpp": 3,
+      ".hpp": 1,
+      ".mp4": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 223,
+    "name": "Photoshop-Filters-in-OpenCV",
+    "path": "Photoshop-Filters-in-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run 60s_TV.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 13,
+    "extensions": {
+      ".txt": 1,
+      ".cpp": 5,
+      ".py": 5,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 224,
+    "name": "Plastic-Waste-Detection-with-Deep-Learning",
+    "path": "Plastic-Waste-Detection-with-Deep-Learning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Image_Web_Scraper.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".png": 2,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 225,
+    "name": "Playing-Chrome-TRex-Game-with-Facial-Gestures",
+    "path": "Playing-Chrome-TRex-Game-with-Facial-Gestures",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open TRex _Game_with_AR.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 14,
+    "extensions": {
+      ".ipynb": 1,
+      ".txt": 2,
+      ".md": 1,
+      ".jpg": 8,
+      ".webp": 1,
+      ".caffemodel": 1
+    }
+  },
+  {
+    "id": 226,
+    "name": "Playing-rock-paper-scissors-with-AI",
+    "path": "Playing-rock-paper-scissors-with-AI",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Rock_paper_scissor.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 1,
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 3,
+      ".jpg": 3
+    }
+  },
+  {
+    "id": 227,
+    "name": "Post-Training-Quantization-with-OpenVino-Toolkit",
+    "path": "Post-Training-Quantization-with-OpenVino-Toolkit",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with object_detection_demo_coco.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".py": 2,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 228,
+    "name": "Posture-analysis-system-using-MediaPipe-Pose",
+    "path": "Posture-analysis-system-using-MediaPipe-Pose",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with human_posture_analysis_video.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".mp4": 2,
+      ".txt": 1,
+      ".py": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 229,
+    "name": "Pothole-Detection-using-YOLOv4-and-Darknet",
+    "path": "Pothole-Detection-using-YOLOv4-and-Darknet",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with custom_inference_script/darknet_video.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".py": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 230,
+    "name": "PyTorch-Fully-Convolutional-Image-Classification",
+    "path": "PyTorch-Fully-Convolutional-Image-Classification",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run FullyConvolutionalResnet18.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".py": 2,
+      ".txt": 2,
+      ".jpg": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 231,
+    "name": "PyTorch-Keypoint-RCNN",
+    "path": "PyTorch-Keypoint-RCNN",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with run_pose_estimation.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 1,
+      ".ipynb": 1,
+      ".jpg": 3
+    }
+  },
+  {
+    "id": 232,
+    "name": "PyTorch-Mask-RCNN",
+    "path": "PyTorch-Mask-RCNN",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open PyTorch_Mask_RCNN.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 13,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 11
+    }
+  },
+  {
+    "id": 233,
+    "name": "PyTorch-Multi-Label-Image-Classification",
+    "path": "PyTorch-Multi-Label-Image-Classification",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with export_to_triton.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 9,
+    "extensions": {
+      ".py": 6,
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 234,
+    "name": "PyTorch-Multi-Label-Image-Classification-Image-Tagging",
+    "path": "PyTorch-Multi-Label-Image-Classification-Image-Tagging",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with create_subset.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 14,
+    "extensions": {
+      ".txt": 5,
+      ".py": 2,
+      ".md": 1,
+      ".ipynb": 1,
+      ".json": 4
+    }
+  },
+  {
+    "id": 235,
+    "name": "PyTorch-ONNX-TensorRT",
+    "path": "PyTorch-ONNX-TensorRT",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run pytorch_model.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 2,
+      ".py": 2,
+      ".jpg": 1,
+      ".md": 1,
+      ".onnx": 1
+    }
+  },
+  {
+    "id": 236,
+    "name": "PyTorch-ONNX-TensorRT-CPP",
+    "path": "PyTorch-ONNX-TensorRT-CPP",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run trt_sample.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".txt": 3,
+      ".cpp": 1,
+      ".py": 2,
+      ".jpg": 1,
+      ".md": 1,
+      ".cmake": 1,
+      ".onnx": 1
+    }
+  },
+  {
+    "id": 237,
+    "name": "PyTorch-Receptive-Field-With-Backprop",
+    "path": "PyTorch-Receptive-Field-With-Backprop",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run FullyConvolutionalResnet18.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".py": 2,
+      ".txt": 2,
+      ".jpg": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 238,
+    "name": "PyTorch-Segmentation-torchvision",
+    "path": "PyTorch-Segmentation-torchvision",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open intro_seg.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 2
+    }
+  },
+  {
+    "id": 239,
+    "name": "PyTorch-Vision-Experiment-Logging",
+    "path": "PyTorch-Vision-Experiment-Logging",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with transforms.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".py": 8,
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 240,
+    "name": "PyTorch-faster-RCNN",
+    "path": "PyTorch-faster-RCNN",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open PyTorch_faster_RCNN.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 4
+    }
+  },
+  {
+    "id": 241,
+    "name": "PyTorch-for-Beginners",
+    "path": "PyTorch-for-Beginners",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open PyTorch_for_Beginners.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 242,
+    "name": "PyTorch-to-CoreML-model-conversion",
+    "path": "PyTorch-to-CoreML-model-conversion",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run torch_to_coreml.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".py": 1,
+      ".txt": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 243,
+    "name": "PyTorch-to-TensorFlow-Model-Conversion",
+    "path": "PyTorch-to-TensorFlow-Model-Conversion",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run FullyConvolutionalResnet18.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".py": 2,
+      ".txt": 2,
+      ".jpg": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 244,
+    "name": "Pytorch-Lightning",
+    "path": "Pytorch-Lightning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Learning_Lightning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 245,
+    "name": "Pytorch-Net-Surgery",
+    "path": "Pytorch-Net-Surgery",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run FullyConvolutionalResnet18.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".py": 6,
+      ".txt": 2,
+      ".jpg": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 246,
+    "name": "QRCode-OpenCV",
+    "path": "QRCode-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run qrCodeOpencv.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".py": 3,
+      ".txt": 3,
+      ".cpp": 1,
+      ".jpg": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 247,
+    "name": "Quora-Dataset-Duplicate-Search",
+    "path": "Quora-Dataset-Duplicate-Search",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Quora-Duplicate-Search.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".py": 1,
+      ".md": 1,
+      ".png": 2
+    }
+  },
+  {
+    "id": 248,
+    "name": "Qwen3-VL-Embedding-Reranker",
+    "path": "Qwen3-VL-Embedding-Reranker",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Qwen3VL_Embedding_Reranker.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 13,
+    "extensions": {
+      ".jpg": 7,
+      ".ipynb": 1,
+      ".md": 1,
+      ".mp4": 4
+    }
+  },
+  {
+    "id": 249,
+    "name": "RAG_LangChain",
+    "path": "RAG_LangChain",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open RAG_langchain.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".pdf": 1
+    }
+  },
+  {
+    "id": 250,
+    "name": "RF_DETR_Segmentation_Demo",
+    "path": "RF_DETR_Segmentation_Demo",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open RF_DETR_Segmentation.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".png": 2,
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 251,
+    "name": "Read-Write-Display-Image-OpenCV",
+    "path": "Read-Write-Display-Image-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run image_io.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".txt": 2,
+      ".py": 3,
+      ".md": 1,
+      ".cpp": 1,
+      ".png": 3,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 252,
+    "name": "Real_Time_Deep_SORT_using_Torchvision_Detectors",
+    "path": "Real_Time_Deep_SORT_using_Torchvision_Detectors",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run deep_sort_tracking.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".py": 3,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 253,
+    "name": "Recommendation-System-using-Vector-Search",
+    "path": "Recommendation-System-using-Vector-Search",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 4,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 254,
+    "name": "ReconstructFaceUsingEigenFaces",
+    "path": "ReconstructFaceUsingEigenFaces",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run createPCAModel.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".py": 2,
+      ".cpp": 2,
+      ".h": 1,
+      ".md": 1,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 255,
+    "name": "RedEyeRemover",
+    "path": "RedEyeRemover",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run removeRedEyes.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".xml": 1,
+      ".jpg": 2,
+      ".py": 1,
+      ".cpp": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 256,
+    "name": "Roadmap-To-an-Automated-Image-Annotation-Tool-Using-Python",
+    "path": "Roadmap-To-an-Automated-Image-Annotation-Tool-Using-Python",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with streamlit-hsv-segment.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 36,
+    "extensions": {
+      ".py": 4,
+      ".txt": 1,
+      ".ipynb": 1,
+      ".md": 1,
+      ".mp4": 2,
+      ".png": 21,
+      ".jpg": 6
+    }
+  },
+  {
+    "id": 257,
+    "name": "Roboflow_Trackers_Demo",
+    "path": "Roboflow_Trackers_Demo",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Roboflow_Trackers.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 258,
+    "name": "RotationMatrixToEulerAngles",
+    "path": "RotationMatrixToEulerAngles",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run rotm2euler.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 2,
+      ".cpp": 1,
+      ".md": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 259,
+    "name": "Running-OpenVino-Models-on-Intel-Integrated-GPU",
+    "path": "Running-OpenVino-Models-on-Intel-Integrated-GPU",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with object_detection_demo_coco.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".py": 2,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 260,
+    "name": "SAM-3",
+    "path": "SAM-3",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open sam3_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".jpg": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 261,
+    "name": "SAM_2_Segment_Anything_Model_2",
+    "path": "SAM_2_Segment_Anything_Model_2",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open custom_code/sam2_tiny_inference_image.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 262,
+    "name": "SDXL-inpainting",
+    "path": "SDXL-inpainting",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with mask-create.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".py": 1,
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 263,
+    "name": "SVM-using-Python",
+    "path": "SVM-using-Python",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run utils.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 11,
+    "extensions": {
+      ".md": 1,
+      ".py": 4,
+      ".txt": 6
+    }
+  },
+  {
+    "id": 264,
+    "name": "Sapiens-Human-Vision-Model-Meta",
+    "path": "Sapiens-Human-Vision-Model-Meta",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Sapiens_Pose+Depth+Normal+Part_Seg.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 265,
+    "name": "SeamlessCloning",
+    "path": "SeamlessCloning",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run laplacian_pyramid_blending.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 13,
+    "extensions": {
+      ".cpp": 3,
+      ".md": 1,
+      ".py": 3,
+      ".jpg": 6
+    }
+  },
+  {
+    "id": 266,
+    "name": "Segment-Anything-A-Foundation-Model-for-Image-Segmentation",
+    "path": "Segment-Anything-A-Foundation-Model-for-Image-Segmentation",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Segment_Anything.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 11,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".py": 1,
+      ".jpg": 8
+    }
+  },
+  {
+    "id": 267,
+    "name": "SelectiveSearch",
+    "path": "SelectiveSearch",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run ssearch.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".jpg": 2,
+      ".cpp": 1,
+      ".py": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 268,
+    "name": "Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus",
+    "path": "Semantic-Segmentation-using-KerasCV-with-DeepLabv3-Plus",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Segmenation_deeplabv3_plus_effnet_v2_s.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 269,
+    "name": "SimLingo-Vision-Language-Action-Model-for-Autonomous-Driving",
+    "path": "SimLingo-Vision-Language-Action-Model-for-Autonomous-Driving",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run inference_script.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".py": 1,
+      ".mp4": 1,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 270,
+    "name": "SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism",
+    "path": "SimSiam-Streamlining-SSL-with-Stop-Gradient-Mechanism",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open SimSiam's Pretraining and Fine-Tuning Implementation in PyTorch/SimSiam_Pretraining_and_Fine_Tuning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 271,
+    "name": "Sinusoidal_Position_Embeddings",
+    "path": "Sinusoidal_Position_Embeddings",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run sinusoidal_testing.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".py": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 272,
+    "name": "SnakeGame",
+    "path": "SnakeGame",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run snake.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".py": 2,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 273,
+    "name": "Snowman-Detector-using-YOLOv5",
+    "path": "Snowman-Detector-using-YOLOv5",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open train_yolov5_snowman_small_train_all.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 2
+    }
+  },
+  {
+    "id": 274,
+    "name": "Stable-Diffusion-3",
+    "path": "Stable-Diffusion-3",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open sd3.5.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 275,
+    "name": "Stable-Diffusion-A-New-Paradigm-in-Generative-AI",
+    "path": "Stable-Diffusion-A-New-Paradigm-in-Generative-AI",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Diffusion_Models_Inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1,
+      ".png": 2
+    }
+  },
+  {
+    "id": 276,
+    "name": "Super-Resolution-in-OpenCV",
+    "path": "Super-Resolution-in-OpenCV",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run super_res.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".txt": 2,
+      ".cpp": 1,
+      ".md": 2,
+      ".py": 3,
+      ".png": 1
+    }
+  },
+  {
+    "id": 277,
+    "name": "TRM",
+    "path": "TRM",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run trm_inference.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".py": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 278,
+    "name": "TSNE",
+    "path": "TSNE",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run animals_dataset.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".py": 3,
+      ".md": 1
+    }
+  },
+  {
+    "id": 279,
+    "name": "TensorBoard-With-Pytorch-Lightning",
+    "path": "TensorBoard-With-Pytorch-Lightning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Tensorboard-with-PyTorch-Lightning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 280,
+    "name": "TensorFlow-Fully-Convolutional-Image-Classification",
+    "path": "TensorFlow-Fully-Convolutional-Image-Classification",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run utils.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 6,
+    "extensions": {
+      ".txt": 2,
+      ".jpg": 1,
+      ".md": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 281,
+    "name": "TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning",
+    "path": "TensorFlow-Lite-Model-Optimization-for-On-Device-MachineLearning",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open TensorFlow_Lite_Model_Optimization_for_On_Device_Machine_Learning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 282,
+    "name": "TensorFlow-Receptive-Field-With-Backprop",
+    "path": "TensorFlow-Receptive-Field-With-Backprop",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run utils.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 2,
+      ".jpg": 1,
+      ".md": 1,
+      ".py": 3
+    }
+  },
+  {
+    "id": 283,
+    "name": "Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML",
+    "path": "Tensorflow-Lite-Model-Maker-Create-Models-for-On-Device-ML",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with TF_Lite_Model_Maker_Create_Models_for_On_Device_Machine_Learning.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".txt": 1,
+      ".ipynb": 1,
+      ".md": 1,
+      ".py": 1,
+      ".tflite": 6
+    }
+  },
+  {
+    "id": 284,
+    "name": "Tetris",
+    "path": "Tetris",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run tetris.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 285,
+    "name": "Text-Summarization-using-T5-Fine-Tuning-and-Building-Gradio-App",
+    "path": "Text-Summarization-using-T5-Fine-Tuning-and-Building-Gradio-App",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with T5Base_BBC_News_Summary.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".py": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 286,
+    "name": "TextDetectionEAST",
+    "path": "TextDetectionEAST",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run textDetection.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 13,
+    "extensions": {
+      ".jpg": 9,
+      ".txt": 1,
+      ".py": 1,
+      ".cpp": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 287,
+    "name": "The-ultimate-guide-to-deeplabv3",
+    "path": "The-ultimate-guide-to-deeplabv3",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Colab_Deeplabv3_pytorch_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 288,
+    "name": "Threshold",
+    "path": "Threshold",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run threshold.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".png": 1,
+      ".py": 1,
+      ".md": 1,
+      ".cpp": 1
+    }
+  },
+  {
+    "id": 289,
+    "name": "TrOCR-Getting-Started-with-Transformer-Based-OCR",
+    "path": "TrOCR-Getting-Started-with-Transformer-Based-OCR",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open TrOCR_Inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1,
+      ".png": 4,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 290,
+    "name": "Train-YOLO-NAS-on-Custom-Dataset",
+    "path": "Train-YOLO-NAS-on-Custom-Dataset",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLO_NAS_Fine_Tuning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 3,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 291,
+    "name": "Train-YOLOv8-Instance-Segmentation-on-Custom-Data",
+    "path": "Train-YOLOv8-Instance-Segmentation-on-Custom-Data",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Trashcan_YOLOV8_Material.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 292,
+    "name": "Train-YOLOv8-on-Custom-Dataset-A-Complete-Tutorial",
+    "path": "Train-YOLOv8-on-Custom-Dataset-A-Complete-Tutorial",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open yolov8_fine_tuning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 293,
+    "name": "Training-CLIP-from-Scratch-for-Image-Retrieval",
+    "path": "Training-CLIP-from-Scratch-for-Image-Retrieval",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open CLIP_PyTorch.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 3,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 294,
+    "name": "Training_3D_U-Net_Brain_Tumor_Seg",
+    "path": "Training_3D_U-Net_Brain_Tumor_Seg",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open 01_Data_preprocessing.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 2,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 295,
+    "name": "Training_a_custom_hand_detector_with_dlib",
+    "path": "Training_a_custom_hand_detector_with_dlib",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Training_a_custom_hand_Detector.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 3,
+      ".svm": 2,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 296,
+    "name": "UI-cvui",
+    "path": "UI-cvui",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run hello-world.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".md": 2,
+      ".jpg": 1,
+      ".h": 1,
+      ".cpp": 2
+    }
+  },
+  {
+    "id": 297,
+    "name": "Ultimate_Guide_to_Vector_Databases_and_RAG_pipeline",
+    "path": "Ultimate_Guide_to_Vector_Databases_and_RAG_pipeline",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open vector_db_qdrant_vlm.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".ipynb": 6,
+      ".jpg": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 298,
+    "name": "Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models",
+    "path": "Ultralytics-YOLOv8-State-of-the-Art-YOLO-Models",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open yolov8_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1,
+      ".jpg": 4
+    }
+  },
+  {
+    "id": 299,
+    "name": "Understanding-CNNs",
+    "path": "Understanding-CNNs",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Understanding-CNNs.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 300,
+    "name": "Understanding-Multiple-Object-Tracking-using-DeepSORT",
+    "path": "Understanding-Multiple-Object-Tracking-using-DeepSORT",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Understanding_Multiple_Object_Tracking_using_DeepSORT.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 155,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 7,
+      ".txt": 18,
+      ".py": 58,
+      ".mp4": 13,
+      ".pt": 1,
+      ".zip": 1,
+      ".cfg": 1,
+      ".html": 1,
+      ".pb": 1,
+      ".yaml": 39,
+      ".sh": 5,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 301,
+    "name": "UnderstandingLensDistortion",
+    "path": "UnderstandingLensDistortion",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Undistort.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 50,
+    "extensions": {
+      ".txt": 2,
+      ".hpp": 1,
+      ".cpp": 3,
+      ".py": 2,
+      ".md": 1,
+      ".jpg": 41
+    }
+  },
+  {
+    "id": 302,
+    "name": "Universal-Sentence-Encoder",
+    "path": "Universal-Sentence-Encoder",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run embedText.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 57,
+    "extensions": {
+      ".md": 1,
+      ".py": 4,
+      ".txt": 51,
+      ".png": 1
+    }
+  },
+  {
+    "id": 303,
+    "name": "Unsloth_A_Guide_From_Basics_to_Fine_Tuning_Vision_Models",
+    "path": "Unsloth_A_Guide_From_Basics_to_Fine_Tuning_Vision_Models",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Fine_Tuning_Qwen2_5_VL_(7B)_Vision_using_Unsloth.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".gif": 1,
+      ".ipynb": 1,
+      ".py": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 304,
+    "name": "VGGT-3D-Reconstruction",
+    "path": "VGGT-3D-Reconstruction",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open vggt_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 305,
+    "name": "VJEPA-2-Video-Classification",
+    "path": "VJEPA-2-Video-Classification",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run vjepa-2_video_embedding_inference_script.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".py": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 306,
+    "name": "VLM-on-Edge-Worth-the-Hype-or-Just-a-Novelty",
+    "path": "VLM-on-Edge-Worth-the-Hype-or-Just-a-Novelty",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run vlm-test.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 33,
+    "extensions": {
+      ".txt": 1,
+      ".py": 1,
+      ".md": 1,
+      ".png": 25,
+      ".jpg": 4,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 307,
+    "name": "VLM_Evaluation_Metrics",
+    "path": "VLM_Evaluation_Metrics",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run bleu_evaluation_with_smolvlm_instruct.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".py": 1,
+      ".md": 1,
+      ".png": 1
+    }
+  },
+  {
+    "id": 308,
+    "name": "Variational-Autoencoder-TensorFlow",
+    "path": "Variational-Autoencoder-TensorFlow",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open VAE_Cartoon_TensorFlow.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 4,
+    "extensions": {
+      ".txt": 1,
+      ".ipynb": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 309,
+    "name": "Video-Generation-A-Diffusion-based-approach",
+    "path": "Video-Generation-A-Diffusion-based-approach",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Hunyuan_Video_inf.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".gif": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 310,
+    "name": "Video-RAG_Training_Free_Retrieval_for_Long_Video_LVLMs",
+    "path": "Video-RAG_Training_Free_Retrieval_for_Long_Video_LVLMs",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run builder.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".gif": 1,
+      ".py": 2,
+      ".md": 1
+    }
+  },
+  {
+    "id": 311,
+    "name": "VideoBackgroundEstimation",
+    "path": "VideoBackgroundEstimation",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run removeVideoBg.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".py": 1,
+      ".txt": 1,
+      ".cpp": 1,
+      ".mp4": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 312,
+    "name": "VideoReadWriteDisplay",
+    "path": "VideoReadWriteDisplay",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run videoRead.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 10,
+    "extensions": {
+      ".mp4": 1,
+      ".txt": 3,
+      ".md": 1,
+      ".py": 3,
+      ".cpp": 2
+    }
+  },
+  {
+    "id": 313,
+    "name": "VideoStabilization",
+    "path": "VideoStabilization",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run video_stabilization.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 2,
+      ".jpg": 1,
+      ".cpp": 1,
+      ".mp4": 1,
+      ".md": 1,
+      ".py": 2,
+      ".cmake": 1
+    }
+  },
+  {
+    "id": 314,
+    "name": "Vision-Language-Action-Models",
+    "path": "Vision-Language-Action-Models",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Pi_Zero_Lerobot.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 3,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 315,
+    "name": "Vision_Transformer_PyTorch",
+    "path": "Vision_Transformer_PyTorch",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run vitconfigs.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".py": 4,
+      ".md": 1
+    }
+  },
+  {
+    "id": 316,
+    "name": "WarpTriangle",
+    "path": "WarpTriangle",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run warpTriangle.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".cpp": 1,
+      ".py": 1,
+      ".md": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 317,
+    "name": "WeChat-QRCode-Scanner-OpenCV",
+    "path": "WeChat-QRCode-Scanner-OpenCV",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Python/QRCode-comparision.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 18,
+    "extensions": {
+      ".md": 4,
+      ".gif": 1,
+      ".txt": 2,
+      ".py": 2,
+      ".mp4": 1,
+      ".ipynb": 1,
+      ".jpg": 2,
+      ".cpp": 1,
+      ".prototxt": 2,
+      ".caffemodel": 2
+    }
+  },
+  {
+    "id": 318,
+    "name": "Weighted-Boxes-Fusion-in-Object-Detection",
+    "path": "Weighted-Boxes-Fusion-in-Object-Detection",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Weighted_Boxes_Fusion_vs_Non_Maximum_Suppression.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 319,
+    "name": "What-Makes-DeepSeek-OCR-So-Powerful",
+    "path": "What-Makes-DeepSeek-OCR-So-Powerful",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Deepseek-OCR-transformer.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 13,
+    "extensions": {
+      ".ipynb": 3,
+      ".md": 1,
+      ".txt": 1,
+      ".mmd": 4,
+      ".jpg": 4
+    }
+  },
+  {
+    "id": 320,
+    "name": "What-is-EXIF-Data-in-Images",
+    "path": "What-is-EXIF-Data-in-Images",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with map.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".md": 1,
+      ".py": 1,
+      ".ipynb": 1,
+      ".jpg": 5
+    }
+  },
+  {
+    "id": 321,
+    "name": "XeusCling",
+    "path": "XeusCling",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open facialLandmarkDetection.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".h": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 322,
+    "name": "YOLO-Loss-Functions-Part1",
+    "path": "YOLO-Loss-Functions-Part1",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open siou-loss.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".jpg": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 323,
+    "name": "YOLO-Loss-Functions-Part2",
+    "path": "YOLO-Loss-Functions-Part2",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open vfl.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 324,
+    "name": "YOLO-NAS-Pose",
+    "path": "YOLO-NAS-Pose",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLO_NAS_POSE_Inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 325,
+    "name": "YOLO-NAS_Introduction",
+    "path": "YOLO-NAS_Introduction",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLO_NAS_Inference_starter_notebook.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 326,
+    "name": "YOLO11",
+    "path": "YOLO11",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLO11_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 327,
+    "name": "YOLO26-NMS-Free-Demo",
+    "path": "YOLO26-NMS-Free-Demo",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open NMS_Free_Inference_with_YOLO26.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".png": 3,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 328,
+    "name": "YOLO26-instance-segmentation",
+    "path": "YOLO26-instance-segmentation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLO26_Segmentation.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".png": 1
+    }
+  },
+  {
+    "id": 329,
+    "name": "YOLO26_Keypoint_Estimation",
+    "path": "YOLO26_Keypoint_Estimation",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLO26_Keypoint_Estimation.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 330,
+    "name": "YOLOE-Real-Time-Seeing-Anything",
+    "path": "YOLOE-Real-Time-Seeing-Anything",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open yoloe_real_time_seeing_anything.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".jpg": 1,
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 331,
+    "name": "YOLOX-Object-Detection-Paper-Explanation-and-Custom-Training",
+    "path": "YOLOX-Object-Detection-Paper-Explanation-and-Custom-Training",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open DataGenerator.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".md": 1,
+      ".zip": 2,
+      ".ipynb": 2,
+      ".png": 2,
+      ".jpg": 2
+    }
+  },
+  {
+    "id": 332,
+    "name": "YOLOv10",
+    "path": "YOLOv10",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLOv10_Inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 333,
+    "name": "YOLOv12",
+    "path": "YOLOv12",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open YOLOv12_inf.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 334,
+    "name": "YOLOv3-Training-Snowman-Detector",
+    "path": "YOLOv3-Training-Snowman-Detector",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run object_detection_yolo.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 8,
+    "extensions": {
+      ".py": 4,
+      ".cfg": 1,
+      ".data": 1,
+      ".md": 1,
+      ".names": 1
+    }
+  },
+  {
+    "id": 335,
+    "name": "YOLOv6-Custom-Dataset-Training-Underwater-Trash-Detection",
+    "path": "YOLOv6-Custom-Dataset-Training-Underwater-Trash-Detection",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open notebooks/yolov6_custom_dataset_training.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 2
+    }
+  },
+  {
+    "id": 336,
+    "name": "YOLOv6-Object-Detection-Paper-Explanation-and-Inference",
+    "path": "YOLOv6-Object-Detection-Paper-Explanation-and-Inference",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open yolov6_inference.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 1,
+      ".gif": 1,
+      ".jpg": 4
+    }
+  },
+  {
+    "id": 337,
+    "name": "YOLOv7-Object-Detection-Paper-Explanation-and-Inference",
+    "path": "YOLOv7-Object-Detection-Paper-Explanation-and-Inference",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run yolov7_keypoint.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".py": 1,
+      ".gif": 2
+    }
+  },
+  {
+    "id": 338,
+    "name": "YOLOv7-Pose-vs-MediaPipe-in-Human-Pose-Estimation",
+    "path": "YOLOv7-Pose-vs-MediaPipe-in-Human-Pose-Estimation",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run yolov7-pose.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 12,
+    "extensions": {
+      ".py": 4,
+      ".md": 1,
+      ".mp4": 7
+    }
+  },
+  {
+    "id": 339,
+    "name": "YOLOv8-Object-Tracking-and-Counting-with-OpenCV",
+    "path": "YOLOv8-Object-Tracking-and-Counting-with-OpenCV",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with frame_corner_point.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".py": 2,
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 340,
+    "name": "YOLOv9-Advancing-the-YOLO-Legacy",
+    "path": "YOLOv9-Advancing-the-YOLO-Legacy",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with Inference_using_YOLOv9.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".py": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 341,
+    "name": "YOLOv9-Instance-Segmentation-on-Medical-Dataset",
+    "path": "YOLOv9-Instance-Segmentation-on-Medical-Dataset",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Yolov8l_640.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 26,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 6,
+      ".gif": 1,
+      ".png": 18
+    }
+  },
+  {
+    "id": 342,
+    "name": "YoloR-paper-explanation-analysis",
+    "path": "YoloR-paper-explanation-analysis",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with YoloR_Inference_Colab.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 11,
+    "extensions": {
+      ".ipynb": 2,
+      ".md": 1,
+      ".jpg": 1,
+      ".mp4": 1,
+      ".py": 6
+    }
+  },
+  {
+    "id": 343,
+    "name": "app-seperation-semseg",
+    "path": "app-seperation-semseg",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run Background-Grayscale.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 17,
+    "extensions": {
+      ".py": 4,
+      ".md": 1,
+      ".png": 12
+    }
+  },
+  {
+    "id": 344,
+    "name": "barcode-QRcodeScanner",
+    "path": "barcode-QRcodeScanner",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run barcode-QRcodeScanner.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".jpg": 1,
+      ".txt": 2,
+      ".py": 2,
+      ".cpp": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 345,
+    "name": "centernet-with-tf-hub",
+    "path": "centernet-with-tf-hub",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open CenterNet-with-TF-Hub.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1
+    }
+  },
+  {
+    "id": 346,
+    "name": "cvpr-2024-research-papers-part2",
+    "path": "cvpr-2024-research-papers-part2",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Florence-2/gradio.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 58,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1,
+      ".png": 40,
+      ".ipynb": 2,
+      ".jpg": 14
+    }
+  },
+  {
+    "id": 347,
+    "name": "digits-classification",
+    "path": "digits-classification",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run train_digits.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".png": 1,
+      ".md": 1,
+      ".cpp": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 348,
+    "name": "docs",
+    "path": "docs",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "This project appears documentation-only and needs porting.",
+    "has_readme": false,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 1,
+    "extensions": {
+      ".png": 1
+    }
+  },
+  {
+    "id": 349,
+    "name": "downloadOpenImages",
+    "path": "downloadOpenImages",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run downloadOI.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".py": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 350,
+    "name": "finetuning-gemma3n",
+    "path": "finetuning-gemma3n",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open finetune_gemma3n_rocov2.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 351,
+    "name": "finetuning-retinanet",
+    "path": "finetuning-retinanet",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with config.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 14,
+    "extensions": {
+      ".py": 9,
+      ".txt": 1,
+      ".md": 1,
+      ".gif": 1,
+      ".ipynb": 2
+    }
+  },
+  {
+    "id": 352,
+    "name": "finetuning-sam2",
+    "path": "finetuning-sam2",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open sam2-finetuning.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 353,
+    "name": "forEach",
+    "path": "forEach",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run forEach.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".jpg": 1,
+      ".cpp": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 354,
+    "name": "gpu_arch_and_CUDA",
+    "path": "gpu_arch_and_CUDA",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run pytorch_profiler_demo.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".py": 2,
+      ".md": 1,
+      ".cu": 1
+    }
+  },
+  {
+    "id": 355,
+    "name": "hdr",
+    "path": "hdr",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run hdr.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 7,
+    "extensions": {
+      ".jpg": 4,
+      ".cpp": 1,
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 356,
+    "name": "heatmap",
+    "path": "heatmap",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run generate_heatmap.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".py": 1
+    }
+  },
+  {
+    "id": 357,
+    "name": "imread",
+    "path": "imread",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run imread_examples.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".py": 1,
+      ".png": 1,
+      ".cpp": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 358,
+    "name": "industrial_cv_TensorRT_cpp",
+    "path": "industrial_cv_TensorRT_cpp",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run sample.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".cpp": 2,
+      ".md": 1,
+      ".h": 1
+    }
+  },
+  {
+    "id": 359,
+    "name": "industrial_cv_TensorRT_python",
+    "path": "industrial_cv_TensorRT_python",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run segmodel_to_onnx.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 6,
+    "extensions": {
+      ".py": 3,
+      ".png": 1,
+      ".md": 1,
+      ".ich": 1
+    }
+  },
+  {
+    "id": 360,
+    "name": "medgemma",
+    "path": "medgemma",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with app.py or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 7,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 1,
+      ".ipynb": 1,
+      ".gif": 1,
+      ".jpg": 1
+    }
+  },
+  {
+    "id": 361,
+    "name": "medsam2-explained",
+    "path": "medsam2-explained",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open MedSAM2_Inference_Video.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".md": 1,
+      ".ipynb": 2,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 362,
+    "name": "ninjaEyeDetector",
+    "path": "ninjaEyeDetector",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run ninjaEyeDetector.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 4,
+    "extensions": {
+      ".py": 1,
+      ".md": 1,
+      ".cpp": 1,
+      ".xml": 1
+    }
+  },
+  {
+    "id": 363,
+    "name": "oak-getting-started",
+    "path": "oak-getting-started",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run depth.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".py": 2
+    }
+  },
+  {
+    "id": 364,
+    "name": "oakd-social-distance-monitor",
+    "path": "oakd-social-distance-monitor",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".py": 1,
+      ".blob": 1
+    }
+  },
+  {
+    "id": 365,
+    "name": "object-detection-with-vlms",
+    "path": "object-detection-with-vlms",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run qwen.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 2,
+      ".gif": 1,
+      ".jpg": 4
+    }
+  },
+  {
+    "id": 366,
+    "name": "opencv5-yolo26-football-cpp",
+    "path": "opencv5-yolo26-football-cpp",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run build_opencv5.sh from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 26,
+    "extensions": {
+      ".jpg": 6,
+      ".sh": 2,
+      ".txt": 2,
+      ".md": 1,
+      ".py": 2,
+      ".mp4": 4,
+      ".cpp": 7,
+      ".hpp": 2
+    }
+  },
+  {
+    "id": 367,
+    "name": "otsu-method",
+    "path": "otsu-method",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run otsu_implementation.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 11,
+    "extensions": {
+      ".jpg": 1,
+      ".txt": 2,
+      ".cpp": 3,
+      ".py": 3,
+      ".md": 1,
+      ".hpp": 1
+    }
+  },
+  {
+    "id": 368,
+    "name": "pymodule",
+    "path": "pymodule",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run bv.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 10,
+    "extensions": {
+      ".cpp": 2,
+      ".hpp": 2,
+      ".txt": 1,
+      ".md": 1,
+      ".jpg": 1,
+      ".py": 3
+    }
+  },
+  {
+    "id": 369,
+    "name": "qt-test",
+    "path": "qt-test",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run camviewer.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 1,
+      ".h": 2,
+      ".ui": 1,
+      ".cpp": 3,
+      ".md": 1,
+      ".pro": 1
+    }
+  },
+  {
+    "id": 370,
+    "name": "qwen3",
+    "path": "qwen3",
+    "status": "locked",
+    "classification": "mixed",
+    "runnable": true,
+    "recommendation": "This project has both notebooks and scripts. Start with ollama_qwen3_inf.ipynb or follow README instructions.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 5,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".ipynb": 1,
+      ".py": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 371,
+    "name": "smolvla",
+    "path": "smolvla",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run smolvla_inference.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".md": 1,
+      ".py": 1,
+      ".png": 1
+    }
+  },
+  {
+    "id": 372,
+    "name": "speech-to-speech",
+    "path": "speech-to-speech",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 373,
+    "name": "stereo-camera",
+    "path": "stereo-camera",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run movie3d.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 68,
+    "extensions": {
+      ".txt": 1,
+      ".cpp": 3,
+      ".py": 3,
+      ".md": 1,
+      ".mp4": 4,
+      ".xml": 2,
+      ".png": 54
+    }
+  },
+  {
+    "id": 374,
+    "name": "style-transfer-zoom",
+    "path": "style-transfer-zoom",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run train.sh from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 13,
+    "extensions": {
+      ".sh": 1,
+      ".py": 7,
+      ".md": 1,
+      ".yml": 1,
+      ".jpg": 1,
+      ".pth": 2
+    }
+  },
+  {
+    "id": 375,
+    "name": "t-SNE-with-Tensorboard",
+    "path": "t-SNE-with-Tensorboard",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open t_SNE_in_TensorBoard.ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 2,
+    "extensions": {
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 376,
+    "name": "tracking",
+    "path": "tracking",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run tracker.cpp from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 13,
+    "extensions": {
+      ".cpp": 1,
+      ".txt": 3,
+      ".py": 6,
+      ".md": 2,
+      ".mp4": 1
+    }
+  },
+  {
+    "id": 377,
+    "name": "video-classification-and-human-activity-recognition",
+    "path": "video-classification-and-human-activity-recognition",
+    "status": "locked",
+    "classification": "notebook",
+    "runnable": true,
+    "recommendation": "Open Introduction_to_Video_Classification_&_Human_Activity_Recognition (1).ipynb in Jupyter or VS Code Notebook.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 3,
+    "extensions": {
+      ".txt": 1,
+      ".ipynb": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 378,
+    "name": "vjepa-2",
+    "path": "vjepa-2",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run vjepa-2_video_embedding_inference_script.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 3,
+    "extensions": {
+      ".jpg": 1,
+      ".py": 1,
+      ".md": 1
+    }
+  },
+  {
+    "id": 379,
+    "name": "yolo11-on-raspberry-pi",
+    "path": "yolo11-on-raspberry-pi",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run benchmark.py from the project folder or inspect README for details.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 5,
+    "extensions": {
+      ".py": 3,
+      ".md": 1,
+      ".gif": 1
+    }
+  },
+  {
+    "id": 380,
+    "name": "zoom-gestures",
+    "path": "zoom-gestures",
+    "status": "locked",
+    "classification": "script",
+    "runnable": true,
+    "recommendation": "Run `python main.py` from the project folder.",
+    "has_readme": true,
+    "has_requirements": true,
+    "has_env": true,
+    "file_count": 9,
+    "extensions": {
+      ".txt": 1,
+      ".md": 1,
+      ".py": 7
+    }
+  },
+  {
+    "id": 381,
+    "name": "﻿industrial_cv_TensorRT_python﻿",
+    "path": "﻿industrial_cv_TensorRT_python﻿",
+    "status": "locked",
+    "classification": "docs-only",
+    "runnable": false,
+    "recommendation": "Read README.md for implementation guidance; this project likely needs porting.",
+    "has_readme": true,
+    "has_requirements": false,
+    "has_env": false,
+    "file_count": 1,
+    "extensions": {
+      ".md": 1
+    }
+  }
+]
